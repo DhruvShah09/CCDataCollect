@@ -1,0 +1,138 @@
+Buildings and Facilities Services
+- Building Services
+- Relocation/Moves
+- Construction and Projects
+- Telecommunications
+- Fleet Vehicles
+- Building Access
+- Mail/Shipping/Receiving
+Building Services
+Facilities is responsible for managing all of the building services listed below. Most services are provided through GT Facilities at no cost for spaces located at CCB and KACB, but some requests will require an individual department to provide peoplesoft account information. TSRB Services are provided by Gateway Management.
+For TSRB, custodial service is available 24 hours a day. If a custodian has not been by your office before you leave for the day, sit your wastebasket on the outside of your office door so they can empty it and replace the waste bag.
+HVAC (Heating, Ventilation and Air Conditioner)
+Room temperature adjustments
+Air flow adjustments
+ELECTRICAL -
+Power outlets
+Lighting issues
+Motion sensors
+Outages
+PLUMBING -
+Leaks
+Toilet/urinal issues
+Faucets
+Sinks
+Clogs
+Water fountains
+CUSTODIAL
+Cleaning issues
+Trash Removal
+Recycling
+Special Requests that requires payment.
+Relocation/Moves
+Office Moves
+FOM will assess requests for moves and relocations to determine requirements. Some office moves may be internal; others may require an external vendor where costs may be incurred.
+The requestor should send an email with all the required information listed. The requester should be a faculty member or Admin assistant to a faculty. We do not accept move requests from students or temps.
+Proposed date of the move (all moves should be planned at least 10 business days prior to the move date)
+Description of items to be moved
+Location: need the current location and move to location (office numbers affected/building location)
+Name and phone number of the person who will be coordinating the move
+Include any phone lines that need to be transferred (include names)
+An account number should be included in the email for payment purposes
+Special handling requirements
+The facility manager will email back a confirmation date after conferring with the technology department (TSO) if technology is involved.
+Please send requests to the respective building list:
+KACB: kacb-building@cc.gatech.edu
+TSRB: tsrb-building@cc.gatech.edu
+Coda: codabuilding@gatech.edu
+Construction and Projects
+FMO manages all renovation and construction projects. We work with Capital Planning & Space Management, GT Design & Construction, and College management for all renovations & new construction.
+Manage projects, budgets, communications
+Obtain quotes
+Unit covers all costs
+All renovation/construction requests are addressed by each building facility manager via the following building contacts:
+KACB: kacb-building@cc.gatech.edu
+TSRB: tsrb-building@cc.gatech.edu
+Coda: codabuilding@gatech.edu
+Procedures
+Email requests are received with the following information:
+Scope of work and justification
+Budget
+Accounting information
+Time Frame
+2. Facilities complete an internal project approval form that is circulated to the School Chair and College Leadership.
+3. Once approved, a project request form is submitted to GT Design and Construction
+The project is assigned to a project manager
+Scope is finalized with meetings or walk through.
+Design is implemented
+Cost estimates are
+Project plan, timelines are determined
+4. Upon project completion, walk through with requester, PM, and contractor.
+Telecommunications
+FOM is responsible for managing phone and fax lines for all CoC Faculty and Staff.
+Submit requests for voicemail resets, Caller ID activation, billing
+Expected turnaround time:2 Business Days
+Additional phone/fax lines requests, Phone lines not working, no dial tone, reset passwords for voicemail, line moves, adding calling features.
+Each department is responsible for providing their own handsets. Handsets can be purchased at Staples.
+Facilities will provide each office with a standard voice line that will include voicemail, continental US long distance, and caller id. Request that ask for additional services as described below will need to be paid for by the individuals department:
+Phone Handsets
+VOIP Lines
+International Long Distance
+Second phone lines
+Lab phone line install
+Etc
+Facilities can assist with the following requests as well in regards to Telecomm:
+Phone line moves
+Voicemail Reset
+Caller ID changes
+No dial tone
+Dropped Calls
+Call Forwarding
+Virtual Lines
+Fleet Vehicles
+CoC Golf Cart and Van
+FOM manages the College's fleet vehicles (Low Speed Vehicle, Cargo Van, 15 passenger Van)
+Vehicles are reserved through the Event Management System (EMS)
+Policies regarding driving.
+*On the day and hour of your request, you may retrieve the keys to either vehicle from the Mechanical Key Box located in the main CCB lobby, just before you enter the dean’s hallway. Upon return of the vehicle, please return the keys to the Mechanical Key box. For information on how to request access to the Mechanical Key box or instructions on how to operate the key box, please click here (link SAM Access page).
+Building Access
+The Georgia Tech Security Card Access System (SCAS) is a campus-wide system that allows people to use their BuzzCard to access various buildings on campus. SCAS is operated by the Georgia Tech Police Department. FOM works with the Technology Services Organization (TSO) to manage access to College of Computing (CoC) and Klaus Advanced Computing (KACB) buildings. TSO is responsible for setting the automatic door schedules for CCB and KACB (e.g. some door areas are automatically locked during evening and weekend hours). BuzzCard accessible doors will either have a magnetic stripe reader or a proximity reader attached to them.
+Based on your role within the CoC, you will be granted automatic default access (see Default Door Access table below) to certain door areas. A door area is a collection of one or more doors in a building. If you need door access to additional areas beyond your automatic allotment, you must seek sponsorship from a CoC faculty or staff member who, in turn, will request access from the steward of the door area. The door area steward will evaluate your request and authorize access if it is warranted.
+|ROLE||DESCRIPTION|
+|CoC Faculty||KACB exterior doors, KACB Kitchen, KACB Mail Room, CCB exterior doors, CCB classrooms, CCB Baird Lab, RIM Center, CCB CPL Lab, CCB Elevator 1st, 2nd and 3rd floors, CCB 2nd and 3rd floor stairwells, CCB Dean's hallway|
+|CoC Staff||KACB exterior doors, KACB Kitchen, KACB Mail Room, CCB exterior doors, RIM Center, CCB CPL Lab, CCB Elevator 1st, 2nd and 3rd floors, CCB 2nd and 3rd floor stairwells, CCB Dean's hallway|
+|CoC Graduate Students||KACB exterior doors, KACB Mail Room, CCB exterior doors, CCB Baird Lab, CCB Elevator 1st and 3rd floors, CCB 3rd floor stairwells|
+|CoC Undergraduate Students||KACB exterior doors, CCB exterior doors, CCB Baird Lab, CCB Elevator 1st and 3rd floors, CCB 3rd floor stairwells|
+|CoC Collaborator||CoC faculty or staff sponsor must request door access on their behalf|
+|Any graduate or undergraduate student taking a CoC class||KACB exterior doors, CCB exterior doors, CCB Elevator 1st and 3rd floors, CCB 3rd floor stairwells, CoC computer labs associated with the class|
+|ACB parking deck pedestrian access||The doors leading into the KACB parking deck are configured to accept all valid Georgia Tech BuzzCards, this includes access to the elevators to travel between levels of the parking deck and to the main lobby of KACB and the lobby of the instructional wing of KACB|
+|KACB ADA access||A list of people who fall under the ADA (Americans with Disabilities Act) is maintained at the camp us level and assigned by the GT Police Department's Security Card Access System|
+Door Area Stewards
+|BUILDING||DOOR AREA||STEWARD||STEWARD CONTACT INFO|
+|CCB||Academic/Instructional Computer Labs||TSO||Sponsor should send requests to doorcontrol@cc.gatech.edu|
+|CCB||RIM Center||Nina White||Sponsor should send requests to nwhite@cc.gatech.edu|
+|CCB||Interior and Exterior doors (except RIM Center)||TSO||Sponsor should send requests to doorcontrol@cc.gatech.edu|
+|KACB||Interior and Exterior Doors||Daron Foreman||Sponsor should send requests to kacb-building@cc.gatech.edu|
+|KACB||KACB parking deck||GT Parking Office||Parking is not controlled by CoC you must contact the Georgia Tech Parking and Transportation Department|
+|TSRB||Interior and Exterior doors||TSRB Building Manager||These doors are not managed by CoC, but by the TSRB Building Manager. CoC residents of TSRB must contact their department’s Administrative Assistant who will forward the requests to the TSRB Building Manager.|
+Mail/Shipping/Receiving
+Mail is delivered to the building two times a day Monday through Friday and is sorted once it arrives. The Mailroom is left unlocked during 8:00am - 4:00 pm.
+All Business related outgoing mail needs to have a Georgia Tech Department Mailing Form attached to it (http://www.business.gatech.edu/cont_web/mailForm1.php) - .
+There are several methods for sending outgoing mail including interoffice or campus mail. You can place outgoing mail in the flowing bins depending on the final location or recipient:
+- Klaus Bin – All mail that needs to go to a faculty or staff member that has an office in Klaus (No Postage Necessary).
+- TSRB Bin - All mail that needs to go to a faculty or staff member that has an office in TSRB (No Postage Necessary).
+- Outgoing Mail Bin – All mail that needs to sent to off campus recipients.
+- LENDS Box – Faculty may place books checked out through the LENDS program in this bin for return.
+Interoffice Mail is delivered once daily to TSRB by the Facility Student Assistants.
+Shipping and Receiving
+The CCB Facilities team has relocated to the basement of CCB in rooms 35B, 35C and 35D. We will manage all shipping and receiving functions for CCB and be the primary point of contact for all shipping providers such as UPS, FedEx, and Campus mail. Effective today, packages will be accepted and picked up in one central location, CCB room 33, during the hours of 9am-4pm. After 4pm, shipping providers will be instructed to deliver the following business day. Upon delivery, we will place smaller packages in the recipient’s mail slot and deliver larger packages directly to their office by the next business day. We will stock basic shipping supplies; however, users will still be required to manage the administrative responsibilities of preparing the package for shipping, which includes printing and completing shipping labels.
+Packages are checked periodically throughout the day and then delivered to the recipient’s office.
+Questions?
+CCB Building Contact
+building@cc.gatech.edu
+KACB Building Contact
+kacb-building@cc.gatech.edu
+TSRB Building Contact
+tsrb-building@cc.gatech.edu
+Coda Building Contact
+codabuilding@gatech.edu

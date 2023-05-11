@@ -1,0 +1,37 @@
+Ph.D. CS Human-Computer Interaction Body of Knowldege
+Note: This is the list for students in the computer science PhD program. HCC PhD students, please study the HCC qualifier reading list.
+The purpose of this document is to provide information to students preparing for the HCI Area Qualifier in the College of Computing. This body of knowledge document is fairly lengthy. It is not meant to intimidate, rather it is intended to give as much insight into what defines the fairly broad research agenda of HCI. It is also intended as advice on how to best prepare to become a mature researcher in HCI.
+Relevant Courses
+Students should take HCI-related graduate courses from our curriculum. All students should take:
+- CS 6750: Human-Computer Interaction
+This course is offered every semester. It is the fundamental introductory course to the area. Two textbooks are standard reading in this course:
+- Dix, A., J. Finlay, G. Abowd and R. Beale. (1997) Human-Computer Interaction, 2nd edition. Prentice-Hall International. 3rd edition due out in early 2004.
+- Norman, D.A. (1990) The Design of Everyday Things Doubleday.
+Students are also advised to consider taking the following course:
+- CS 6455: User Interface Design and Evaluation
+This course is usually offered during the Spring. Together, CS 6750 and 6455 constitute material in the core area of HCI and are represented in the Design Process and Theory section of the Qualifying Exam.
+Other, more focused upper-level courses listed below also may help students gain knowledge in particular subareas of HCI:
+- CS 6456: Principles of User Interface Software
+- CS 6470: Design of On-Line Communities
+- CS 7450: Information Visualization
+- CS 7460: Collaborative Computing
+- CS 7470: Mobile and Ubiquitous Computing
+While we do not require students to take any of these courses, it is expected that any student taking the HCI Qualifying Exam will be familiar with material in two of four specialization areas, described below. Much, but not all, of the material for a specialization area is covered in these courses, so students should at least be familiar with the readings for selected specialization areas.
+General Literature
+Students should supplement their understanding of fundamental HCI knowledge through familiarity with any comprehensive text in the field, such as Human-Computer Interaction, 2nd edition by Dix, Finlay, Abowd and Beale, Human-Computer Interaction by Preece, Rogers, Sharp, Benyon, Hollan and Carey or Designing the User Interface by Shneiderman.
+Students can gain knowledge that will be beneficial on the Qualifier Exam through familiarity with recent research papers in pertinent HCI-related academic conferences such as ACM-sponsored SIGCHI and UIST conferences. We encourage students to review recent proceedings of these conferences and to attend the conferences themselves when possible. For students doing research in a specialized area of HCI, such as CSCW, Information Visualization, Augmented Reality, Wearable Computing or Ubiquitous Computing, you should also be familiar with recent proceedings from specialized conferences. To facilitate familiarity with recent research publications in HCI, in some semesters we offer a weekly reading seminar for discussing papers with students and faculty. Students should regularly attend this seminar when it is offered.
+There are also several important general journals in this field, such as ACM Transactions on Computer-Human Interaction (ToCHI) the HCI Journal, and The International Journal of Human-Computer Studies, as well as more specialized journals for sub topics of HCI. As a general rule, a student at the qualifier level should know which of these archival resources to consult to explore any HCI-relevant topic for further information. This includes searching on-line resources, such as the ACM Digital Library, the IEEE Computer Society Digital Library and the HCI Bibliography.
+The HCI Qualifier: What are we looking for?
+Overall, we seek that students gain a deep understanding of the fundamental research paradigms and thrusts of our discipline. We seek thoughtful, thorough responses to questions on the exam that show a student is familiar with past related research, is able to analyze a problem and identify key issues therein, and is able to speculate on future directions. Being able to compare approaches, discuss advantages and disadvantages of tactics, and make critical judgments about the applicability of research methods is key to positive performance on the written exam. Being able to demonstrate that one's own initial research in the HCI area is informed by a deep understanding of the HCI research paradigm(s) is also important for the oral portion of the qualifier, as demonstrated by publishable quality work and a prepared presentation.
+Research Themes in HCI
+The Qualifying Exam is divided into two major section: Design Process and Theory and Special Topics. Students will be expected to answer questions in the Design Process and Theory portion of the exam. Students are also expected to select two Special Topics for which they will answer questions on the exam. Below is a further breakdown of these major sections, with links providing overviews and pointers for further reading.
+Design Process and Theory
+These topics permeate all research in HCI and, as a result are areas that should be well understood by all students preparing for the HCI Qualifier
+Special Topics
+These themes are important subsets of HCI research in the College of Computing. We expect each student preparing for the HCI Qualifier to be expert in at least one of these specialized areas.
+- Learning Science and Technology
+- User Interface Software and Technology
+- Computer Supported Cooperative Work (CSCW)
+- Information Visualization
+- Ubiquitous Computing
+Beyond the methods listed above to gain background knowledge of the discipline, we encourage students to form reading/discussion groups to help familiarize themselves with the research literature of HCI. Furthermore, we encourage students to become involved in the research groups and group meetings that are pertinent to their own personal research interests. This can help a student gain a deep understanding of a particular area, which is beneficial on the Qualifying Exam.

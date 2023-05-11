@@ -1,0 +1,5 @@
+Ph.D. Student
+https://gaurav22verma.github.io/
+Research Areas: Machine Learning; Natural Language Processing; Computational Social Science
+Biography
+I am a Ph.D. student in Computer Science at Georgia Tech where I am advised by Assistant Professor Srijan Kumar. I develop robust and trustworthy machine learning methods that can fuse information from different modalities to solve problems that impact safety, equity, and well-being on the Web. My research interests include multimodal machine learning, natural language processing, robust deep learning, and computational social science.

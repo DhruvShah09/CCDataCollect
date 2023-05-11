@@ -1,0 +1,10 @@
+Ph.D. CS Systems Body of Knowledge
+A student has to take two courses as specified below and get an A in both the courses.
+Required Course:
+CS 6210: Advanced Operating Systems
+One out of the following five courses:
+CS 6211: Cloud Computing
+CS 6235: Embedded real time systems
+CS 7210: Distributed systems
+CS 6675: Advanced Internet Computing Systems
+CS 8803 SMR: Systems for Machine Learning

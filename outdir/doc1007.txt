@@ -1,0 +1,116 @@
+Ph.D. CS Learning Sciences and Technology Body of Knowledge
+Note: this is the list for students in the computer science PhD program. HCC PhD students please study the HCC qualifier reading list.
+-
+Ames, Morgan G. 2018. Hackers, Computers, and Cooperation: A Critical History of Logo and Constructionist Learning. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 18 (November 2018), 19 pages. DOI: https://dl.acm.org/doi/10.1145/3274287
+-
+Barron, B. J. S., Schwartz, D. L., Vye, N. J., Moore, A., Petrosino, A., Zech, L., Bransford, J. D., & Vanderbilt, T. C. a. T. G. a. (1998). Doing with understanding: Lessons from research on problem- and project-based learning. Journal of the Learning Sciences, 7(3&4), 271-310.
+-
+Blumenfeld, P. C., Soloway, E., Marx, R. W., Krajcik, J. S., Guzdial, M., & Palincsar, A. (1991). Motivating project-based learning: Sustaining the doing, supporting the learning. Educational Psychologist, 26(3 & 4), 369-398.
+-
+Bransford et al (2000). How People Learn: Brain, Mind, Experience, and School; expanded edition.Washington, DC: National Academy Press. Please make sure to get the correct edition--other editions are quite different. Chapter 2, "How Experts Differ from Novices," and Chapter 3, "Learning and Transfer."
+-
+Brown, A. L. (1992). Design experiments: Theoretical and methodological challenges in creating complex interventions in classroom settings. Journal of the Learning Sciences, 2(2), 141-178.
+-
+Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. Educational Researcher, 18, 32-42.
+-
+Bruckman, Amy (1998). "Community Support for Constructionist Learning." Computer Supported Collaborative Work: The Journal of Collaborative Computing 7: 47-86.
+-
+Bruff, D.O., Fisher, D.H., McEwen, K.E., and Smith, B.E. (2013). Wrapping a MOOC: Student perceptions of an experiment in blended learning. Journal of Online Learning and Teaching, 9 (2), 187-199.
+-
+Chi, Michelene. "Quantifying Qualitative Analyses of Verbal Data: A Practial Guide." Journal of the Learning Sciences 6(3), 271-315
+-
+Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the craft of reading, writing, and mathematics. In L. B. Resnick (Ed.), Knowing, Learning, and Instruction: Essays in Honor of Robert Glaser (pp. 453-494). Hillsdale, NJ: Lawrence Erlbaum and Associates.
+-
+Derry, S. J., Pea, R. D., Barron, B., Engle, R. A., Erickson, F., Goldman, R., . . . Sherin, B. L. (2010). Conducting video research in the learning sciences: guidance on selection, technology, and ethics. Journal of the Learning Sciences, 19, 3-53.
+-
+Edelson, D., D.N. Gordin, R.D. Pea (1999) "Addressing the Challenges of Inquiry-Based Learning through Technology and Curriculum Design." Journal of the Learning Sciences. In press, and available from Mark or Allyana.
+-
+Geertz, Clifford (1973). "Thick Description: Towards an Interpretive Theory of Culture." In Interpretation of Cultures. USA: Basic Books.
+-
+Goel, A. & Joyner, D. A. (2016) An Experiment in Teaching Cognitive Systems Online. In Haynes, D. (Ed.) International Journal for Scholarship of Technology-Enhanced Learning 1(1).
+-
+Greeno, J. G., Collins, A. M., & Resnick, L. B. (1996).Cognition and learning.In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 15-46). New York, NY: Simon & Schuster Macmillan.
+-
+Gutierrez, K. D., & Rogoff, B. (2003). Cultural ways of learning: Individual traits or repertoires of practice. Educational Researcher, 32(5), 19-25.
+-
+Guzdial, M. (2004.) "Programming Environments for Novices." In Fincher, S. and Petre, M. (2004.) Computer Science Education Research. Taylor & Francis Group, plc, London, UK. pp. 127-154.
+-
+Guzdial, M., Ludovice, P., Realff, M., Morley, T., and Carroll, K. (2002). "When Collaboration Does't Work."
+-
+Hutchins, Edwin (1985). "How a Cockpit Remembers Its Speeds." Cognitive Science 19, 265-288.
+-
+Kohl, Herbert (1994). "I won't learn from you." New York: The New Press, pp. 1-32.
+-
+Kolodner, J. L. (1997). "Educational implications of analogy: A view from case-based reasoning." American Psychologist, 52, 57-66.
+-
+Kolodner, J. L., Owensby, J., & Guzdial, M. (2000). "Theory and Practice of Case-based Learning Aids." In D. Jonassen (Ed.), Theoretical Foundations of Learning Environments. Lawrence Erlbaum and Associates: Mahwah, New Jersey. 215-242.
+-
+Kolodner, Janet, Paul J. Camp, David Crismond, Barbara Fasse, Jackie Gray, Jennifer Holbrook, Sadhana Puntambekar, and Mike Ryan. (2003). "Problem-Based Learning Meets Case-Based Reasoning in the Middle School Science Classroom: Putting Learning by Design (TM) Into Practice," Journal of the Learning Sciences, 12(1).
+-
+Lave, J & Wenger (1991) Situated Learning: Legitamite Peripheral Participation, New York, NY: Cambridge University Press
+-
+McGee, E. O., & Martin, D. B. (2011). "You would not believe what I have to go through to prove my intellectual value." Stereotype management among academically successful black mathematics and engineering students. American Educational Research Journal, 48(6), 1347-1389.
+-
+Noss, R., & Hoyles, C. (1996). “A window on schools” and "Cultures and change." In Windows on mathematical meanings: Learning cultures and computers. Boston, MA: Kluwer Academic Publishers.
+-
+Papert, S. (1980). Mindstorms: Children, computers, and powerful ideas. New York, NY: Basic Books. (pages vi-54).
+-
+Papert, S. (1991). Situating constructionism. In I. Harel & S. Papert (Eds.), Constructionism : Research reports and essays, 1985-1990 (pp. 1-11). Norwood, N.J.: Ablex.
+-
+Quintana, Chris and Brian J. Reiser and Elizabeth A. Davis and Joseph Krajcik and Eric Fretz and Ravit Golan Duncan and Eleni Kyza and Daniel Edelson and Elliot Soloway. (2004.) "A Scaffolding Design Framework for Software to Support Science Inquiry" Journal of the Learning Sciences. 13(3). pp. 337-386.
+-
+Resnick, M. (1996). Beyond the centralized mindset. Journal of the Learning Sciences, 5(1), 1-22.
+-
+Resnick, M., Bruckman, A. and Martin, F (1996). “Pianos, Not Stereos: Creating Computational Construction Kits. Interactions 3:6, 40-50.
+-
+Resnick, Mitchel and Natalie Rusk. "The Computer Clubhouse: Preparing for Life in a Digital World." IBM Systems Journal, vol. 35, no. 3-4, pp. 431-440.
+-
+Roberts, Jessica, Amartya Banerjee, Annette Hong, Steven McGee, Michael Horn, and Matt Matcuk. 2018. Digital Exhibit Labels in Museums: Promoting Visitor Engagement with Cultural Artifacts. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 623, 12 pages.
+-
+Rogoff, B. (1994). Developing understanding of the idea of communities of learners. Mind, Culture, and Activity, 1(4), 209-229.
+-
+Roschelle, J. (1992). Learning by Collaborating: Convergent Conceptual Change. Journal of the Learning Sciences, 2(3), 235-276.
+-
+Scardamalia, M. (2002). "Collective cognitive responsibility for the advancement of knowledge." In B. Smith (Ed.) Liberal education in a knowledge society (pp. 67-98). Chicago: Open Court.
+-
+Schon, Donald (1987). "Educating the Reflective Practitioner." San Francisco: Jossey-Bass Publishers, pp. 100-156 (chapters 5 and 6).
+-
+Seidman, Irving (1991). "Interviewing as Qualitative Research." New York: Teacher's College Press.
+-
+Shaffer, D. W., & Resnick, M. (1999). "Thick" Authenticity: New Media and Authentic Learning. Journal of Interactive Learning Research, 10(2), 195-215.
+-
+Shapiro, B.R. (2019). Integrative Visualization: Exploring Data Collected in Collaborative Learning Contexts. In Proceedings of the 13th International Conference for Computer Supported Collaborative Learning. Lyon, France: International Society of the Learning Sciences.
+-
+Smith, J. P., diSessa, A. A., & Roschelle, J. (1993). Misconceptions reconceived: A constructivist analysis of knowledge in transition. Journal of the Learning Sciences, 3(2), 115-163.
+-
+Soloway, E., Guzdial, M., and Hay, K.E., 1994. Learner-Centered Design: The Challenge for Hci in the 21st Century. interactions 1, 2, 36-48.
+-
+Tabak, I., & Reiser, B. J. (1997). Complementary roles of software-based scaffolding and teacher-student interactions in inquiry learning. In R. Hall, N. Miyake, & N. Enyedy (Eds.), CSCL'97 Proceedings (pp. 289-298). Toronto: AACE.
+-
+Turkle, S., & Papert, S. (1991). Epistemological pluralism and the revaluation of the concrete. In I. Harel & S. Papert (Eds.), Constructionism (pp. 161-192). Norwood, NJ: Ablex.
+-
+Vossoughi, S., Hooper, P.K., and Escude, M. Making through the lens of culture and power: toward transformative visions for educational equity. Harvard Educational Review, 86(2), 206-232.
+Systems
+For the below systems, students are expected to know the software: By experience, from readings, and if possible, preferably both.
+These are the kinds of questions that we want you to be able to answer about these questions.
+- Who is the user/student audience?
+- What's the desired outcome from (and with) use of the software?
+- Why do this system? What were the related predecessor systems? How is this system different?
+- Were there unique technologies used here that weren't used previously?
+- What evidence do we have about use of the system? About learning with the system?
+- StarLogo
+- Moose Crossing
+- LBD/Smile
+- Model-It!
+- Symphony
+- My World
+- Genscope
+- Kidsim/Cocoa
+- KIE/WISE
+- CoWeb/Swiki
+- SimCalc
+- Knowledge Forum/CSILE
+- PAT (Pittsburgh Algebra Tutor)
+- Lisp and/or Geometry Tutors
+- Sickle Cell Counselor
+- Math Forum

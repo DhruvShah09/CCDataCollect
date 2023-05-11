@@ -1,0 +1,5 @@
+Senior Research Scientist
+http://www.cc.gatech.edu/~eisen/
+Research Areas: Systems, High Performance Computing, Enterprise Computing
+Biography
+Dr. Eisenhauer's research targets high-performance and ubiquitous applications. Specific topics include: online program monitoring, tuning and steering; dynamic program adaptation; performance evaluation; scientific computing; high performance communication systems; evolution in communicating applications; meta-data in communication; dynamic code generation; quality of service management in operating systems, networks, middleware and software tools. His research has been supported by NSF, DOE, DARPA and through industry grants.

@@ -1,0 +1,41 @@
+Career Guides
+Professional Development Organizations
+Joining professional development organizations as a student provides opportunities to expand your network while also increasing your knowledge about your industry. Develop leadership skills by joining committees or enhance your public speaking and communication skills through presenting presentations or sitting on a panel. Membership dues and conference fees vary, but most offer student discounts and scholarships so taking advantage of these resources now will benefit you later!
+- Association for Computing Machinery
+- Association for the Advancement of Artificial Intelligence
+- Computing Research Association
+- CRA Committee on Widening Participation in Computing Research (CRA-WP)
+- IEEE Computer Society
+- Society for Industrial and Applied Mathematics
+- International Game Development Association
+Conferences
+- Computing Conference
+- AIAP International Conference on Artificial Intelligence and Applications
+- CMD-IT ACM Richard Tapia Celebration of Diversity in Computing Conference
+- International Conference on Computational Science
+- Grace Hopper Celebration
+Self-Assessment
+Making career decisions is a challenging process that not only involves developing one’s skillset, but also time uncovering who you are, where you want to go, and why you want to be there. Self-assessment is a powerful tool that will provide you with insight on who you are. Visit your career advisor after using the resources below to understand how this can be applied to your overall career satisfaction.
+This site provides a “personality” (or preference) assessment that returns a 4-letter code similar to the Myers-Briggs Type Indicator. Users will answer questions and be provided with detailed free information about their type with the option to explore all 16 types.
+Helps individuals and organizations clarify their values and serve as a blueprint for effective decision-making and optimal functioning.
+All CoC undergraduates will take the Clifton Strengths assessment in CS 1100 and be introduced to your Signature Themes. Visit one of the Clifton Strengths certified coaches in the College of Computing to discuss how your strengths can impact your career journey & career decisions.
+Coaches: Christen Steele (https://www.cc.gatech.edu/people/christen-steele) and Troy Peace (https://www.cc.gatech.edu/people/troy-peace).
+Training and Development
+Stay on top of your own professional development by gaining additional knowledge and skills through free online trainings.
+This site makes MIT course content available. Review past lectures and supplemental materials on a variety of topics.
+Udacity partners with leading technology companies to provide education on critically needed technology skills. Their program catalog includes subjects such as Programming and Development, Artificial Intelligence, Cloud Computing, Data Science, and Business. Many courses are available for free.
+Coursera provides individual courses, certificates, and degrees from more than 200 universities and organizations, including Georgia Tech. They also provide opportunities for hands-on guided projects. When you’ve completed a program, you can add your certificate to your resume or LinkedIn profile.
+MicroMasters programs are a series of graduate level courses from top universities designed to advance your career. They provide deep learning in a specific career field and are recognized by employers for their real job relevance. Programs to consider: Data Science, Artificial Intelligence, Autonomous Automotive Technology, Digital Product Management, ioT, Cloud Computing, Cybersecurity, etc.
+Salary/Cost of Living
+These tools can help you assess the how your salary will affect your cost of living. This information comes in handy when heading to the negotiation table!
+- Smart Asset Paycheck Calculator
+- Payscale Salary and Negotiation Guide
+- Educate to Career Salary Evaluation
+- Money CNN Cost of Living Tool
+- Levels.fyi Salary Evaluation Tool
+News in Computing
+Stay current with what is new in the tech industry.
+Career Services Resources
+- Student Resources
+- Career Fair
+- Recruiter Information

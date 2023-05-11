@@ -1,0 +1,6 @@
+ADVANCE Professor of Computing, Adjunct Professor of Mathematics
+http://www.math.gatech.edu/~randall
+Research Areas: Theory, Randomized algorithms
+Biography
+Dr. Dana Randall is the Co-Executive Director of the Institute for Data Engineering and Science, is the ADVANCE Professor of Computing and is an Adjunct Professor of Mathematics at the Georgia Institute of Technology. Randall received her A.B. in mathematics from Harvard and her Ph.D. in computer science from the University of California at Berkeley. Her research in randomized algorithms and stochastic processes bridges computer science, discrete mathematics and statistical physics.
+She is a fellow of the American Mathematical Society (AMS) and a National Associate of the National Academies, as well as a former Sloan fellow and NSF Career award recipient. Dr. Randall has been the Program Chair for the SIAM Symposium on Discrete Algorithms in 2011 and the SIAM Conference on Discrete Mathematics in 2016 and was previously Director of the Algorithms and Randomness Center at Georgia Tech.

@@ -1,0 +1,55 @@
+Image
+Minor in Scientific Engineering and Computing
+The College of Computing offers a minor in Scientific Engineering and Computing for students in other disciplines who are looking to augment their major with computational and numerical knowledge.
+General Requirements:
+- Must be in good academic standing (Student is not on academic warning or probation; is maintaining satisfactory academic progress.)
+- CS 1301, CS 1315, or CS 1371 must be completed with an “A” or “B” before applying for the Minor in Scientific Engineering and Computing.
+- CS 1331 must be completed with an “A” or “B” before applying for the Minor in Scientific Engineering and Computing.
+- Mathematics through Differential Equations must be completed before applying for the Minor in Scientific Engineering and Computing.
+- Students must have a minimum of 48 credit hours remaining (not including minor prerequisites and required coursework) in your major degree requirements, as seat availability in CS classes is limited
+- All courses must be completed with a letter-grade of “C” or better.
+- 9 hours must be 3000/4000 level.
+- Course prerequisites are not a part of the minor; it is the student’s responsibility to account for all required prerequisites understanding that they are also subject to change.
+- No Special Problems or Internship coursework may be used towards any CS minor.
+- If the students’ major requires any of the minor courses listed below, the student should communicate with the minor advisor for course substitutions.
+- Computational Media, Computer Engineering (catalog year 2021-2022 and later), and Computer Science majors cannot minor in Scientific Engineering and Computing.
+Required Courses:
+- CX 4010 Computational Problem Solving for Scientists and Engineers, 3
+- Pick 1 from Introduction to Parallel Computing* (below):
+- CX 4220 Intro to High Performance Computing, 3
+- CX/MATH 4777 Parallel and Vector Scientific Computing, 3
+* ECE students should take both CX 4220 & CX/MATH 4777 rather than CX 4010
+- Pick 1 from Numerical Methods* (below):
+- AE 3090 Numerical Methods for AE, 3
+- ChBE 2120 Chemical Engineering Numerical Methods, 3
+- CX/MATH 4640 Numerical Analysis I, 3
+- ME 2016 Computing Techniques, 3
+- MSE 3025 Stats & Numerical Methods, 3
+* ECE students are restricted to taking AE 3090, CX/MATH 4640, or MSE 3025
+- Pick 2 from Scientific and Engineering Electives (below):
+- AE 4040 Computational Fluid Dynamics, 3
+- AE 4131 Intro Finite Element Methods, 3
+- BMED/ECE 4783 Intro Medical Image Processing, 3
+- CX 4140 Computational Modeling Algorithms, 3
+- CX 4220 Intro to High Performance Computing, 3
+- CX 4230 Modeling and Computer Simulation, 3
+- CX 4240 Introduction to Computing for Data Analysis, 3
+- CX/MATH 4641 Numerical Analysis II, 3
+- CX/MATH 4777 Parallel and Vector Scientific Computing, 3
+- CS 4710 CS for Bioinformatics, 3
+- ECE 4122 Advanced Programming Techniques for Engineering Apps, 3
+- ECE 4580 Computational Computer Vision, 3
+- ECE 4823 Computational Methods in Electrical Engineering, 3
+- MATH 4261 Mathematical Statistics I, 3
+- MATH 4305 Topics in Linear Algebra, 3
+- MATH 4581 Classical Mathematical Methods in Engineering, 3
+- ME 4342 Computational Fluid Dynamics, 3
+- NRE 4234 Nuclear Criticality Safety Engineering, 3
+- PHYS 3266 Computational Physics, 3
+Total hours to receive minor: 15 hours
+For Phase I & II registration information, please visit our Registration Information page.
+All courses are not consistently offered. See http://www.cc.gatech.edu/three-year-course-outline.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

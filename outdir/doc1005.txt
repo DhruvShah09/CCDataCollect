@@ -1,0 +1,20 @@
+Ph.D. CS Information Security Body of Knowledge
+A student has to take one course from each of the following three categories and get at least two A's and one B in the three courses.
+Cryptography:
+- CS 6260 - Applied Cryptography
+- CS8803-BC - Blockchain & Cryptocurrencies
+- CS8803-SMC - Secure Multiparty Computation
+- CS8803-SCP - Secure Communication Protocols
+Systems:
+- CS 6238 - Secure Computer Systems
+- CS 8803-COD - Cybersecurity of Drones
+- CS 6263 Intro to Cyber-Physical Systems Security
+- CS 8803-ESC - Exploiting Smart Contract/DeFi
+- CS 6747 - Advanced Malware Analysis
+- CS 6265 - Information Security Lab: Binary Exploitation
+Networking:
+- CS 6262 - Network Security
+- CS 8803-EMS - Advanced Network Security and Measurement
+- CS 8803-ECS - Empirical Computer Security
+- CS 8803-SII - Securing Internet Infrastructure
+- CS 6264 - System and Network Defenses Lab

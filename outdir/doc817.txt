@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~sha9
+Research Areas: Computer Graphics, Robotics, Machine Learning
+Biography
+Sehoon Ha is currently an assistant professor at Georgia Institute of Technology. Before joining Georgia Tech, he was a research scientist at Google and Disney Research Pittsburgh. He received his Ph.D. degree in Computer Science from the Georgia Institute of Technology. His research interests lie at the intersection between computer graphics and robotics, including physics-based animation, deep reinforcement learning, and computational robot design. His work has been published at top-tier venues including ACM Transactions on Graphics, IEEE Transactions on Robotics, and International Journal of Robotics Research, nominated as the best conference paper (Top 3) in Robotics: Science and Systems, and featured in the popular media press such as IEEE Spectrum, MIT Technology Review, PBS News Hours, and Wired.

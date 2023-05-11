@@ -1,0 +1,5 @@
+Assitant Professor
+https://www.cc.gatech.edu/~ssingla7/
+Research Areas: Algorithms and Uncertainty; Online Algorithms; Algorithmic Game Theory; Learning Theory
+Biography
+Sahil Singla is an Assistant Professor in the School of Computer Science at Georgia Tech. Before moving to Atlanta, he was a Research Instructor (postdoc) jointly between Princeton University and Institute for Advanced Study. He received his Ph.D. in Computer Science from Carnegie Mellon University in 2018, where he was advised by Anupam Gupta and Manuel Blum. His research is in Algorithms and Uncertainty where the goal is to design optimal algorithms for uncertain inputs by studying different forms of uncertainty together.

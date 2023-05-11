@@ -1,0 +1,26 @@
+Minor in Computing & Theory
+Minor in Computing & Theory
+General Requirements:
+- Must be in good academic standing (Student is not on academic warning or probation; is maintaining satisfactory academic progress.)
+- CS 1301, CS 1315, or CS 1371 must be completed with an “A” or “B” before applying for the Minor in Computing & Theory
+- CS 1331 must be completed with an “A” or “B” before applying for the Minor in Computing & Theory
+- Students must have a minimum of 48 credit hours remaining (not including minor prerequisites and required coursework) in your major degree requirements, as seat availability in CS classes is limited
+- Only CS courses are included in the minor
+- All courses must be completed with a letter-grade of “C” or better
+- 9 hours must be 3000/4000 level
+- Course prerequisites are not a part of the minor; it is the student’s responsibility to account for all required prerequisites understanding that they are also subject to change
+- No Special Problems or Internship coursework may be used towards any CS minor
+- Computational Media, Computer Engineering (catalog year 2021-2022 and later), Computer Science, and Mathematics majors cannot minor in Computing & Theory
+Required Courses:
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050/2051 Introduction to Discrete Math for CS, 3
+- CS 3510/3511 Design and Analysis of Algorithms, 3
+- CS 4510 Automata and Complexity Theory, 3
+- CS 4540 Advanced Algorithms, 3
+Total hours to receive minor: 15 hours
+For Phase I & II registration information, please visit our Registration Information page.
+All courses are not consistently offered. See http://www.cc.gatech.edu/three-year-course-outline.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

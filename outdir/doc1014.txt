@@ -1,0 +1,125 @@
+Ph.D. CS Social Computing Body of Knowledge
+Note: this is the list for students in the computer science PhD program. HCC PhD students please study the HCC qualifier reading list.
+|
+|
+Mathematical foundations
+|
+|
+Adamic, L. (2000). Zipf, Power-laws, and Pareto - a ranking tutorial. HP Labs Technical Report.
+|
+|
+Barabasi, A. and Albert, R. (1999). Emergence of Scaling in Random Networks. Science, 286(5439):509-512
+|
+|
+Jackson, M. (2008). Social and Economic Networks. Chapters 1-4. Princeton University Press.
+|
+|
+Sociological foundations
+|
+|
+Granovetter, M. (1973). The Strength of Weak Ties. American Journal of Sociology. 78(6):1360-1380
+|
+|
+Burt, R. (2004). Structural Holes and Good Ideas. American Journal of Sociology, 110(2).
+|
+|
+Heider, F. (1946). Attitudes and Cognitive Organization. The Journal of Psychology. 21(1):107-112
+|
+|
+Travers, J. and Milgram, S. An Experimental Study of the Small World Problem. Sociometry, 32(4): 425-443.
+|
+|
+Ostrom, E. (2015). Governing the Commons. Cambridge University Press. [Only pages 1-7; 29-57; 82-102]
+|
+|
+Social computing theories
+|
+|
+Benkler, Y. (2002). Coase's Penguin,or Linux and the Nature of the Firm. Yale Law Journal 112:369
+|
+|
+Donath, J. (1999). Identity and Deception in the Virtual Community. In M. A. Smith & P. Kollock (Eds.), Communities in Cyberspace (pp. 29-59). New York: Routledge.
+|
+|
+Grudin, Jonathan. (1988). Why CSCW applications fail: problems in the design and evaluation of organizational interfaces. In Proc. CSCW, 1988
+|
+|
+Raymond, E. S. (2001). The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary (Revised ed.). Sebastopol, CA: O’Reilly & Associates.
+|
+|
+Oldenburg, R. (1999). The Great Good Place: Cafes, Coffee Shops, Bookstores, Bars, Hair Salons, and Other Hangouts at the Heart of a Community. Chapters 1 and 2. New York: Marlowe & Company.
+|
+|
+Hampton, K. N. (2016). Persistent and pervasive community: New communication technologies and the future of community. American Behavioral Scientist, 60(1), 101-124.
+|
+|
+Olson, G. M., & Olson, J. S. (2000). Distance matters. Human-computer interaction, 15(2), 139-178.
+|
+|
+Bruckman, Amy (2022). "Should You Believe Wikipedia?" (just the title chapter)
+|
+|
+Design of Social Computing Systems
+|
+|
+Burton, et al. (2012). Crowdsourcing subjective fashion advice using VizWiz: challenges and opportunities. Proc. ASSETS.
+|
+|
+Konstan, J. and Riedl, J. (2012). Recommender systems: from algorithms to user experience. User Modeling and User Adapted Interaction. (22) 101-123.
+|
+|
+Valentine, Melissa A., Daniela Retelny, Alexandra To, Negar Rahmati, Tulsee Doshi, and Michael S. Bernstein. "Flash organizations: Crowdsourcing complex work by structuring crowds as organizations." In Proceedings of the 2017 CHI conference on human factors in computing systems, pp. 3523-3537. 2017.
+|
+|
+Methods
+|
+|
+Kramer, A. D., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. . Proceedings of the National Academy of Sciences, 111(24), 8788-8790.
+|
+|
+Hofman, J. M., Sharma, A., & Watts, D. J. (2017). Prediction and explanation in social systems. Science, 355(6324), 486-488.
+|
+|
+Lazer, David MJ, Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon et al. "Computational social science: Obstacles and opportunities." Science 369, no. 6507 (2020): 1060-1062.
+|
+|
+Online Social Networks
+|
+|
+Gilbert, Eric and Karahalios, Karrie. 2009. Predicting tie strength with social media. In Proc. CHI.
+|
+|
+Bakshy, E., Hofman, J. M., Mason, W. A., & Watts, D. J. (2011). Everyone's an influencer: quantifying influence on twitter. In Proceedings of the fourth ACM international conference on Web search and data mining (pp. 65-74). ACM.
+|
+|
+Chang, Serina, Emma Pierson, Pang Wei Koh, Jaline Gerardin, Beth Redbird, David Grusky, and Jure Leskovec. "Mobility network models of COVID-19 explain inequities and inform reopening." Nature 589, no. 7840 (2021): 82-87.
+|
+|
+Language
+|
+|
+Danescu-Niculescu-Mizil, C., Gamon, M., & Dumais, S. (2011). Mark my words!: linguistic style accommodation in social media. In Proceedings of the 20th international conference on World wide web (pp. 745-754).
+|
+|
+De Choudhury, M., Kiciman, E., Dredze, M., Coppersmith, G., & Kumar, M. (2016). Discovering shifts to suicidal ideation from mental health content in social media. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 2098-2110). ACM
+|
+|
+ElSherief, Mai, Caleb Ziems, David Muchlinski, Vaishnavi Anupindi, Jordyn Seybolt, Munmun De Choudhury, and Diyi Yang. "Latent hatred: A benchmark for understanding implicit hate speech." EMNLP 2021.
+|
+|
+Stewart, Ian, Diyi Yang, and Jacob Eisenstein. "Characterizing collective attention via descriptor context: A case study of public discussions of crisis events." In Proceedings of the International AAAI Conference on Web and Social Media, vol. 14, pp. 650-660. 2020.
+|
+|
+Studies of Social Computing Systems
+|
+|
+Bryant, S, Forte, A, and Bruckman, A (2005). Becoming Wikipedian: Transformation of Participation in a Collaborative Online Encyclopedia. In Proc. GROUP.
+|
+|
+Ling, K., Beenen, G., Ludford, P., Wang, X., Chang, K., Li, X., Cosley, D., Frankowski, D., Terveen, L., Rashid, A.M., and Resnick, P. (2005). Using social psychology to motivate contributions to online communities. Journal of Computer‐Mediated Communication, 10(4), 00-00.
+|
+|
+Burke, M., Kraut, R., & Marlow, C. (2011). Social capital on Facebook: Differentiating uses and users. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 571-580). ACM.
+|
+|
+Das, S., & Kramer, A. D. (2013). Self-Censorship on Facebook. In Proceedings of ICWSM.

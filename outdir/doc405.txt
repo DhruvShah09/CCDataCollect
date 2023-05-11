@@ -1,0 +1,5 @@
+Professor, Associate Chair
+http://www.cc.gatech.edu/~echow
+Research Areas: Scientific computing; high-performance computing; numerical methods
+Biography
+Edmond Chow is a Professor in the School of Computational Science in the College of Computing. He previously held positions at D. E. Shaw Research and Lawrence Livermore National Laboratory. His research interests are in numerical methods, particularly numerical linear algebra, for high-performance computers applied to scientific computing and data science problems, including for PDE models, quantum chemistry, molecular dynamics, Brownian/Stokesian dynamics, inverse problems, data assimilation, uncertainty quantification, Gaussian processes, and machine learning. Dr. Chow was awarded the 2009 ACM Gordon Bell prize and the 2002 Presidential Early Career Award for Scientists and Engineers (PECASE). He is a Fellow of the Society for Industrial and Applied Mathematics (SIAM).

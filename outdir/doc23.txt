@@ -1,0 +1,18 @@
+B.S. in Computational Media Objectives and Outcomes
+Program Objectives:
+- Participate in the design and implementation of compelling digital artifacts for business, education, the public sector and entertainment.
+- Contribute to the development of new genres and forms of media based on a knowledge of the cultural significance as well as the computational affordances of digital media
+- Have the flexibility to adapt to ongoing changes in the field of digital media over their careers
+- Have the communications skills necessary to present information clearly, logically, and correctly.
+Student Outcomes
+1. Analyze a complex computing problem and to apply principles of computing and
+other relevant disciplines to identify solutions
+2. Design, implement, and evaluate a computing-based solution to meet a given set
+of computing requirements in the context of the program’s discipline
+3. Communicate effectively in variety in a variety of professional contexts
+4. Recognize professional responsibilities and make informed judgements in
+computing practice based on legal and ethical principles
+5. Function effectively as a member or leader of a team engaged in activities
+appropriate to the program’s discipline
+6. Demonstrate understanding of the historical and cultural dimensions of digital
+media.

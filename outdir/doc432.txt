@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Data visualization, human-computer interaction, machine learning
+Biography
+I research how to enable machine learning interpretability at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas. At Georgia Tech I work with Polo Chau and Alex Endert as a member of the Polo Club of Data Science. I have collaborated with designers, developers, and scientists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab. My research is supported by a NASA Space Technology Research Fellowship.
+Advisors: Polo Chau, Alex Endert

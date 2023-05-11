@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Machine Learning; natural language processing
+Biography
+Advisor: Chao Zhang
+I am a Ph.D student in School of Computational Science and Engineering at Georgia Institute of Technology. My research spans across machine learning, natural language processing and data mining. I am particularly interested in making trustworthy intelligent system in open-world settings. Toward this goal, I am currently working on the following research topics: (1) Uncertainty quantification and out-of-distribution detection in deep learning, (2) Out-of-distribution generalization and zero shot learning and (3) Application of uncertainty-aware deep learning in natural language processing.

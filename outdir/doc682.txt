@@ -1,0 +1,4 @@
+Ph.D. Student
+Research Areas: Graph Neural Networks; Machine Learning; High-Performance Computing
+Biography
+I am a Ph.D. student in Computer Science at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on new sampling methods to train Graph Neural Networks and methods that can further speed up GNN training.

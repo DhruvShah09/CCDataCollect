@@ -1,0 +1,8 @@
+Assistant Professor
+https://sites.google.com/site/anqiwuresearch
+Research Areas: machine learning, computational neuroscience
+Biography
+My research interest is to develop scientifically-motivated probabilistic modeling approaches for neural and behavior analyses, and scalable and efficient inference algorithms to fit the models. Specifically, my lab focuses on:
+(i) Probabilistic modeling for neural latent discovery: We are interested in developing disentangled generative latent variable models to mine interpretable latent representations from neural populations. The modeling topics would involve various deep generative models, such as variational auto encoder, (deep) Gaussian process, Bayesian neural net, etc.
+(ii) Behavior analysis and understanding: We aim at extracting multi-layer information from animal behaviors and allows neuro-behavior analysis for both motor functions and cognitive functions. The research direction will involve projects such as 3D full-body kinematic model estimation, developing hierarchical spatial and temporal models for animal behavior syllables, studying intrinsic motives and reward representations of animals via (inverse) reinforcement learning, etc.
+(iii) Probabilistic modeling and efficient inference approaches for: Bayesian (convolutional) neural net, deep Gaussian process, Bayesian active learning and deep generative models, etc.

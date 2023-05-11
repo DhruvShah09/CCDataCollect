@@ -1,0 +1,4 @@
+Ph.D. Student
+Research Areas: Natural Language Processing, Machine Learning, Knowledge Graphs, Biomedicine
+Biography
+I research natural language processing methods for extracting and synthesizing information from biomedical text to power applications in drug discovery and personalized medicine. My research at Georgia Tech focuses on weakly supervised and semi-supervised learning for text mining with very limited labeled data. I currently work with Cassie Mitchell in the Laboratory for Pathology Dynamics. I previsouly completed a MS in Mathematics from Brigham Young University advised by Jeff Humpherys.I have collaborated with scientists, developers, clinicians, and epidemiologists while working at Enveda Biosciences, GlaxoSmithKline, Recursion Pharmaceuticals, and Intermountain Healthcare.

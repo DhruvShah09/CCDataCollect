@@ -1,0 +1,13 @@
+GT Computing 2019 in Review
+Student entrepreneurial startups, the critical need for 'human rights' in AI, new summer camp sessions, and a new dean are just a few of the top stories from the GT Computing community in 2019.
+These stories and others published by the college this year are part of a new data visualization created by the college's communications team. GT Computing 2019 in Review is an interactive guide to exploring the year's most-read stories about student, alumni, faculty, and staff accomplishments and achievements.
+Based on web traffic, clickable headlines in the data viz reveal a publication date, the number of page views, an overall ranking, and a link for each of the year's top stories. The viz features the top five stories for each month and can also be sorted by category. These include:
+- Alumni
+- College
+- Entrepreneurship
+- Faculty
+- OMSCS
+- Research
+- Students
+Be sure to explore the GT Computing 2019 in Review data viz.
+2020 promises to be even busier than 2019. If you have a story idea or if you would like to submit a story for publication, please email albert.snedeker@cc.gatech.edu.

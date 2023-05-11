@@ -1,0 +1,7 @@
+Professor of the Practice Emeritus
+https://www.linkedin.com/in/mbraunstein/
+Research Areas: Digital Health
+Biography
+Dr. Braunstein developed Georgia Tech’s first health informatics courses — a graduate seminar offered on campus, an OMSCS elective and an undergraduate VIP project course. In all three courses, students work under the mentorship of domain experts to develop Fast Healthcare Interoperability Resources (FHIR) based apps for providers, patients, public health and other FHIR use cases. He also developed the first two public health informatics Massive Open Online Courses (MOOCs) and a three-course health informatics professional certificate on edX.
+In 2018 and 2019, he developed a similar course at the University of Queensland (UQ) as a Visiting Scientist at the Australian E-Health Research Centre (AEHRC), the health informatics laboratory within CSIRO, the Australian national research organization. He returned to Australia as a Visiting Scientist in 2022 and has also been working with AEHRC and UQ on an innovative, informatics-based approach to Case Based Learning in medical education.
+He is a frequent speaker at academic and industry meetings. The second edition of his textbook, Health Informatics on FHIR: How HL7’s API is Transforming Healthcare, was published by Springer in 2022 and is the first book devoted to the current and future impact of FHIR on healthcare in the US and worldwide.

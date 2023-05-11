@@ -1,0 +1,4 @@
+Adjunct Senior Research Scientist
+http://www-static.cc.gatech.edu/fac/Spencer.Rugaber/Spencer.Rugaber.html
+Biography
+Dr. Spencer Rugaber is a faculty member in the College of Computing at the Georgia Institute of Technology. His research interests are in the area of Software Engineering, specifically reverse engineering and program comprehension, software evolution and maintenance and software design. Dr. Rugaber has served as Program Director for the Software Engineering and Languages Program at the U. S. National Science Foundation and as as Vice-Chairman of the IEEE Technical Committee on Reverse Engineering.

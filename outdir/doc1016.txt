@@ -1,0 +1,5 @@
+Ph.D. CS Theory Body of Knowledge
+A student has to take three courses as specified below and get at least two A's and one B in these three courses.
+CS 6520: Computational Complexity OR CS 7545: Machine Learning Theory
+CS 6550: Design and Analysis of Algorithms
+Math 7018: Probabilistic Methods in Combinatorics

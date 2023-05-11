@@ -1,0 +1,8 @@
+Professor
+http://www.cc.gatech.edu/~rehg
+Research Areas: Computer Vision, Computer Graphics, Machine Learning, Robotics, and Distributed Computing
+Biography
+Dr. Rehg's research interests include computer vision, computer graphics, machine learning, robotics, and distributed computing. He co-directs the Computational Perception Laboratory (CPL) and is affiliated with the GVU Center, Aware Home
+Research Institute, and the Center for Experimental Research in Computer Science. In past years he has taught "Computer Vision" (CS 4495/7495) and "Introduction to Probabilistic Graphical Models" (CS 8803). He is currently teaching "Pattern Recognition" (CS 4803) and "Computer Graphics" (CS 4451).
+Dr. Rehg received the 2005 Raytheon Faculty Fellowship Award from the College of Computing. His paper with Ph.D. student Yushi Jing and collaborator Vladimir Pavlovic was the recipient of a Distinguished Student Paper Award at the 2005 International Conference on Machine Learning. Dr. Rehg currently serves on the Editorial Board of the International Journal of Computer Vision. He was the Short Courses Chair for the International Conference on Computer Vision (ICCV) in 2005 and the Workshops Chair for ICCV 2003.
+Dr. Rehg consults for several companies and has served as an expert witness. His research is funded by the NSF, DARPA, Intel Research, Microsoft Research, and the Mitsubishi Electric Research Laboratories.

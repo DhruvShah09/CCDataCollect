@@ -1,0 +1,5 @@
+Associate Professor
+https://www.cc.gatech.edu/~jabernethy9/
+Research Areas: Machine Learning
+Biography
+I like to think about the mathematics behind Machine Learning and Game Theory, and I especially like discovering connections to Optimization, Statistics, and Economics.

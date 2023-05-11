@@ -1,0 +1,355 @@
+College of Computing Faculty Distinctions
+To provide updates, please complete this online survey.
+College of Computing Faculty Distinctions
+- Honors
+- Professional Society Fellows
+- Professional Society Awards
+- Charitable Foundation Fellows
+- U.S. Government Awards
+- Corporate Research Awards
+- Georgia Tech Awards
+- Georgia Tech Distinctions
+- Endowed Chairs
+- Recognitions
+Honors
+National Academy of Engineering Members
+- James Foley (2008)
+- Zvi Galil (2004)
+- Richard Lipton (1999)
+American Academy of Arts & Sciences Fellows
+- Richard Lipton (2014)
+- Zvi Galil (2005)
+National Associate of the National Academies
+- Dana Randall (2008)
+Professional Society Fellows
+AAAS Fellows
+- David Sherrill (2014)
+- Srinivas Aluru (2010)
+American Association for the Advancement of Science Fellows
+- Srinivas Aluru
+- Richard DeMillo
+- James Foley
+- Peter Freeman
+- Nancy Nersessian
+- Calton Pu
+- David Sherrill
+- Vladimir Slamecka
+American Chemical Society Fellows
+- David Sherrill (2011)
+ACM Fellows
+- Srinivas Aluru (2020)
+- Haesun Park (2020)
+- Richard Fujimoto (2017)
+- Wenke Lee (2018)
+- Santosh Vempala (2016)
+- Sham Navathe (2014)
+- Ellen Zegura (2013)
+- Mostafa Ammar (2003)
+- Richard DeMillo (2003)
+- Mary Jean Harrold (2003)
+- Peter Freeman (2000)
+- James Foley (1999)
+- Richard Lipton (1997)
+- Zvi Galil (1995)
+American Mathematical Society Fellow
+- Santosh Vempala (2021)
+- Dana Randall (2012)
+American Physical Society Fellow
+- David Sherrill (2010)
+Eurographics Fellow
+- Jarek Rossignac (2000)
+IEEE Fellows
+- Richard Fujimoto (2019)
+- Haesun Park (2017)
+- Calton Pu (2016)
+- Ümit V. Çatalyürek (2015)
+- Ling Liu (2014)
+- David Sherrill (2014)
+- Kishore Ramachandran (2013)
+- John Stasko (2013)
+- Irfan Essa (2012)
+- Mary Jean Harrold (2011)
+- Ellen Zegura (2011)
+- Srinivas Aluru (2010)
+- Thomas Conte (2005)
+- Ronald Arkin (2003)
+- Mostafa Ammar (2001)
+- Peter Freeman (1997)
+- James Foley (1986)
+I/ITSEC Fellows
+- Richard Fujimoto (2019)
+ISCB Fellows
+- Mark Borodovsky (2020)
+Non-Resident Fellow, Center for Democracy and Technology
+- Annie Antón (2009)
+SIAM Fellow
+- Edmond Chow (2021)
+- Srinivas Aluru (2020)
+- Ümit Çatalyürek (2020)
+- Haesun Park (2013)
+- Prasad Tetali (2009)
+Professional Society Awards
+ACM/CHI Award (CHI Academy)
+- Amy Bruckman (2018)
+- Thad Starner (2017)
+- John Stasko (2016)
+- Keith Edwards (2014)
+- Rebecca Grinter (2013)
+- Elizabeth Mynatt (2009)
+- James Foley (2001)
+ACM Gordon Bell Prize
+- Toby Isaac (2015)
+- Rich Vuduc (2010)
+- Edmond Chow (2009)
+ACM/SIGGRAPH Computer Graphics Achievement Award
+- Greg Turk (2012)
+ACM/SIGGRAPH Coons Lifetime Achievement Award
+- James Foley (1997)
+ACM/SIGCHI Lifetime Achievement Award
+- James Foley (2007)
+ACM/SIGACT Donald E. Knuth Prize
+- Richard Lipton (2014)
+ACM SIGSIM Distinguished Contribution in Simulation Award
+- Richard Fujimoto (2013)
+Award of Excellence (Systems Research Foundation)
+- Vladimir Slamecka (1986)
+Edison Award, Productivity
+- Larry Sweet (2013)
+IEEE AI's 10 to Watch
+- B. Aditya Prakash (2017)
+IEEE VGTC Visualization Technical Achievement Award
+- John Stasko (2012)
+John V. Atanasoff Discovery Award
+- Srinivas Aluru (2017)
+Lilian Gilbreath Lectureship from the National Academy of Engineers
+- Melody Jackson (2004)
+Manufacturing Leadership Council, Supply Chain Excellence Highest Achiever
+- Larry Sweet (2015)
+Richard A. Tapia Achievement Award for Scientific Scholarship, Civic Science and Diversifying Computing
+- Peter Freeman (2007)
+R&D 100 Award
+- Larry Sweet
+SEG Reginald Fessenden Award
+- Felix Herrmann (2020)
+Solid Modeling Association Bézier Award
+- Jarek Rossignac (2014)
+SIAM Early Career Travel Award
+- B. Aditya Prakash (2015)
+SIAM SDM/IBM Early Career Data Mining Research Award
+- Jimeng Sun (2017)
+SIAM/Supercomputing Early Career Prize
+- Toby Isaac (2016)
+Technology Review TR35 Award (includes prior TR100 winners)
+- Amy Bruckman (1999)
+- Thad Starner (1999)
+Charitable Foundation Fellows
+Fulbright Fellows
+- Norberto Ezquerra
+- Nancy Nersessian
+Guggenheim Fellows
+- Larry Sweet
+- Richard Lipton
+- Santosh Vempala (2005)
+Kolon Faculty Fellow
+- Le Song (2020)
+Miller Institute for Basic Science Research Fellow
+- Santosh Vempala (1998)
+National Endowment for the Humanities (NEH) Fellow
+- Nancy Nersessian (2005)
+Sloan Fellows
+- James Hays (2015)
+- Chris Peikert (2011)
+- Karen Liu (2010)
+- Nick Feamster (2008)
+- Adam Kalai (2008)
+- Subhash Khot (2006)
+- Dana Randall (2003)
+- Santosh Vempala (2002)
+- Elizabeth Mynatt (2001)
+- Dana Randall (2001)
+Swarnajayanti Fellowship
+- Srinivas Aluru (2007)
+Vannevar Bush Faculty Fellow
+- Surya Kalidindi (2018)
+U.S. Government Awards
+DARPA Computer Science Study Group
+- Rich Vuduc (2009)
+- Charles Isbell (2006)
+DARPA Young Faculty Award
+- Mark Riedl (2011)
+FIRST (First Independent Research Support Transition Award) National Library of Medicine
+- Norberto Ezquerra (1987)
+NSF Presidential Young Investigator Award
+- Kishore Ramachandran (1990)
+- Chris Atkeson (1988)
+NSF National Young Investigator Award
+- Mary Jean Harrold
+- Jessica Hodgins
+NSF CAREER Award
+- B. Aditya Prakash (2018)
+- Jacob Eisenstein (2015)
+- Le Song (2014)
+- Mark Riedl (2013)
+- Sonia Chernova (2012)
+- James Hays (2012)
+- Rich Vuduc (2010)
+- Alexander Gray (2009)
+- Adam Kalai (2008)
+- Ümit V. Çatalyürek (2007)
+- Subhash Khot (2007)
+- Guy Lebanon (2007)
+- Gabriel Loh (2007)
+- Sasha Boldyreva (2006)
+- Charles Isbell (2006)
+- Bruce Walker (2006)
+- Frank Dellaert (2005)
+- Milos Prvulovic (2005)
+- Tucker Balch (2004)
+- Blair MacIntyre (2004)
+- Yannis Smaragdakis (2003)
+- Jim Xu (2003)
+- Sauguata Basu (2002)
+- Wenke Lee (2002)
+- Jim Rehg (2002)
+- Thad Starner (2001)
+- David Sherrill (2001)
+- Irfan Essa (2000)
+- Amy Bruckman (1999)
+- Ken Mackenzie (1999)
+- Leonard Schulman (1999)
+- Santosh Vempala (1999)
+- Srinivas Aluru (1997)
+- Ann Chervenak (1997)
+- Dana Randall (1997)
+- Greg Turk (1997)
+- Thomas Conte (1996
+- Raja Das (1996)
+- Ellen Zegura (1995)
+NSF Research Initiation (RIA) Award
+- Santosh Pande (1995)
+- Thomas Conte (1994)
+- Ashok Goel (1992)
+- Mary Jean Harrold (1991)
+- John Stasko (1991)
+- Kishore Ramachandran (1988)
+Office of Naval Research Young Investigator
+- Sonia Chernova (2014)
+Presidential Early CAREER Award for Scientists and Engineers (PECASE)
+- Dhruv Batra (2019)
+- Edmond Chow (2002)
+Corporate Research Awards
+Adobe Faculty Research Award
+- Srijan Kumar
+Amazon AWS Machine Learning Research Award
+- Chao Zhang (2020)
+Facebook Faculty Research Award
+- Srijan Kumar (2020)
+- Polo Chau (2020)
+- B. Aditya Prakash (2015)
+Google Faculty Research Award
+- Chao Zhang (2020)
+- Polo Chau (2015)
+- Mark Riedl (2013)
+IBM Faculty Award
+- Ashok Goel (2014, 2015)
+- Mary Jean Harrold (2008)
+- Srinivas Aluru (2007)
+- Jun "Jim" Xu (2006)
+- Thomas Conte (1996)
+- Dana Randall
+- Bill Rouse
+IBM Faculty Partnership Award
+- Dana Randall (2003)
+Intel Outstanding Researcher Award
+- Polo Chau (2020)
+LexisNexis Dean's Excellence Award
+- Polo Chau (2014)
+NVIDIA Professor Partnership
+- Blair MacIntyre (2009)
+Yahoo Faculty Research and Engagement Program (FREP) Award
+- Polo Chau (2014)
+Georgia Tech Awards
+Every year, the College of Computing awards faculty and staff for their outstanding service and leadership. Browse a list of past award recipients or nominate faculty and staff for one of the College's Annual Awards.
+Class of 1934 Distinguished Professor Award
+- Richard Lipton (2012)
+- James Foley (2008)
+Class of 1934 Outstanding Interdisciplinary Activity Award
+- Santosh Vempala (2012)
+- James Foley (1994)
+Outstanding Service Award
+- Richard Fujimoto (2009)
+Outstanding Faculty Leadership
+- Wenke Lee (2012)
+Outstanding Professional Education
+- Mustaque Ahamad (2012)
+Outstanding Service Award
+- Tucker Balch (2012)
+Georgia Tech Distinctions
+Advance Professor of Computing
+- Dana Randall
+- Mary Jean Harrold
+Distinguished Professors
+- Gregory Abowd
+- Henrik Christensen
+- Richard DeMillo
+- Merrick Furst
+- Santosh Vempala
+Regents' Professors
+- Beth Mynatt (2019)
+- Surya Kalidindi (2019)
+- Haesun Park (2019)
+- John Stasko (2018)
+- Gregory Abowd (2012)
+- Richard Fujimoto (2007)
+- Nancy Nersessian (2007)
+- Janet Kolodner (2004)
+- Mostafa Ammar (2003)
+- Ron Arkin (2002)
+- Mark Borodovsky
+Endowed Chairs
+John P. Imlay Jr. Dean of Computing
+- Charles Isbell (current)
+- Zvi Galil (former)
+KUKA Chair in Robotics
+- Seth Hutchinson
+Stephen Fleming Chair in Telecommunications
+- James Foley
+Frederick G. Storey Chair in Computing
+- Richard Lipton
+John P. Imlay Jr. Chair in Software
+- Calton Pu
+Charlotte B. & Roger C. Warren Chair in Computing
+- Richard DeMillo
+John P. Imlay Jr. Chair II in Software
+- Wenke Lee
+Frederick G. Storey Chair II in Computing
+- Santosh Vempala
+Stephen Fleming Chair II in Telecommunications
+- Ellen Zegura
+Catherine M. and James E. Allchin Early-Career Assistant Professorship
+- Sonia Chernova
+Recognitions
+ACM Distinguished Scientist
+- Srinivas Aluru (2017)
+- John Stasko (2011)
+- Annie Antón (2009)
+- Keith Edwards (2009)
+- Beki Grinter (2009)
+ACM Senior Member
+- Amy Bruckman (2009)
+- Frank Dellaert (2009)
+- Beth Mynatt (2009)
+- Milos Prvulovic (2009)
+- Jun "Jim" Xu (2009)
+- Albert N. Badre (2008)
+- Irfan Essa (2008)
+Awards and Honors
+- View past College Award Recipients
+- View past Institute Award Recipients
+- GT Staff and Departmental Awards
+- CTL Student Teaching Awards
+- Sigma Xi Student and Faculty Research Awards
+- CTL Teaching Awards
+- Institute Research Awards (EVPR)
+- Office of the Provost Awards Page
+- Have an award-related question? Email awards@cc.gatech.edu

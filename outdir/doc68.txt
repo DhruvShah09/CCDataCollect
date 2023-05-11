@@ -1,0 +1,10 @@
+Dean's Desk - Aug. 3, 2021
+There are so many things going on as we prepare to work our way back to campus.
+First off, let me thank all the folks crafting return-to-campus plans. We seem to be converging on a reasonable starting place, and that’s happening because of everyone working together thoughtfully.
+Speaking of back to campus, you may have seen a note from President Cabrera in your e-mail inbox recently. He has asked that everyone consider wearing a mask while on campus. Please note that this is not a mask mandate: because GT is a state entity, the belief is that we are not subject to the City of Atlanta’s mask mandate. I’m not sure where this is all going to end up, but the conversations are ongoing. In the meantime, I would like to echo the President and encourage you to be thoughtful about wearing a mask. Stay informed and aware as facts are changing on the ground day by day.
+Oh! I know I sent a dispatch about the new NSF AI institutes last week, but for more context, I encourage you to read President Cabrera’s message to alumni about AI at Georgia Tech. There’s a bit of CoC history (I’m looking at you Ron) and a description of the bright future ahead.
+In other good news, our own Srinivas Aluru has been named editor-in-chief of the journal IEEE/ACM Transactions on Computational Biology and Bioinformatics. His appointment will start on August 1 and run through December 2024. Please join me in congratulating Srinivas for his intellectual leadership.
+Finally, I’d like to mention Highcharts Sonification Studio, Bruce Walker’s (IC) new open-source tool for the sonification of charts. This research makes it possible to listen to data as well as look at it, which, um, sounds amazing. It is clearly beneficial to everyone and a real boon to those with visual impairments.
+So there you go. There’s a week and a semester ahead of us. Take some time to stomp your feet, shake your groove thing, or, you know what?, do the conga. Or do what I’m going to try to do sometime this century and just rest. I shall see you before too long.
+Peace.
+Charles L. Isbell, Jr.

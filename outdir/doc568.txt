@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: neuro symbolic reasoning, computer vision, natural language processing, structured prediction
+Biography
+Advisor: Le Song
+I primarily work in the intersection of deep learning and logical reasoning for complex machine learning problems. These complex problems are typically multi-modal problems between computer vision and natural language, such as visual question answering. More specifically I investigate the label annotation and computational complexity for methods addressing these problems. I am also broadly interested in large scale structured prediction problems from biological, recommender, and financial systems.

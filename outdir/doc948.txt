@@ -1,0 +1,4 @@
+Associate Professor
+Research Areas: Theory of Algorithms; Probability; Combinatorics
+Biography
+Will Perkins is an Associate Professor in the School of Computer Science. Prior to this, he was faculty at the University of Illinois at Chicago, the University of Birmingham in the UK, and an NSF Postdoc at Georgia Tech. He received his PhD in 2011 from the Courant Institute at New York University under the supervision of Joel Spencer. His research interests are in algorithms, statistical physics, and discrete mathematics generally, and specifically in questions about the algorithmic tractability of random instances of computational problems; sampling from statistical physics spin models; and developing combinatorial methods based on ideas and intuition from algorithms and statistical physics.

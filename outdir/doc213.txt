@@ -1,0 +1,5 @@
+Ph.D. Student
+https://www.cc.gatech.edu/~acastillo41/
+Research Areas: Machine learning; Data science; AI
+Biography
+|Alexander Rodriguez is a Ph.D. student in Computer Science at Georgia Tech, advised by Prof. B. Aditya Prakash. His research interests include data science, machine learning, and AI, with emphasis on time-series and real-world networks problems motivated from computational epidemiology, community resilience, and e-commerce. In response to COVID-19, he has been working on forecasting efforts of COVID-related metrics. These predictions have been featured by the CDC and the popular FiveThirtyEight website.|

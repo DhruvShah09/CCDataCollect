@@ -1,0 +1,78 @@
+Systems & Architecture
+Create computer architectures, systems, and languages.
+The Systems & Architecture thread is where many of the practical skills of computing are learned. This thread teaches you about the organization of computer systems, how they are built using different hardware and software layers and how they are programmed.
+The Systems & Architecture thread deals with a complete vertical slice of system building from processor design, memory organization to virtualization and operating system layers all the way up to the programming interfaces, languages and the tool chains such as compilers, debuggers and profilers. It emphasizes different system properties such as performance, power consumption, reliability, security, and availability. This thread spans a vast spectrum of systems ranging from parallel and distributed systems to emerging multi-core systems, as well as domain specific systems (such as gaming consoles, healthcare information systems, real-time embedded controllers used in avionics, and so on).
+Students can combine Systems & Architecture with Theory to form the basis of a traditional CS degree, with Information Internetworks to broaden their system knowledge of web technologies, with Media to devise media-centric platforms, with Devices to build embedded platforms, or a number of other practical combinations.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+View the course prerequisites for the Systems & Architecture Thread.
+Required Courses:
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 2340 Objects and Design, 3
+- CS 3210 Design of Operating Systems, 3
+- CS 3220 Computer Structures: HW/SW Codesign of a Processor, 3
+- CS 3510 or CS 3511 Design and analysis of algorithms, 3
+- ECE 2031 Digital Design Laboratory, 2
+Pick 1 of Advanced Systems & Architecture
+- CS 4210 Advanced Operating Systems, 3
+- CS 4220 Programming Embedded Systems, 3
+- CS 4290 Advanced Computer Organization, 3
+Pick 1 of Systems Software Tools
+- CS 3300 Introduction to Software Engineering, 3
+- CS 4240 Compilers, Interpreters, and Program Analyzers, 3
+Elective Courses:
+Free Electives, 4 hours
+- FREE-PLAT1 Free Elective-Platforms, 3
+- FREE-PLAT2 Free Elective-Platforms, 1
+Parallel Platforms
+- CS 4210 Advanced Operating Systems, 3
+- CS 4233 Parallel Computer Architecture, 3
+- CS 4290 Advanced Computer Organization, 3
+- CS Special Topics Design of Gaming Consoles, 3
+- CS Special Topics Scalable Information Systems and Technologies, 3
+Distributed Platforms
+- CS 4210 Advanced Operating Systems, 3
+- CS 4675 Internet Computing Systems, 3
+- CS 4685 Pervasive Systems and Networking, 3
+- CS Special Topics Scalable Information Systems and Technologies, 3
+Embedded and Ubiquitous Platforms
+- CS 4220 Programming Embedded Systems, 3
+- CS 4685 Pervasive Systems and Networking, 3
+- CS Special Topics Design of Gaming Consoles, 3
+Domain Specific Platforms
+- CS 4220 Programming Embedded Systems, 3
+- CS Special Topics Design of Gaming Consoles, 3
+- CS Special Topics Scalable Information Systems and Technologies, 3
+Platform Technologies
+- CS 4210 Advanced Operating Systems, 3
+- CS 4220 Programming Embedded Systems, 3
+- CS 4235 Introduction to Information Security, 3
+- CS 4237 Computer and network security, 3
+- CS 4560 Verification of Systems, 3
+Software Interfaces, Tools and Technologies
+- CS 4220 Programming Embedded Systems, 3
+- CS 4240 Compilers, Interpreters, and Program Analyzers, 3
+- CS 4392 Programming Language Design, 3
+- CS 6241 Design and Implementation of Compilers, 3 (Prereq CS4240)
+- CS 6246 Object-oriented Systems and Languages, 3 (Prereq CS2340)
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

@@ -1,0 +1,14 @@
+Associate Professor
+https://faculty.cc.gatech.edu/~genkin/
+Research Areas: Hardware and System Security, Side Channel Attacks, Cryptography
+Biography
+Daniel Genkin is an Alan and Anne Taetle Early Career Associate Professor
+at the School of Cybersecurity and Privacy at Georgia Tech. Daniel’s research
+interests are in hardware and system security, with a particular focus on
+side channel attacks and defenses.
+Daniel's work has won the Distinguished Paper Award at IEEE Security and Privacy,
+several IEEE Micro Top Picks and Black Hat Pwnie Awards, as well as top-3 paper awards
+in multiple conferences. Daniel has been part of the team performing the first
+analysis of speculative and transient execution, resulting in the discovery of
+Spectre, Meltdown, and followups. Daniel has a PhD in Computer Science from
+Technion --- Israel's Institute of Technology.

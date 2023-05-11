@@ -1,0 +1,90 @@
+Modeling & Simulation
+Represent Natural and Physical Processes
+The Modeling & Simulation thread is intended for students interested in developing a deep understanding and appreciation of how natural and human-generated systems such as weather, biological processes, supply chains, or computers, can be represented by mathematical models and computer software. Such models are widely used today to better understand and predict the behavior of such systems.
+Because these models are often described and represented by mathematical expressions, and the models themselves often deal with physical phenomena, a background in mathematics and the sciences is required. Combining this background with a knowledge in computer science will yield the basic tools necessary to transform abstract conceptual models to computer programs that execute efficiently on digital machines. The required coursework in Modeling & Simulation includes topics in continuous and discrete mathematics, the sciences, and computing. Elective courses enable students to further develop and apply their knowledge and skills to a specific discipline where Modeling & Simulation plays an important role.
+The student who pursues Modeling & Simulation can combine it with Intelligence to become a data miner, or with Media to build visualizations of large amounts of scientific data, or People to build work flow systems for scientists who aren't computing experts to use. The possibilities are endless.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+View the course prerequisites for the Modeling & Simulation Thread.
+Required Courses:
+*Although not required, we recommend four Lab Sciences rather than just three: PHYS I and PHYS II along with two additional courses in Chemistry, Biology, and/or Earth and Atmospheric Sciences.
+- CS 1171 Introductory Computing in MATLAB, 1
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 2340 Objects and Design, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+- MATH 2552 Differential Equations, 4 or MATH 2562 Honors Differential Equations, 4
+Pick 2 of Computational Science and Engineering
+- CX 4140 Computational Modeling Algorithms, 3
+- CX 4220 Introduction to High Performance Computing, 3
+- CX 4230 Computer Simulation, 3
+- CX 4640 Numerical Analysis 1, 3
+- CS 4641 Machine Learning, 3
+Elective Courses:
+*Although not required, we recommend taking 6 hours from Advanced Computational Methods and Software and 9 hours from Computational Modeling Applications.
+Free Electives (6 hours)
+- FREE-CM1 Free Elective-Modeling and Simulation, 3
+- FREE-CM2 Free Elective-Modeling and Simulation, 3
+Advanced Computational Methods and Software
+- CHBE 2120 Numerical Methods, 3
+- CS 3220 Computer structures: HW/SW codesign of a processor, 3
+- CS 3451 Computer Graphics, 3
+- CS 3600 Introduction to Artificial Intelligence, 3
+- CS 4210 Advanced Operating Systems, 3
+- CX 4236 Distributed Simulation Systems, 3
+- CX 4232 Simulation, and Military Gaming, 3
+- CS 4476 Intro Computer Vision, 3
+- CS 4496 Computer Animation, 3
+- CS 4550 Scientific Data Processing and Visualization, 3
+- CS 4641 Machine Learning, 3
+- CX 4641 Numerical Analysis II, 3
+- CX 4777 Vector and Parallel Scientific Computing, 3
+- ISYE 2028 Basic Statistics Methods, 3
+- ISYE 4331 Honors Optimization, 3
+- MATH 4255 Monte Carlo Methods, 3
+- ME 2016 Computing Techniques, 3
+Aerospace Engineering
+- AE 4375 Fundamentals of Computer-Aided Engineering and Design, 3
+- PHYS 3266 Computational Physics, 4
+Digital Signal Processing
+- ECE 3025 Electromagnetics, 3
+- ECE 3075 Random Signals, 3
+- ECE 4270 Fundamentals of Digital Signal Processing, 3
+- ECE 4271 Applications of Digital Signal Processing, 3
+Modeling and Simulation in Industrial Engineering
+- ISYE 2030 Modeling in Industrial Engineering, 3
+- ISYE 3044 Simulation Analysis and Design, 3
+- ISYE 3133 Engineering Optimization, 3
+- ISYE 3232 Stochastic manufacturing and service systems, 3
+Biology / Chemistry
+- BIOL 2400 Mathematical Models in Biology, 3
+- BIOL 4401 Experimental Design and Statistical Methods in Biology, 4
+- CHBE 2100 Chemical Process Principles, 3
+Geoscience
+- EAS 3620 Geochemistry, 4
+- EAS 4602 Biochemical Cycles, 3
+- EAS 4610 Earth System Modeling, 3
+- EAS 4630 Physics of the Earth, 3
+- EAS 4655 Atmospheric Dynamics, 3
+- EAS 4803 Water Chemistry Modeling, 3
+- PHYS 3266 Computational Physics, 4
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

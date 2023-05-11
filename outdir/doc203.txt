@@ -1,0 +1,4 @@
+Associate Professor
+Research Areas: Natural Language Processing; Machine Learning; Artificial Intelligence
+Biography
+Alan Ritter is an associate professor in the School of Interactive Computing at Georgia Tech. His research interests include natural language processing, information extraction, and machine learning. He completed his Ph.D. at the University of Washington and was a postdoctoral fellow in the Machine Learning Department at Carnegie Mellon. His research aims to solve challenging technical problems that can help machines learn to read vast quantities of text with minimal supervision. In a recent project, covered by WIRED, his group built a system that reads millions of tweets for mentions of new software vulnerabilities. He is the recipient of an NSF CAREER award and an Amazon Research Award.

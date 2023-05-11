@@ -1,0 +1,12 @@
+Faculty Position Opportunities
+Georgia Tech’s College of Computing has been a leader in defining modern computing as a paradigm that combines the foundations of theoretical mathematics and information science, the force of invention in computational systems and processes, and interdisciplinary practice that integrates innovation in computing with all facets of life.
+Today, the college comprises five schools that offer unique academic programs and conduct research specifically related to their concentration areas: Computer Science, Computing Instruction, Cybersecurity and Privacy, Interactive Computing, and Computational Science and Engineering. The College typically hires in all five schools every year.
+|Title||Job Type||School/Unit||Post date|
+|School of Cybersecurity and Privacy Chair||Full Time||School of Cybersecurity and Privacy||April 28, 2021 - 12:34pm|
+|Full Time||School of Interactive Computing||April 20, 2021 - 3:36pm|
+|Computer Science Tenure-track Faculty||Full Time||School of Computer Science||October 28, 2021 - 1:07pm|
+|Computer Science Tenure-track Faculty||Full Time||Georgia Tech Shenzhen Institute||January 14, 2021 - 1:40pm|
+|Lecturer||Full Time||Division of Computing Instruction||March 11, 2020 - 3:32pm|
+|Computational Science and Engineering Tenure-track Faculty||Full Time||School of Computational Science and Engineering||October 28, 1:18pm|
+|Interactive Computing Tenure-track Faculty||Full Time||School of Interactive Computing||October 28, 1:34pm|
+|Cybersecurity and Privacy Tenure-track faculty||Full Time||School of Cybersecurity and Privacy||November 1, 8:46am|

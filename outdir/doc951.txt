@@ -1,0 +1,4 @@
+Research Technologist II
+Research Areas: Computers, HPC, health data lifecycle, systems management, and networking
+Biography
+Will Powell is a Research Technologist at the Georgia Institute of Technology (Georgia Tech) in Computational Sciences and Engineering. He earned a BSc in CS from the University of North Georgia. He has over 20 years in industry prior to joining GT CSE including 6 years at Equifax, 3 years as CTO of an online coupon startup, and 12 years at IBM. He co-wrote the IBM Redbooks publication, "IBM Flex System p260 and p460 Planning and Implementation Guide". Will is a member of the Technology Association of Georgia (TAG) and the SIGHPC special interest group of ACM. His role in CSE is to manage all aspects of equipment lifecycle from acquisition-to-decommissioning and provide professional computer services that underpin CSE research activities.

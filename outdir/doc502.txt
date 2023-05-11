@@ -1,0 +1,5 @@
+Assistant Professor
+Research Areas: Efficient Algorithms; Data Structures; Optimization
+Biography
+Jan van den Brand is an Assistant Professor in the School of Computer Science at Georgia Tech. Before joining GT, he was a Postdoctoral Researcher at UC Berkeley and the Simons Institute for the Theory of Computing. He received his PhD in Computer Science from KTH, advised by Danupon Nanongkai, and was awarded the EATCS and SMC Dissertation awards.
+His research is on the design and analysis of efficient algorithms and data structures with a focus on optimization and dynamic problems.

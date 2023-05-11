@@ -1,0 +1,2 @@
+Biography
+I focus on large scale problems in the field of computational sustainability, e.g. predicting land cover from continental wide high-resolution satellite imagery. My interests include application driven model design, domain adaptation, and unsupervised feature learning.

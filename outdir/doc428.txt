@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Machine learning, scientific computing, PDE-constrained optimization, inverse problems
+Biography
+I am originally from Dalian, China and I came from Emory University with B.S. in Mathematics and Computer Science. I joined CSE and started to work in SLIM (Seismic Laboratory for Imaging and Modeling) group in 2019.
+Advisor: Felix J. Herrmann

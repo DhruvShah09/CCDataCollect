@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~amsmti3/
+Research Areas: Datacenter systems; Computer networks; Operating systems
+Biography
+Saeed is an assistant professor at the School of Computer Science at Georgia Tech. Before joining Georgia Tech, he was postdoctoral associate at MIT working with Professor Mohammad Alizadeh. Saeed received his Ph.D. in computer science from Georgia Tech, where he was advised by Professors Mostafa Ammar and Ellen Zegura. His Ph.D. was partially supported by the Google Ph.D. Fellowship in Systems and Networking. He received his bachelor's degree from Alexandria University in 2010. His research interests broadly cover the theory, design, and implementation of scalable computer networks and systems, including resource scheduling, congestion control, wireless networks, and cyber-physical systems.

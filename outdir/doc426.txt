@@ -1,0 +1,5 @@
+Assistant Professor
+florian.schaefer@cc.gatech.edu
+Research Areas: numerical analysis, computational statistics, multi-agent optimization, game-theoretic approaches in deep learning
+Biography
+Florian Schäfer is an assistant professor in the School of Computational Science and Engineering at Georgia Tech. Prior to joining Georgia Tech, he received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received Bachelor’s and Master’s degrees in Mathematics at the University of Bonn. His research interests lie at the interface of numerical computation, statistical inference, and competitive games.

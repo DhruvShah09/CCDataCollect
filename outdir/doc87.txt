@@ -1,0 +1,29 @@
+Minor in Computing & Devices
+Minor in Computing & Devices
+General Requirements:
+- Must be in good academic standing (Student is not on academic warning or probation; is maintaining satisfactory academic progress.)
+- CS 1301, CS 1315, or CS 1371 must be completed with an “A” or “B” before applying for the Minor in Computing & Devices
+- CS 1331 must be completed with an “A” or “B” before applying for the Minor in Computing & Devices
+- Students must have a minimum of 48 credit hours remaining (not including minor prerequisites and required coursework) in your major degree requirements, as seat availability in CS classes is limited
+- Only CS courses are included in the minor
+- All courses must be completed with a letter-grade of “C” or better
+- 9 hours must be 3000/4000 level
+- Course prerequisites are not a part of the minor; it is the student’s responsibility to account for all required prerequisites understanding that they are also subject to change.
+- No Special Problems or Internship coursework may be used towards any CS minor
+- Computational Media, Computer Science, Electrical Engineering, and Computer Engineering majors cannot minor in Computing & Devices
+Required Courses:
+- CS 2110 Computer Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 3251 Computer Networking I, 3
+- CS 3651 Prototyping Intelligent Appliances, 4 OR Pick 1 CS 3000/4000 level course from one of the elective or required categories in the Devices Thread, 3
+- Pick 1 from Devices in the Real World (below):
+- CS 3630 Robotics and Perception, 3
+- CS 4261 Mobile Applications and Services for Converged Networks, 3
+- CS 4605 Mobile and Ubiquitous Computing, 3
+Total hours to receive minor: 17 -18 hours
+For Phase I & II registration information, please visit our Registration Information page.
+All courses are not consistently offered. See http://www.cc.gatech.edu/three-year-course-outline.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

@@ -1,0 +1,80 @@
+Graduate Student Council and Graduate Programs Office Travel Funds
+What is this all about?
+The Graduate Student Council has developed a policy for disbursing conference travel support for graduate students in the College of Computing (Masters and PhD students). The funding policy was developed with the goal of ensuring funds do not run out early in an academic year and to ensure students can apply for and be granted funding in a fair way.
+GSC in conjunction with the Graduate Programs Office implemented this proposal in Spring 2007 to see how it worked in practice. The system was found to be fair and just, thus the policy continues to support travel for the CoC for graduate students. Each year funds will vary according to the budget for that fiscal year but the principles of disbursal will remain the same.
+**If you require funding, please familiarize yourself with the application process below.**
+Basic Policy Outline
+There are two processes by which students can obtain travel funding
+- The Graduate Programs Office disburses up to 50 small grants (up to $600 each) per year. Both Masters and PhD students in the CoC are eligible for this type of funding.
+- A subcommittee of the Graduate Student Council issues up to 5 large grants ($1000 each) per year. Only PhD students are eligible for this type of funding.
+Students may apply for both types of funding. However, if a student is awarded a $600 grant, s/he is ineligible to receive a $1000 grant. Similarly, if a student is awarded a $1000 grant, s/he is ineligible to receive a $600 grant.
+Both policies are subject to change at any time. If you have questions about the funding policy, please email Dimetra Harris for questions about $600 grants or gsc-travel@cc.gatech.edu for questions about $1000 grants.
+Application Rules for $600 grants
+For $600 grants, GPO will handle the applications. To ensure even distribution of funds throughout the year, funds have been divided into monthly pots. e.g. Jan, Feb, March etc will each have a pot of money. Money will be essentially, the (total travel funds pots for the year minus the money for the large grants)/(12). All questions should be directed to Dimetra Harris.
+$600 Grant Basic Rules:
+- Students will only receive funding once per year – if a student has already received funding s/he will be put on a waitlist and if at the end of a month, there is money remaining s/he will be granted the funds. (This is to ensure funds are not left over).
+- Students who are not presenting papers are given preference (since if you are presenting your advisor will likely support you)
+If you are presenting a paper and your advisor will not support you, you can apply but must provide a letter from your advisor or email saying they will not support you.
+- Students should indicate if they have applied to other sources of funding.
+- Funds will be given on first come first serve basis if there is money available.
+- Students will be allowed to apply from two months before the month their conference is in right up until the month their conference is in
+e.g. If you have a conference in March – you can apply in Jan and Feb or March.
+- For each month if there is money left over it rolls over to the next month (This will ensure money balances out over the months where there are fewer conferences and months where there are more conferences). Rollovers happen on the 1st of a month e.g. on Dec 1, the money for December rolls into January etc.
+- Funds are deducted from the month in which the conference is held.
+- Students may apply for both the $600 and $1000 grant; however, students who receive a GSC or GPO travel grant are ineligible to receive the other travel grant.
+To apply, the following completed and signed documents should be submitted to Dimetra Harris.
+- Complete in full, Travel Authority (TA).
+- If you are employed by Georgia Tech, you can access the TA form after signing into TechWorks. Select Travel & Expense Reimbursement, then Create New Travel Auth.
+- To download a paper form, access Travel Forms then select Travel Authority Form.
+- Signed by student's Advisor or Division Chair.
+- Complete in full, top portion Graduate Student Travel Form.
+- Trip dates; conference name; location; etc.
+- The graduate programs travel form does not require Advisor or Division Chair signature unless they provide funds for the trip.
+- Signature of Division Chair or Advisor at # 1, 2, 3, or 4 at bottom of form
+- Graduate Programs staff will not accept a Graduate Student Travel Form without a Travel Authority attached.
+- Travel Authority and Graduate Programs Forms with signature(s) and pertinent information should be submitted to Dimetra Harris in CCB 303 for final processing.
+Application Rules for $1000 grants
+For $1000 grants, GSC will handle the applications. All questions should be directed to gsc-travel@cc.gatech.edu.
+$1000 Grant Basic Rules:
+- Application periods and bins are set here so that people can be notified if they receive a large grant at least 1 month before their conference (so they can plan to get other funding if they don't get it)
+- A GSC sub committee will accept applications, and rank them at the end of an application period and send them to the CoC administrators who will get the final word on who gets the $1000 awards.
+- Only 1 $1000 grant can be awarded per area in an academic calendar year for fairness (Areas are HCI, LST, IS, etc)
+- $1000 grants are only for PhD students.
+- The application periods are:
+- For conferences in Sept 1 - Oct 31, applications are accepted from Jun 1 - Jul 31; notification is Aug 3
+- For conferences in Nov 1 - Jan 31, applications are accepted from Aug 1 - Sept 30; notification is Oct 3.
+- For conferences in Feb 1 - April 30, applications are accepted from Oct 1 - Dec 31; notification is Jan 10
+- For conferences in May 1 - June 30, applications are accepted from Jan 1 - Mar 31; notification is April 3.
+- For conferences in Jul 1 - Aug 31, applications are accepted from Apr 1 - May 31; notification is Jun 3.
+- Students may apply for both the $600 and $1000 grant; however, students who receive a GSC or GPO travel grant are ineligible to receive the other travel grant.
+- The GSC subcommittee for Fall 2018 and Spring 2019 is made up by Ceara Byrne (ceara.byrne@gatech.edu) and Ian Stewart (istewart6@gatech.edu).
+Applications are evaluated based on these criteria in the order specified:
+- Preference will first be given to people without papers (Reason: The GSC created this award primarily for students without support. The assumption is that advisors usually support students who have papers at conferences.)
+- Preference given to more senior PhD students
+- Preference given to importance of conference to student's research area
+- Preference given to students who have not received CoC funding this year
+- Only one student per Area can be selected in a calendar year (Areas are HCI, LST, IS, etc)
+- Only one $1000 grant is available for each application period
+How To Apply:
+To apply, the following information should be submitted to gsc-travel@cc.gatech.edu during the appropriate application period.
+- Which conference are you applying for? What are the dates of the conference?
+- What year are in you in the PhD program?
+- What area are you in the PhD program?
+- Computational Science and Engineering, Computer Architecture, Database Systems, Graphics and Visualizations, Human-Computer Interaction, Information Security, Intelligent Systems, Learning Sciences and Technology, Machine Learning, Networking and Communications, Programming Languages and Compilers, Social Computing, Software Methodology and Engineering, Systems, Theoretical Computer Science, Other (please specify)
+- What is the estimate for the total cost of the conference?
+- Air:
+- Hotel:
+- Registration:
+- Food/other:
+- Total:
+- How much money do you expect to get from other sources? (e.g. advisor, scholarship, SGA funds, personal money)
+- What external assistance will you be seeking ? (e.g. Student Volunteer, student scholarships)
+- Are you presenting a paper that will appear in the proceedings? Are you the first author on this paper? Is it a short or full paper? [Note: Currently preference is given to students not presenting papers]
+- Have you been funded by CoC money for another conference this academic year?
+- What area in the College of Computing does this conference fall into? What tier conference is this? How important is this conference to your field/research area? How will it benefit you?
+Supporting Materials
+- Letter of Support from faculty saying he/she does not have the funds to send you (if you are presenting a paper)
+**New Policy** If you are awarded a GSC travel grant and for any reason cannot attend the conference, please notify the GSC travel committee as soon as possible. If you are awarded a travel grant and do not attend the conference, you will be ineligible to apply for the GSC travel grant in the future. Exceptions due to emergencies will be considered on a case-by-case basis.
+College of Computing and GT requirements for Travel support
+Before any GT travel, if you are granted a full or partial funding award, you must complete a Travel Authority (TA). The Financial Officer in your Area or Administrative point person can assist you with the "TA". Once it is completed, David White must sign it and you will be set to travel.
+Once you return from your trip, you will have 15 days to complete a Travel Reimbursement form and submit to your Area Admin. person or Financial Officer with your "original" receipts, etc. to receive your reimbursement.

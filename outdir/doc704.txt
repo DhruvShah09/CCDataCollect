@@ -1,0 +1,2 @@
+Biography
+My research focuses on democratizing security analysis of AI systems, to accelerate the development of next-generation strong defenses. Through developing a systematic, foundational and practical framework that eliminates the barriers to entry for practitioners, researchers and students, my research helps people better understand attacks, quantify vulnerabilities, and fortify AI systems.

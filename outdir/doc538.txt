@@ -1,0 +1,6 @@
+Regents' Professor
+https://faculty.cc.gatech.edu/~john.stasko/
+Research Areas: Data and Information Visualization, HCI
+Biography
+John Stasko is a Regents Professor in the School of Interactive Computing and an Adjunct Professor in the School of Computing Instruction at the Georgia Institute of Technology, where he has been on the faculty since 1989. Stasko is a widely published and internationally recognized researcher in the areas of information visualization and visual analytics, approaching each from a human-computer interaction perspective. He has received Best Paper or Most Influential/Test of Time Paper awards from the IEEE InfoVis and VAST, ACM CHI, INTERACT, and ICSE conferences.
+He has been Papers/Program Co-Chair for the IEEE Information Visualization (InfoVis) and the IEEE Visual Analytics Science and Technology (VAST) Conferences and has served on the editorial boards of IEEE Transactions on Visualization and Computer Graphics, ACM Transactions on Computer-Human Interaction, and Information Visualization. Stasko received the IEEE Visualization and Graphics Technical Committee (VGTC) Visualization Technical Achievement Award in 2012, and was named an ACM Distinguished Scientist in 2011, an IEEE Fellow in 2014, and a member of the ACM CHI Academy in 2016 and IEEE Visualization Academy in 2019.

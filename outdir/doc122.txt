@@ -1,0 +1,81 @@
+Graduate Forms & Procedures
+Master's Degree Forms & Procedures
+Please read this important advising policy: The Computer Science advisors will not sign any forms to allow changes into the CS major including change of major, secondary major and declaring minors DURING any open registration period or final exam week. If you are seeking any of these services, please plan accordingly to see an advisor at times other than these listed.
+|School of Computer Science Special Problems (CS 8903) Permit Form||Usage: This form allows a student to register for a specified 8903 section.
+|
+Due: End of Phase I registration
+|School of Interactive Computing Special Problems (CS 8903) Permit Form||\Usage: This form allows a student to register for a specified 8903 section.
+|
+Due: End of Phase I registration.
+|Master's Project (CS 6999) Permit Form||Usage: Prior to registering for CS 6999 (Master's Project), the student must complete this form and a brief description of the proposed project.
+|
+Due: End of Phase I registration
+|InfoSec Practicum (CS 6266) Permit Form||Usage: Prior to registering for CS 6266 INF (InfoSec Practicum), the student must complete this form and a brief description of the proposed project.
+|
+Due: First day of classes
+|MS-HCI Project (CS 8902) Permit Form||Usage: Prior to registering for CS 8902 (MS-HCI), the student must complete this form and a brief description of the proposed project.
+|
+Due: One week prior to the beginning of Phase I registration.
+|MS Thesis (CS 7000) Permit Form||Usage: For approval to register for MS Thesis Hours.
+|
+Due: End of Phase I registration
+|MS Thesis Forms||The Office of Graduate Studies has several forms regarding thesis submission and graduation.|
+|Graduate Student Exit Survey||Usage: To be completed by graduate students in the MS CS, MS InfoSec and CS PhD programs in conjunction with the petition to graduate.
+|
+Due: Prior to the deadline for graduation petitions.
+|Employment Certification Request||Usage: For certification request of employment in the College of Computing.
+|
+Due: Please allow two business days for processing.
+|Student Request for Travel Funds||Usage: This form is used to request reimbursement of travel expenses associated with attending a conference, workshop or other sponsored activity. Submission of this form does not ensure a student will receive funding. Limited funds are available for such purposes and students should request funding as soon as the need is known (acceptance of a paper, etc.).
+|
+Due: Normally, prior to making reservations for the trip; no later than one week prior.
+|Graduate Student Request to take a 1000-2000 Undergraduate Course form||Usage: For graduate students to get permission to take 1000-2000 level undergraduate classes.
+|
+Due: During Phase II registration.
+|Graduate Student Request to take a 3000-4000 Undergraduate Course form||Usage: For graduate students to get permission to take 3000-4000 level undergraduate classes.
+|
+Due: During Phase II registration.
+MSCS Program of Study- Computational Perception and Robotics
+MSCS Program of Study- Computer Graphics
+MSCS Program of Study- Computing Systems
+MSCS Program of Study- High Performance Computing
+MSCS Program of Study- Human-Computer Interaction
+MSCS Program of Study- Interactive Intelligence
+MSCS Program of Study- Machine Learning
+MSCS Program of Study- Modeling and Simulations
+MSCS Program of Study- Scientific Computing
+MSCS Program of Study- Social Computing
+MSCS Program of Study- Visual Analytics
+Ph.D. Forms & Procedures
+Please read this important advising policy: The Computer Science advisors will not sign any forms to allow changes into the CS major including change of major, secondary major and declaring minors DURING any open registration period or final exam week. If you are seeking any of these services, please plan accordingly to see an advisor at times other than these listed.
+|School of Computer Science Special Problems (CS 8903) Permit Form||Usage: This form allows a student to register for a specified 8903 section.
+|
+Due: First day of classes
+|Computer Science PhD Advisor Selection and Pre-Dissertation (CS 8999) Permit Form||Usage: For designating or changing advisors.
+|
+Due: First day of classes
+|Computer Science PhD Breadth Component Form||Usage: To show completion of the CS PhD Breadth component.|
+|Computer Science PhD Minor Form||Usage: To show completion of the non-CoC coursework which comprises the Institute's PhD Minor component. 3 courses, no less than B grades, with more As than Bs.|
+|Human Centered Computing PhD Minor Form||Usage: To show completion of the non-CoC coursework which comprises the Institute's PhD Minor component. 3 courses, no less than B grades, with more As than Bs.
+|
+Due: One week prior to the beginning of Phase I registration.
+|Computer Science PhD Qualifier & 9000 Permit||Usage: To show completion of the CS PhD Qualifier Exam and to obtain a permit for CS 9000|
+|Human Centered Computing PhD Qualifier Form||Usage: To show completion of the HCC PhD Qualifier Exam
+|
+Due: One week prior to the beginning of Phase I registration.
+|Human Centered Computing and Robotics PhD Thesis (CS 9000) Permit Form||Usage: For approval to register for PhD Thesis Hours. Must be a degree candidate.|
+|Human Centered Computing PhD Specialization Permit Form||Usage: For approval to register for PhD Thesis Hours. Must be a degree candidate.
+|
+Due: One week prior to the beginning of Phase I registration.
+|Robotics PhD Qualifier & 9000 Permit||Usage: To show completion of the Robotics PhD Qualifier Exam and to obtain permit for CS 9000|
+|PhD Thesis Forms||The Office of Graduate Studies has several forms regarding candidacy, thesis submission and graduation.|
+|Graduate Student Exit Survey||Usage: To be completed by graduate students in the MS CS, MS InfoSec and CS PhD programs in conjunction with the petition to graduate.
+|
+Due: Prior to the deadline for graduation petitions.
+|Employment Certification Request||Usage: For certification request of employment in the College of Computing.
+|
+Due: Please allow two business days for processing.
+|Student Request for Travel Funds||Usage: This form is used to request reimbursement of travel expenses associated with attending a conference, workshop or other sponsored activity. Submission of this form does not ensure a student will receive funding. Limited funds are available for such purposes and students should request funding as soon as the need is known (acceptance of a paper, etc.).
+|
+Due: Normally, prior to making reservations for the trip; no later than one week prior.
+For more information about graduate forms and procedures, please consult the catalog.

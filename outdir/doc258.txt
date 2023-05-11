@@ -1,0 +1,5 @@
+Professor
+http://dilab.gatech.edu/ashok-k-goel/
+Research Areas: Artificial Intelligence; Cognitive Science; Learning Technology
+Biography
+Ashok K. Goel is a professor of Computer Science and Human-Centered Computing in the School of Interactive Computing at Georgia Institute of Technology and chief scientist with Georgia Tech’s Center for 21st Century Universities. For more than 35 years, he has conducted research into cognitive systems at the intersection of artificial intelligence and cognitive science with a focus on computational design and creativity. For the last decade, his research has increasingly focused on AI in education and education in AI. He is a Fellow of AAAI and the Cognitive Science Society, an editor emeritus of AAAI’s AI Magazine, and a recipient of AAAI’s Outstanding AI Educator Award. He is the Executive Director of the National AI Institute for Adult Learning and Online Education sponsored by the US National Science Foundation and headquartered at Georgia Tech.

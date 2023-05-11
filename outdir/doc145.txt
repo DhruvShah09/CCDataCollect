@@ -1,0 +1,9 @@
+Interdisciplinary Research Institutes
+Institute for Robotics and Intelligent Machines
+The Institute for Robotics and Intelligent Machines (IRIM) serves as an umbrella under which robotics researchers, educators, and students from across campus can come together to advance the many high-powered and diverse robotics activities at Georgia Tech.
+Institute for People and Technology
+The Institute for People and Technology (IPaT) brings together researchers from across Georgia Tech to support world-class research, engage students, and collaborate with industry, government, and nonprofit partners. IPAT's goal is to maximize Georgia Tech’s societal impact through people-centered innovation.
+Institute for Data Engineering and Science
+The Institute for Data Engineering and Science (IDEaS) provides the coordination and expertise necessary to link researchers across the Institute, strengthening Georgia Tech's position in big data. The IRI will link research centers and efforts horizontally in foundational areas such as machine learning, high-performance computing, and algorithms.
+Center for 21st Century Universities
+The Center for 21st Century Universities (C21U) is Georgia Tech's living laboratory for fundamental change in education. As learners of all ages encounter rapidly changing workforce demands and seek to learn in new ways, Georgia Tech is committed to leading the initiatives that will define the next generation of educational practices and technologies.

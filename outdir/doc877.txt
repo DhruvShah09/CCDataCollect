@@ -1,0 +1,4 @@
+Assistant Professor
+Research Areas: Formal Methods; Artificial Intelligence; Programming Languages
+Biography
+Suguman Bansal is an Assistant Professor in the School of Computer Science at Georgia Institute of Technology. Her research is focused on formal methods and their applications to artificial intelligence, programming languages, and machine learning. Previously, she was an NSF/CRA Computing Innovation Postdoctoral Fellow at the University of Pennsylvania, mentored by Prof. Rajeev Alur and completed her Ph.D. at Rice University advised by Prof. Moshe Y. Vardi. She is the recipient of the 2020 NSF CI Fellowship, has been named a 2021 MIT EECS Rising Star, and was a keynote speaker at the 29th Static Analysis Symposium (SAS) 2022.

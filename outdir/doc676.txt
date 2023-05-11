@@ -1,0 +1,2 @@
+Biography
+I'm a PhD Candidate in Computer Science at Georgia Tech, advised by Polo Chau. My PhD research on "Human-Centered AI through Scalable Visual Data Analytics" focuses on building novel data visualization tools for helping people explore, interpret, and interact with machine learning systems, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.

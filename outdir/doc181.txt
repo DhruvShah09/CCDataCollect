@@ -1,0 +1,21 @@
+Computing Equity Project: Impacting Public Schools
+Since the passing of Senate Bill 108 (SB 108), schools across Georgia have been gearing up to offer computer science classes for high school students.
+SB 108 says that school districts across the state must offer computer science education courses to all Georgia high school students by the 2024-25 school year. It also recommends that all middle schools offer CS courses as well.
+With teacher shortages and the reality that some teachers don’t have a computer science background, this transition has taken a great deal of collaboration.
+One of the Georgia Tech Constellations Center for Equity in Computing’s answers to these needs is the Computing Equity Project (CEP).
+The CEP creates a cohort of CS equity coaches to help foster the inclusive and equitable environment that Constellations has been working toward since its founding.
+“The computing equity project is a way to continue to advocate for equity and inclusion in CS. The focus of the coaches is to provide teachers with best practices for creating identity-inclusive computing, as well as culturally relevant/culturally responsive pedagogies, and content,” Sababu Barashango, Constellations fellow.
+Constellations currently has three fellows, two that go into Atlanta Public Schools and coach teachers so that they are prepared for the changes coming in the next year, the third fellow, works to support computing equity at the state level.
+The coaches are educators with a wide array of background experience from across the state and the country.
+There are six coaches:
+- Mike Afdahl is the Coordinator of Technology Services for Northwest GA RESA.
+- Laura Crunk has been a teacher for more than 15 years.
+- Wendy Dyer, a native of Social Circle, Georgia, has been an educator since 1998.
+- Kimberly Nichols earned her Bachelors of Business Administration in finance from East Tennessee State University, an MBA from Kennesaw State University, and M.Ed. and Ed.S.
+- LaWanda Stephens-Sanford is a United States Marine Corps veteran who became a teacher in a non-traditional way.
+- Philisia Spearmon is a computer science and mathematics teacher at Tattnall County High School and an adjunct professor for Southeastern Technical College.
+Each coach brings a very individualized approach to education with diversity being the road to inclusion and feelings of belonging.
+Constellations’ broader programming includes teacher professional development workshops, hosted each semester, the Constellations summit hosted annually, and similar events throughout the year to help teachers prepare for changes in the state education curriculum.
+The CS equity coaches allow Constellations to extend its reach in a more concentrated effort.
+“We’re using this holistic approach in hopes of creating a trickle-down effect by fostering community by creating CS equity teams, promoting the retention of diverse CS educators, in efforts to cultivate achievement from students from underrepresented populations,” said Barashango.
+The CS equity coaches are just an added layer in the effort to affect more school districts state-wide, through representation, culturally relevant teachings, and community.

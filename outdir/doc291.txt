@@ -1,0 +1,5 @@
+Assistant Professor
+https://sites.google.com/site/daibohr/
+Research Areas: Reinforcement Learning; Machine Learning; Data-Driven Decision Making; Artificial General Intelligence
+Biography
+Bo Dai is a tenure-track assistant professor at Georgia Tech's School of Computational Science and Engineering. Prior to joining academia, he worked as a Staff Research Scientist at Google Brain. Bo Dai completed his Ph.D. in the School of Computational Science and Engineering at Georgia Tech, where he worked from 2013 to 2018 with Professor Le Song. His research focuses on developing principled and practical machine learning techniques for real-world applications. Bo Dai has received numerous awards for his work, including the best paper award at AISTATS 2016. He regularly serves as a (senior) area chair at major AI/ML conferences, such as ICML, NeurIPS, AISTATS, and ICLR.

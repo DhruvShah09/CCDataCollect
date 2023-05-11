@@ -1,0 +1,21 @@
+Vice President, Chief Information Security Officer, Northrop Grumman Corporation
+Biography
+Experience
+Phyllis has a background in high-performance computing and its applications to cyberthreat intelligence and cryptography. She joined Promontory from the Department of Homeland Security, where she served as the deputy undersecretary for cybersecurity and communications and led responses to cybersecurity threats against corporations, civilians, and the government. During her DHS tenure, Phyllis led the defensive cybersecurity operational mission to mitigate and respond to cyberthreats across the federal civilian government and private sector. She supported the department’s mission of strengthening the security and resilience of the nation’s critical infrastructure, working with all areas of the department, global government agencies, law enforcement, and the private sector. Phyllis led the transformation of signature technology applying analytics to the central cyber protection that the DHS provides to civilian agencies.
+Prior to the DHS, Phyllis served as chief technology of cer for the global public sector at McAfee, where she was responsible for products and services used by governments to counter global cyberthreats and maintain industrial and telecommunications security. She also led the development of the rm’s crowdsourced real-time cyberthreat intelligence and analytics used
+to protect critical infrastructure, played a key role in developing McAfee’s cybersecurity policy position, and on several occasions testi ed before Congress on cybersecurity technology
+and policy.
+Phyllis was a member of the Center for Strategic and International Studies’ commission that advised President Barack Obama on cybersecurity. She was chairman of the board of directors of the National Cyber-Forensics and Training Alliance, a partnership between corporations, government, and law enforcement for using cyber analysis to combat international cybercrime. Phyllis was also vice chairman of the National Institute of Standards and Technology’s advisory board on information security and privacy, and she served for eight years as national chairman of the board of directors of the FBI’s public-private InfraGard program. She has briefed and worked with several foreign governments to form partnerships with the U.S. for information sharing, infrastructure protection, and cybersecurity. Phyllis holds several information-security and technology patents.
+While at Georgia Tech, Phyllis made a lasting mark in the culture of Information Security. She was one of the founders of the original Georgia Tech Information Security Center. The Georgia Tech Information Security Center was founded in 1998 as a result of the Sam Nunn NationsBank Information Security Forum held at Georgia Tech in the spring of 1998. The “Georgia Tech Information Security Center” (GTISC) was a joint endeavor of the former College of Computing Dean Peter Freeman and GCATT (Georgia Center for Advanced Telecommunications Technology), which was led by Dr. Michael Cummins. During 1999-2000, she served as Deputy Director helping to design cyber curricula and vision for what it could be in the future. Phyllis was, also, Georgia Tech’s first cybersecurity student. She brought the topic to the College of Computing by fusing her outside studies and work in cryptography with the high-performance computing labs run by the late Professor Karsten Schwan.
+Education
+• Ph.D., computer science, Georgia Institute of Technology
+• M.S., computer science, Johns Hopkins University
+• B.S., computer science and mathematics, Johns Hopkins University
+Affiliations, Awards, and Civic Engagements
+• Recipient, Federal 100 Award
+• Recipient, Washington 100 Award
+• Recipient, InfraGard National Members Alliance Award
+• Recipient, Woodrow Wilson Award for Distinguished Government Service
+• Commencement speaker, Johns Hopkins University engineering master’s program
+• Recipient, Loyola University Maryland Lattanze Center Executive of the Year
+• Honoree, Information Security magazine’s “Top 25 Women Leaders in Information Security”

@@ -1,0 +1,5 @@
+Associate Professor; Catherine M. and James E. Allchin Early Career Professor
+Research Areas: Ubiquitous Computing; IoT; Wearables; Sustainable Computing; Mobile Health.
+Biography
+Josiah Hester holds the Allchin Chair and is associate professor of Interactive Computing and Computer Science at Georgia Tech. Josiah was previously at Northwestern University as an assistant professor. He works in intermittent computing and battery-free embedded computing systems. He applies his work to health wearables, interactive devices, and large-scale sensing for sustainability and conservation, supported by multiple grants from the NSF, NIH, and DARPA. He was named a Sloan Fellow in Computer Science and won his NSF CAREER in 2022.
+He was named one of Popular Science's Brilliant Ten, won the American Indian Science and Engineering Society Most Promising Scientist/Engineer Award, and the 3M Non-tenured Faculty Award in 2021. His work has been featured in the Wall Street Journal, Scientific American, BBC, Popular Science, Communications of the ACM, and the Guinness Book of World Records, among many others.

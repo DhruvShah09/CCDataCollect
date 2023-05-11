@@ -1,0 +1,11 @@
+Adjunct Professor
+Research Areas: Usable Privacy and Security; Human-Computer Interaction; Human-Centered AI
+Biography
+Sauvik Das is an Assistant Professor of Interactive Computing at Georgia Tech's College of Computing. He directs the GT SPUD (Security, Privacy, Usability and Design) Lab. His work, at the intersection of HCI, AI and cybersecurity, is oriented around answering the question: How can we improve people's agency over their personal data and experiences online? A few directions of particular interest to us at the moment include:
+- Social cybersecurity: creating cybersecurity and privacy systems that have a better understanding of human social behavior;
+- Subversive AI: designing human-centered AI systems that subvert algorithmic surveillance;
+- Privacy through Design: developing new design processes that foreground consideration of privacy;
+- Corporeal cybersecurity: creating tangible / corporeal cybersecurity and privacy interfaces; and,
+- Privacy for the People: designing an end-to-end system to facilitate grassroots privacy collective action.
+His work has been selected for a best paper award at UbiComp (2013), three best paper honorable mentions at CHI (2016, 2017, 2020), a distinguished paper award at SOUPS (2020), and an honorable mention for the NSA's Best Scientific Cybersecurity Paper (2014). The lab's work has been generously supported by the NSF and Facebook. His work has also been covered by the popular press, including features on The Atlantic, The Financial Times and Dark Reading.
+Das keeps an academic blog, a privacy and security blog and a vlog covering topics on academia and research in HCI and cybersecurity.

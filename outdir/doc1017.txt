@@ -1,0 +1,140 @@
+Ph.D. HCC Course of Study
+The program of study for the HCC Ph.D. consists of:
+- Coursework
+- Research
+- Teaching and service requirements
+- Qualifying exam and defense
+Coursework
+Core Classes: The three core classes form the foundation of the knowledge necessary for the HCC program. Students must have at least one A and at most two B's in the core courses.
+|
+|
+Classes
+|
+|
+CS 6451 Introduction to Human-Centered Computing
+|
+|
+Seminars
+|
+|
+CS 8001 Human-Centered Computing Concepts
+Specialization*: The specialization courses provide HCC students with depth of knowledge in their chosen fields as well as breadth of knowledge in another area of computing. Students must take three elective courses: two from the area of HCC specialization -- such as Artificial Intelligence, Cognitive Science, Human-Computer Interaction, Learning Sciences and Technologies, Social Computing -- and one from another area, for a total of at least nine semester hours.
+|
+|
+Artificial Intelligence
+|
+|
+CS 6476 Computer Vision
+|
+|
+Cognitive Science
+|
+|
+CS 6795 Introduction to Cognitive Science
+|
+|
+Human-Computer Interaction
+|
+|
+CS 6455 User Interface Design and Evaluation
+|
+|
+Learning Science & Technology
+|
+|
+CS 6460 Educational Technology: Conceptual Foundations
+|
+|
+Social Computing
+|
+|
+CS 6465 Computational Journalism
+*Note: The list above is not exhaustive. Courses listed in minor fields of study may also be acceptable unless used to satisfy the minor requirement. Many other courses from all six Georgia Tech Colleges are also acceptable. Students should choose electives in consultation with their advisors and with the approval of the HCC program director. If the number of courses being offered in some area is smaller than needed, then other options may be possible.
+Minor
+The Ph.D. minor consists of nine semester hours of classes from outside HCC. Thus, a Ph.D. minor within the College of Computing (but outside HCC) is also possible. The nine hours must form one coherent area of study. If a course has a CS section and a non-CS section, then students should register for the CS section and not count it towards a minor. A minor may also include courses from outside Georgia Tech, for example, courses at Emory University or Georgia State University.
+Though not an exhaustive list, some examples of minors include:
+|
+|
+History, Technology & Society Example
+|
+|
+HTS 6001 Proseminar in Social Theory
+|
+|
+Industrial Design Example
+|
+|
+ID 6101 Human-Centered Design
+|
+|
+Industrial and Systems Engineering Example 1
+|
+|
+ISyE 6205 Cognitive Engineering
+|
+|
+Industrial and Systems Engineering Example 2
+|
+|
+ISyE 6223 Understanding and Supporting Human Decision Making
+|
+|
+Literature, Media & Communication Example 1
+|
+|
+LMC 6316 Historical Approaches to Digital Media
+|
+|
+Literature, Media & Communication Example 2
+|
+|
+LMC 6318 Experimental Media
+|
+|
+Literature, Media & Communication Example 3
+|
+|
+LMC 6215 Issues in Media Studies: Game Design as a Cultural Practice
+|
+|
+Psychology Example 1
+|
+|
+PSYC 6011 Cognitive Psychology
+|
+|
+Psychology Example 2
+|
+|
+PSYC 6018 Principles of Research Design
+|
+|
+Public Policy Example
+|
+|
+PUBP 6014 Organization Theory
+Qualifying Exam
+All HCC Ph.D. students are required to take a qualifying exam. The purpose of the qualifying exam is for the student to demonstrate competency in:
+- Basic computing concepts and methods
+- Written research communication
+- Oral research communication
+- Core HCC Knowledge
+- Core knowledge in student’s HCC specialization.
+- Design and evaluation of human-centered systems
+- Synthesis of ideas from different fields, such as from computing and cognitive, educational, and social sciences
+Parts of the Exam
+The qualifying exam consists of three parts:
+- Written Exam
+- Oral Exam
+- Research Portfolio (demonstrates the skills enumerated below, and includes at least one publication quality paper)
+*The HCC qualifying exam is administered in the spring term of each academic year and all students are expected to take it in their second year. Students that need accommodations must contact the Office of Disabilities Services. The exam is administered by a faculty committee selected by the advisor in consultation with the student. It consists of the student’s advisor(s) and three additional HCC faculty members. The HCC faculty will evaluate the written component of the qualifying exam and will decide whether or not the student is invited to complete the oral component. A student may retake a failed exam once and all students must pass within three years of entering the program.
+After a second attempt of the written component of the qualifying exam the HCC faculty will decide whether or not the student is invited to complete the oral component. A student who fails the second qualifying exam will be asked to leave the program. The collective decision of the faculty is final.
+Thesis Proposal Defense and Dissertation Defense
+Georgia Tech requires that "Doctoral students must spend at least two full-time semesters in residence at the Georgia Institute of Technology and ordinarily must complete research for the dissertation while in residence" (Georgia Tech 2014-15 General Catalog).
+- Thesis Proposal Defense - All students need to present and defend a written Ph.D. proposal to a thesis proposal committee of at least four members as follows:
+- The student’s advisor(s)
+- At least two additional HCC faculty members
+- At least one other faculty from another academic unit in Georgia Tech (outside HCC, typically the minor field) or a committee member external to Georgia Tech
+All committee members must have a Ph.D. degree. Committee members external to Georgia Tech need not be affiliated with a university.
+We expect all students to defend their thesis proposal by the end of the fourth year of their Ph.D. program. After the proposal is accepted, the student is expected to initiate a meeting with the thesis committee at least once a year to review research progress.
+When completed, the dissertation must be publicly defended before a dissertation committee of at least five members (in addition to the four above, at least one committee member must be external to Georgia Tech). Please see Georgia Tech Guidelines for thesis proposals.

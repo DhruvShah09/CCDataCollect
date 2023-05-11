@@ -1,0 +1,264 @@
+|
+|
+Introduction
+|
+||
+||
+||
+||
+||
+|
+|We are in an era of measurement, where sensors of all forms continuously capture phenomena and store them in data. While one would hope that the wealth of data would be an asset, too often the reverse is true: the volume of data simply serves to confuse and paralyze a person in a decision-making process. How do we build technology to help people make sense of their data, empowering them with insights to make decisions, produce scientific discoveries, and increase their understanding of the data-rich world we live in?
+|
+|The field of Information visualization is the study of how people use symbols, images, graphics, and interfaces to help examine, analyze, and understand data and information. Here, the term "information" generally means abstract data that has no physical correspondence, such as baseball statistics, large text corpuses, customer purchase databases, telephone calling patterns, and so on. Understanding information visualization requires a person to learn about basic multivariate data characterizations, visual properties such as color and animation, general visualization techniques, and existing information visualization tools and systems.
+|
+|The literature in this area selects readings from topics including: understanding of how to bind data attributes and values to visual encodings and visual metaphors, evaluating the effectiveness of a visualization to generate insights for users, leveraging toolkits and frameworks to create visualizations, and understanding the value that visualizations have in helping humans think about (and analyze) their data.
+|
+|Most importantly, students seeking an in-depth understanding of the area should take the course, CS 7450 - Information Visualization.
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+General Resources
+|
+||
+||
+||
+||
+||
+|
+|The following readings present an overview of the field of information visualization. They give design guidelines, showcase the diversity of visualization techniques, and give fundamental principles that ground the science.
+|
+|1
+||S.K. Card, J.D. Mackinlay, & B. Shneiderman, (1999). Readings in Information Visualization: Using Vision to Think. Morgan Kaufmann. (Chapter 1).
+||
+||
+||
+||
+||
+||
+|
+|2
+||S. Few, (2009). Now you see it: simple visualization techniques for quantitative analysis. Analytics Press.
+||
+||
+||
+||
+||
+||
+|
+|3
+||Heer, J., Bostock, M., & Ogievetsky, V. (2010). A tour through the visualization zoo. Communications of the ACM, 53(6), June 2010, 59-67.
+||
+||
+||
+||
+||
+||
+|
+|4
+||J. Heer and B. Shneiderman. "Interactive dynamics for visual analysis." Communications of the ACM, Vol. 55, No. 4, April 2012, pp. 45-54.
+||
+||
+||
+||
+||
+||
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+Visualization Tools and Techniques
+|
+||
+||
+||
+||
+|
+|The two papers below present illustrative research on state-of-the-art recent information visualization systems for general multivariate data. Students should understand each system’s unique approach and contributions.
+|
+|5
+||K. Wongsuphasawat, et al. "Voyager: Exploratory analysis via faceted browsing of visualization recommendations." IEEE Transactions on Visualization and Computer Graphics 22.1 (2016): 649-658.
+||
+||
+||
+||
+||
+||
+|
+|6
+||S. Gratzl, A. Lex, N. Gehlenborg, H. Pfister, & M. Streit, (2013). Lineup: Visual analysis of multi-attribute rankings. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2277-2286.
+||
+||
+||
+||
+||
+||
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+Cognitive Foundations
+|
+||
+||
+||
+||
+|
+|An important part of information visualization is understanding how the techniques we create interact with the cognitive and perceptual systems of people. The readings below discuss how some of these concepts have been explored.
+|
+|7
+||D. Norman, "Visual Representations", Chapter 3 in Things That Make Us Smart: Defending Human Attributes in the Age of the Machine, Addison-Wesley, 1994.
+|
+|8
+||J.D. Fekete, J. van Wijk, J. Stasko, & C. North, (2008). The value of information visualization. In Information Visualization: Human-Centered Issues and Perspectives, (Editors: A. Kerren, J. Stasko, J.-D. Fekete, C. North), Springer, 2008, pp. 1-18.
+||
+||
+||
+||
+||
+||
+|
+|9
+||M. Brehmer and T. Munzner, "A Multi-Level Typology of Abstract Visualization Tasks", IEEE Transactions on Visualization and Computer Graphics, Vol. 19, No. 12, Dec. 2013, pp.2376-2385.
+|
+|10
+||Z. Liu, & J. Stasko, (2010). Mental models, visual reasoning and interaction in information visualization: A top-down perspective. IEEE Transactions on Visualization and Computer Graphics, 16(6), 999-1008.
+|
+|11
+||M. Pohl, M. Smuc, and E. Mayr. "The user puzzle—explaining the interaction with visual analytics systems." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2908-2916.
+|
+|12
+||Z. Liu, N. Nersessian, J. Stasko, "Distributed Cognition as a Theoretical Framework for Information Visualization", IEEE Transactions on Visualization and Computer Graphics, Vol. 14, No. 6, Nov/Dec 2008, pp. 1173-1180.
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+Interaction
+|
+||
+||
+||
+||
+||
+|
+|User interaction in visualization lets people ask questions of their data, change representations to see alternative views, and perform other data-centric and visualization-centric operations to explore their data and gain insight. The papers below describe the different types of interactions that can be found in visualizations and the different ways that interaction and cognition go hand-in-hand. Finally, the third paper explores interaction beyond traditional desktop WIMP styles.
+|
+|13
+||J.S. Yi, Y.A. Kang, J.T. Stasko and J.A. Jacko, "Toward a Deeper Understanding of the Role of Interaction in Information Visualization", IEEE Transactions on Visualization and Computer Graphics, Vol. 13, No. 6, Nov/Dec 2007, pp. 1224-1231.
+||
+||
+||
+||
+||
+||
+|
+|14
+||William A. Pike, John Stasko, Remco Chang, and Theresa A. O'Connell, "The Science of Interaction", Information Visualization, Vol. 8, No. 4, Winter 2009, pp. 263-274.
+||
+||
+||
+||
+||
+||
+|
+|15
+||B. Lee, P. Isenberg, N.H. Riche, & S. Carpendale, (2012). Beyond mouse and keyboard: Expanding design considerations for information visualization interactions. IEEE Transactions on Visualization and Computer Graphics, 18(12), 2689-2698.
+||
+||
+||
+||
+||
+||
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+Presentation and Storytelling
+|
+||
+||
+||
+||
+|
+|While many people think of the analytical purposes of visualization, its role in presentation and storytelling is just as important. The paper below explores the communication-driven application of visualization.
+|
+|16
+||E. Segel and J. Heer, "Narrative Visualization: Telling Stories with Data", IEEE Transactions on Visualization and Computer Graphics, Vol. 16, No. 6, Nov.-Dec. 2010, pp. 1139-1148.
+|
+|
+||
+||
+||
+||
+||
+||
+||
+|
+|
+|
+Evaluation
+|
+||
+||
+||
+||
+||
+|
+|Evaluating the performance and impact of visualization techniques can be done through a number of different methods. The list of readings below give a few examples.
+|
+|17
+||S. Carpendale, "Evaluating Information Visualizations", in Information Visualization: Human-Centered Issues and Perspectives, (Editors: A. Kerren, J. Stasko, J.-D. Fekete, C. North), Springer, 2008, pp. 19-45.
+|
+|18
+||H. Lam, E. Bertini, P. Isenberg, C. Plaisant, and S. Carpendale. "Empirical Studies in Information Visualization: Seven Scenarios." IEEE Transactions on Visualization and Computer Graphics, Vol. 18, No. 9, Sept. 2012, pp. 1520-1536.
+|
+|19
+||B. Shneiderman, & C. Plaisant, (2006). Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies. In Proceedings of the 2006 AVI workshop on Beyond time and errors: novel evaluation methods for information visualization (pp. 1-7). ACM.
+|
+|20
+||C. North, "Toward measuring visualization insight." IEEE Computer Graphics and Applications 26.3 (2006): 6-9.
+|
+|21
+||J. Stasko, J. (2014). Value-driven evaluation of visualizations. In Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, October 2014, pp. 46-53. ACM.
+|

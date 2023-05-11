@@ -1,0 +1,22 @@
+Image
+Research Areas
+At Georgia Tech, computing is taken seriously. Founded in 1990, the College of Computing represented just the second computing college at top U.S. universities, and its commitment to that continues to this day. Our five schools and some 140 faculty allow us to explore a wide range of research areas - from the foundations of computing, like networking and software engineering, to disciplines like that focus on the exchange between person and machine, like human-computer interaction and animation, and even to the emerging areas of computational engineering and sciences.
+We invite you to use the links below to explore the widening research world of GT Computing.
+- Artificial Intelligence & Machine Learning
+- Geometry, Graphics & Animation
+- Human-Centered Computing & Cognitive Science
+- Information Visualization & Visual Analytics
+- Robotics and Computational Perception
+- Social Computing & Computational Journalism
+- Ubiquitous and Wearable Computing
+- Virtual and Augmented Environments
+- Applied and Mathematical Cryptography
+- Cybersecurity and International Affairs
+- Cyber-Physical Systems
+- Cybersecurity Policy and Law
+- Election Security
+- Forensics and Attribution
+- Hardware Security and Sidechannel Analysis
+- Malware
+- Network and System Security
+- Privacy and Data Protection

@@ -1,0 +1,5 @@
+Assistant Professor
+https://faculty.cc.gatech.edu/~yunan/
+Research Areas: Computational biology, machine learning
+Biography
+Yunan Luo is an Assistant Professor at the School of Computational Science and Engineering, Georgia Institute of Technology. He received his Ph.D. from the Department of Computer Science, University of Illinois at Urbana-Champaign in 2021 and his bachelor’s degree in Computer Science from Yao Class at Tsinghua University in 2016. His research interests are in computational biology and machine learning.
