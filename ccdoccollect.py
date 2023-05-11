@@ -16,5 +16,5 @@ for i in range(len(links)):
     if (result is None):
         print("error")
         continue
-    out_file.write(result +"\n")
+    outfile.write(result +"\n")
     print("done")
