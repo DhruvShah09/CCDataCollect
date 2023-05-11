@@ -7,7 +7,7 @@ z = 0
 for i in range(len(links)): 
     print(i + 1) 
     outdir = "outdir/" 
-    write_addr = "doc" + z + ".txt"
+    write_addr = "doc" + str(z) + ".txt"
     addr = outdir + write_addr
     z += 1
     outfile = open(addr , "a")
