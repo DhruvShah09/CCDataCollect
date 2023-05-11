@@ -1,0 +1,4 @@
+Biography
+Animesh Garg is a Stephen Fleming Early Career Professor at School of Interactive Computing at Georgia Tech. He leads the People, AI, and Robotics (PAIR) research group. He is on the core faculty in the Robotics and Machine Learning programs. Animesh is also a Senior Researcher at Nvidia Research. Animesh earned a Ph.D. from UC Berkeley and was a postdoc at the Stanford AI Lab.
+He is on leave from the department of Computer Science at University of Toronto and CIFAR Chair position at the Vector Institute.
+His work aims to build Generalizable Autonomy which involves a confluence of representations and algorithms for reinforcement learning, control, and perception. He currently studies three aspects: learning structured inductive biases in sequential decision making, using data-driven causal discovery, and transfer to real robots — all in the purview of embodied systems.

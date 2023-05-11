@@ -1,0 +1,81 @@
+Undergraduate Registration
+Student Registration Dates & Information - Undergraduate
+Please view the following information as it pertains to registration for Summer and Fall Semesters
+Registration Information Session Video (Summer and Fall 2023 Registration) (link)
+Find your advisor
+TO FIND OUT INFORMATION ABOUT A SPECIFIC COURSE, HOLD [CONTROL+F] FOR PC OR [COMMAND+F] FOR MAC AND TYPE IN THE SUBJECT/NUMBER IN THE SEARCH FIELD.
+PLEASE CROSS REFERENCE THE INFORMATION ON THIS PAGE WITH THE INFORMATION FOUND ON OSCAR AT OSCAR.GATECH.EDU.
+HYBRID INSTRUCTIONAL METHOD
+The College of Computing will use a hybrid instructional method for the summer and fall courses below. For hybrid courses, some sessions take place in person and some take place fully online. Details for updates will appear on Canvas when instructors activate the courses there.
+Summer Hybrid courses: CS 1332 A and C, CS 2050 B, and CS 3510 A
+Fall Hybrid courses: CS 1332 C and D, CS 2050 B and C, and CS 2200 A and B
+SUMMER 2023 RESTRICTIONS
+Major restrictions, except CS 1315, CS 1371, CS 3311, & CS 3312, will be removed on Monday, May 8th by noon.
+FALL 2023 RESTRICTIONS
+Thread Information and Restrictions
+CS and CM students: Please note that CS 3000-4000 level classes will be restricted by threads April 17th - May 1st .You will not be able to register for these courses unless your threads are declared in OSCAR by Sunday, April 16th. After this date, students can drop a thread, but will not be able to add one until after restrictions are removed on Monday, May 1st by noon.
+Instructions for adding threads: https://degreeworks.gatech.edu/files/concentration_mgt.pdf
+Video instructions can be found here:https://www.youtube.com/watch?v=oY_KFoqXtUY
+Major and Class Restrictions
+CS thread-related courses will be open to CMPE students.Contact your CMPE advisor for the dates and detailed course list.
+CS 1100 sections A1, A2, A3, and A4: Restricted to incoming CS and CM Major restrictions not removed.
+CS 1301: Restricted to APHY, BCHM, BIO, CHEM, CS, CM, CMPE, EAS, EE, MTH, MT, NEUR, PHYS, PSY, & UCS. Class restricted to freshmen and sophomores. Class restrictions will be removed on Monday, May 1st by Noon.Major restrictions will be removed on Friday, August 18th by noon.
+CS 1315: Restricted to ALIS, ARCH, BA, BC, BCHM, BIO, CHEM, ECON, EIA, GEML, HTS, ID, INTA, LMC, MGT, NEUR PSY, PUBP, STC, UAC, UACA, UACB, UACI, & UIAC. Class restricted to freshmen and sophomores. Class restrictions will be removed on Monday, May 1st by noon. Major restrictions not removed.
+CS 1371: Restricted to Engineering students (Except CMPE, EE, & IE), APHY, BCHM, BIO, CHEM, EAS, NEUR, PHYS, PSY, UEC, & UCS. Class restricted to freshmen and sophomores. Class restrictions will be removed on Monday, May 1st by Noon. Major restrictions not removed.
+CS 1331: Restricted to CS, CM, CMPE, & MTH. Major restrictions will be removed on Friday, August 18th by noon.
+CS 2316: Restricted to IE. Major restriction will be removed on Friday, August 18th by noon.
+CS 3001:This class satisfies the BSCS and BSCM ethics requirement. Restricted to CS and CM. Major restrictions not removed.
+CS 3311 & CS 3312: Restricted to CS & CM. A permit is needed to register for the second part of the Project Class. CS & CM students received Fall 2023 instructions from class instructors and in a student alert from the CoC Advising Team. Major restrictions not removed.
+CS 3510 and CS 3511: Restricted to CS, CM, CMPE (Open to MTH on May 1st by noon). Major restrictions will be removed on Monday, May 8th by noon.
+CS 3750: Offered in Fall 2023 as CS 3873 (section HCI). CS 3873 covers the same material as CS 3750, but with a different format of two 50-minute lectures and one smaller two-hour design studio.
+CS 4400: Restricted to CS, CM, CMPE, IE, & BINF. Restricted to Juniors, Seniors, MS, & PHD students. Class restrictions will not be removed. Major restrictions will be removed on Monday, May 8th by noon.
+CS 4510: Restricted to CS & CM (Open to MTH on May 1st by noon). Major restrictions will be removed on Monday, May 8th by noon.
+CS 4641: Restricted to CS & CM (Open to MTH on May 1st by noon). Major restrictions will be removed on Monday, May 8th by noon.
+CX 4140: Restricted to CS & CM (Open to MTH on May 1st by noon). Major restrictions will be removed on Monday, May 8th by noon.
+CX 4242: Restricted to CDA minors. Restrictions will be removed on Monday, May 1st by noon.
+UNDERGRADUATE - GENERAL INFORMATION
+Degree Candidates for Fall 2023 who need to register for a freshman/sophomore course and have submitted an OAG can email cc-undergraduatepermits@lists.gatech.edu to request a permit.
+For classes restricted to Juniors and Seniors, students must be Juniors (60 credit hours) or Seniors (90 credit hours) at the time of registration.
+Undergrads taking Grad Courses: A student interested in registering for a graduate level course must be a senior (90 hours completed) with an overall GPA of least a 2.7. Permission from the instructor is required.
+Permits: Permits for accepted BSMS students will be issued in Phase I of registration if certain restrictions are met. Permits for other students will be issued in phase II. Check here for the process: https://www.cc.gatech.edu/student-registration-dates-information-graduate
+Changing Major to CS or CM/Declaring CS Minor: Advisors are unable to meet individually with students interested in a change of major or declaring a minor.
+Change of Major: Students interested in changing or declaring a secondary major in CS or CM must attend a Change of Major meeting. Secondary majors are only eligible after completing their primary major requirements and applying to graduate. Find requirements and register online at the following links:
+Computer Science: https://www.cc.gatech.edu/create-application-changing-majors-computer-science
+Computational Media: https://www.cc.gatech.edu/create-application-changing-majors-computational-media
+Declaring a CS Minor: The CS minor application form is closed for this semester. Future interest meeting dates and application information will be posted here: https://www.cc.gatech.edu/computer-science-minor-interest-meeting-online-application-information-and-registration
+Requesting Research Permits
+We will be using DocuSign for all undergraduate permit requests (CS 2698, CS 2699, CS 4698, CS 4699, CS 4903).
+You will be able to assign recipients for signatures and complete the necessary form fields electronically.
+Step1: Go to the DocuSign page. (https://esignature.gatech.edu/)
+Step 2: Log into DocuSign using your gtAccount@gatech.edu credentials.
+Step 3: In DocuSign, navigate to Template>SHARED FOLDERS>Students>COC>Registration
+Step 4: Click the USE button on the desired form.
+Step 5: Complete the recipient field for "Student" and the "Instructor" who will approve the request. Use the directory in the name field to search for the instructor's name. This allows their GT email account to populate.
+Step 6: Click SEND.
+Step 7: Complete the necessary fields, and click FINISH.
+The form will be routed automatically to other recipients to review and sign. Once completed, all recipients receive the signed and completed form via email. You can check the progress of the form in your DocuSign account.
+Please contact the College of Computing at cc-undergraduatepermits@lists.gatech.edu, if you have any questions about these forms.
+FAQ
+Q: What do I do if a Course is CLOSED?
+A: Once the registration cap has been reached for a course, the course is full. In order to request a seat in a closed CS course, you must follow the instructions for waitlisting: http://www.registrar.gatech.edu/ registration/waitlisting.php
+Q: Can a professor help me get into the course?
+A: Please DO NOT email a professor to seek permission to enroll in his/her course, as professors have no control over this.
+Q: What does this error message mean?
+A: If you try to register for a course and receive an error message, please refer to the link:
+http://www.registrar.gatech.edu/registration/ error.php for an explanation of what the message means.
+Q: What if the class and the waitlist are both full?
+A: The only thing you can do in this situation is wait until something opens up.
+Q: I am not a CoC major, but I want permission to take a class. How do I do that?
+A: The College of Computing does not issue permit for restricted classes. See above for information about when major restrictions will be removed.
+Q: I am a graduate student. Can I take the undergraduate version of a course that is cross-listed with both undergrad and grad sections?
+A: If you are a grad student, you should take the grad section of a cross-listed course.
+Q: When are wait lists removed from classes?
+A: The registrar's office usually removes wait lists from classes on the Thursday before Phase II registration ends.
+Q. I understand that students appear on wait lists in the order that they attempt to register. Is that initial order ever changed?
+A. Yes. Degree candidates may be moved up on the waitlist for classes they must take to satisfy the BSCS degree.
+Q. Can I register for a CoC graduate-level course if I didn't receive a permit?
+A. If you were not issued a permit for Phase I, this does NOT mean you cannot take the course. You can continue to try to register for your courses during Phase II registration.
+Undergraduate Academic Resources
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

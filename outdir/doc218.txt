@@ -1,0 +1,6 @@
+Ph.D. Student
+https://alisiahkoohi.github.io
+Research Areas: Deep Learning, Inverse Problems, Uncertainty Quantification, Approximate Inference
+Biography
+Advisor: Felix J. Herrmann
+I am pursuing a Ph.D. in Computational Science and Engineering at Georgia Institute of Technology. Currently, my research is mainly focused on applications of deep learning in inverse problems and uncertainty quantification.

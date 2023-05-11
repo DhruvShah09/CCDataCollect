@@ -1,0 +1,5 @@
+Ph.D. Student
+https://www.cc.gatech.edu/~jyang462/
+Research Areas: machine learning, reinforcement learning, multi-agent reinforcement learning
+Biography
+One who trains agents for too long should see to it that in the process one does not become the subject being trained by agents.

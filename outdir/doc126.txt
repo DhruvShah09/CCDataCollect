@@ -1,0 +1,26 @@
+GVC Area - Animation
+Books and Tutorials
+- Physically Based Modeling, SIGGRAPH 1997 Course Notes, by Baraff and Witkin
+- Fluid Simulation, SIGGRAPH 2007 Course Notes, by Bridson et al
+- A quick tutorial on multi-body dynamics, by Liu and Jain
+- Optimal control theory, by Todorov
+- Real-time physics, by Muller
+- An Introduction to the Conjugate Gradient Method Without the Agonizing Pain, by Shewchuk
+- Contact Handling for Articulated Rigid Bodies Using LCP, by Tan et al
+- CS4496 slides on keyframe animation by Liu
+Papers
+- Stable Fluids, by Stam
+- Large Steps in Cloth Simulation, by Baraff and Witkin
+- Reflections on Simultaneous Impact, by Smith et al
+- Deformable Object Animation Using Reduced Optimal, by Barbic
+- SIMBICON: Simple Biped Locomotion Control, by Yin et al
+- Dextrous Manipulation from a Grasping Pose, by Liu
+- Spacetime Constraints, by Kass and Witkin
+- Interactive control of avatars animated with human motion data, by Lee et al
+- Style-based Inverse Kinematics, by Grochow et al
+- Unified Particle Physics for Real-Time Applications, by Macklin et al
+- Example-Based Elastic Materials, by Martin et al
+- A Deep Learning Framework for Character Motion Synthesis, by Holden et al
+- Discovery of Complex Behaviors through Contact-Invariant Optimization, by Mordatch et al
+- Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning, by Xue et al
+Last updated 6/22/17

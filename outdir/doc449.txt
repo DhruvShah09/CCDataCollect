@@ -1,0 +1,5 @@
+Professor
+http://www.cc.gatech.edu/~turk
+Research Areas: Computer Graphics, Simulation for Biology
+Biography
+Greg Turk received a Ph.D. in computer science in 1992 from the University of North Carolina at Chapel Hill. He was a postdoctoral researcher at Stanford University for two years, followed by two years as a research scientist at UNC Chapel Hill. He is currently holds the rank of Professor at the Georgia Institute of Technology, where he is a member of the School of Interactive Computing and the Graphics, Visualization and Usability Center. His research interests include computer graphics, biological simulation and scientific visualization. He was the Technical Papers Chair for ACM SIGGRAPH 2008. In 2012 he received the Computer Graphics Achievement Award from ACM SIGGRAPH for his contributions to the field of computer graphics.

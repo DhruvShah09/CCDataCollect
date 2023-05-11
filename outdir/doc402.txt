@@ -1,0 +1,19 @@
+Adjunct Professor
+http://users.ece.gatech.edu/~dblough/
+Research Areas: Wireless networks; distributed algorithms; network simulation
+Biography
+Doug Blough is Professor and Associate Chair for Faculty Development
+in the School of Electrical and Computer Engineering with an Adjunct
+appointment in the School of Computer Science. He received the B.S.
+in Electrical Engineering and the M.S. and Ph.D. in Computer Science,
+all from the Johns Hopkins University. Before joining the Georgia
+Tech faculty in 1999, he was Associate Professor of ECE and CS at the
+University of California Irvine.
+Dr. Blough's research interests are in networks and distributed systems.
+Currently, he focuses on wireless networks' architecture and protocols,
+and distributed algorithms over wireless networks. He has over 150
+refereed archival publications in these areas and has served on the
+program committees of numerous related conferences such as Infocom,
+Mobihoc, Mobicom, ICDCS, and DSN. He is currently Associate Editor
+for both IEEE Transactions on Wireless Communications and IEEE
+Transactions on Cloud Computing.

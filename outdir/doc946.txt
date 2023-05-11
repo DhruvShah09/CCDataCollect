@@ -1,0 +1,6 @@
+Professor, Co-Director of IISP, and John P. Imlay Jr. Chair in Software
+http://www.cc.gatech.edu/~wenke
+Research Areas: Systems, Network Security
+Biography
+Wenke Lee, Ph.D., is executive director of the Institute for Information Security & Privacy (IISP) and responsible for continuing Georgia Tech's international leadership in cybersecurity research and education. Additionally, he is the John P. Imlay, Jr., Chair of Software and professor of computer science in the College of Computing at Georgia Tech, where he has taught since 2001. Previously, he served as director of the IISP's predecessor - the Georgia Tech Information Security Center (GTISC) research lab - from 2012 to 2015.
+He received his Ph.D. in Computer Science from Columbia University in 1999. Dr. Lee works in systems and network security. His current research projects are in the areas of botnet detection and attribution, malware analysis, virtual machine monitoring, mobile phone security, and detection and mitigation of information manipulation on the Internet, with funding from NSF, DHS, DoD, and the industry. Dr. Lee has published over 100 articles with more than 40 of them cited more than 100 times. In 2006, Dr. Lee co-founded Damballa, Inc., a spin-off from his lab that focuses on botnet detection and mitigation.

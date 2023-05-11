@@ -1,0 +1,6 @@
+Associate Professor
+http://friendlycities.gatech.edu/
+Research Areas: Information Visualization; Geovisualization; GIS
+Biography
+Clio Andris is an associate professor in the School of City and Regional Planning and the School of Interactive Computing at Georgia Tech. She directs the Friendly Cities Lab and conducts research on mathematical models of social networks, social flows, and interpersonal relationships, applied to issues of urban planning, visualization, transportation, and geography.
+Her lab is a member of the Center for Spatial Planning Analytics and Visualization (CSPAV) and the Information Visualization Lab. She received a PhD from MIT in 2011 in Urban Information Systems, where she was an NDSEG fellow and member of the Senseable City Lab. She held postdoctoral positions at the Singapore-MIT Alliance for Research and Technology and at the Santa Fe Institute. Prior to Georgia Tech, she was a faculty member in the Department of Geography at Penn State, and her lab was an affiliate of the GeoVISTA Center. She won an NSF CAREER award in 2021.

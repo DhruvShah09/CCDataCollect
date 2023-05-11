@@ -1,0 +1,5 @@
+Research Scientist II
+https://www.cc.gatech.edu/people/jeffrey-valdez
+Research Areas: Data Science, Predictive Analytics, and Deep Learning in Healthcare
+Biography
+|Jeffrey Valdez is a Research Scientist at the School of Computational Science and Engineering in the College of Computing at the Georgia Institute of Technology. His career in biomedical research has been broad and interdisciplinary, with work in computer science, statistics, psychology, psychiatry, and bioethics. His current research is centered on data science in healthcare, with a focus on large-scale predictive modeling from biomedical data and deep learning in healthcare. Prior to Georgia Tech, he worked at the Brain Behavior Behavior Laboratory at the Perelman School of Medicine at University of Pennsylvania, collaborating on studies in psychiatry and neuroimaging focused on schizophrenia and mental illness and working on population-based efforts like the Philadelphia Neurodevelopmental Cohort (PNC).|

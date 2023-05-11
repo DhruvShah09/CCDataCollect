@@ -1,0 +1,9 @@
+Ph.D. CS Databases Body of Knowledge
+A student has to take three courses as specified below and get at least two A's and one B in the three courses.
+Required courses:
+CS 6400: Database Systems Concepts and Design
+CS 6422: Database System Implementation
+One out of the following three courses:
+CS 6220: Big Data Systems and Analytics
+CS 6675: Advanced Internet Applications Development
+CS 6365: Introduction to Enterprise Computing

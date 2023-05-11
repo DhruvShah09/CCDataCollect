@@ -1,0 +1,5 @@
+Ph.D. Student
+https://scholar.google.com/citations?user=gYa-FTQAAAAJ&hl=en
+Research Areas: Machine Learning on Graphs; High Performance Computing and Graph Analytics
+Biography
+James Fox received his Bachelor's from UC Berkeley in 2016, and is currently a PhD student in CSE. His research includes applying machine learning to graph-structured data, as well as graph analytics with high-performance computing in mind.

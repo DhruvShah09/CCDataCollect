@@ -1,0 +1,9 @@
+Adjunct Professor
+http://www.cc.gatech.edu/~tucker
+Research Areas: Machine Learning for Finance
+Biography
+Tucker Balch is the Associate Chair for Graduate Studies and a professor in the School of Interactive Computing at Georgia Tech.
+He is interested in research problems concerning multi agent social behavior.
+This interest has led to research in a wide range of topics from financial markets to to tracking and modeling the behavior of ants, honeybees and monkeys. He teaches courses in Robotics, Machine Learning and Finance.
+In addition to his teaching on campus, more than 170,000 students have take his courses online via Coursera and Udacity. He is Chief Scientist and co-founder of Lucena Research, an investment software firm that applies Machine Learning and Big Data approaches to investment problems. Balch has published 120 conference papers and journal articles. His work has been covered by CNN, New Scientist, Institutional Investor, and the New York Times. His graduated students work at NASA/JPL, Boston Dynamics, Goldman Sachs, Morgan Stanley, Citadel, AQR, and Yahoo! Finance.
+Before his career in academia, Balch was a USAF F-15 pilot.

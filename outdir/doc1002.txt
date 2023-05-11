@@ -1,0 +1,9 @@
+Ph.D. CS Graphics & Visualization Body of Knowledge
+Graphics, Modeling, Animation, Visualization, Perception, VR/AR
+The written portion of the qualifier exam has two parts (General and Specialized). The URLs below point to web pages that include a reading list and sample questions for the general GVC area and for each one of the specialized subareas. Students are allowed to use books, notebooks, class notes and handouts, computers, and Internet resources. All sources of inspiration must be clearly cited and text copied should be surrounded by quotes. Students are not allowed to ask anyone for help, whether in person, by phone, by Email, or any other means. To speed-up the grading process, electronic submission of answers (PDF or plain text) is preferred, although students have the option of submitting hand-drawn figures and hand-written answers.
+General Questions
+Each candidate must answer 4 out of 6 general questions that either cover general issues that pertain to the overall GVC field or focus on specific modeling, graphic, or animation techniques that are used by practitioners in most GVC sub-areas.
+Specialized Questions
+Prior to the qualifier, each student must select 2 sub-areas amongst the ones listed below. During the written part, the student must answer 2 out of 4 proposed questions in each selected sub-area.
+Specialized sub-areas (coordinating faculty):
+During the oral portion of the qualifier, students may be asked to explain/rectify their written answers, to answer other questions of a similar nature, to present and defend one aspect of their past research contribution, and to discuss broad research challenges.

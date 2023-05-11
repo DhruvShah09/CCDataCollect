@@ -1,0 +1,6 @@
+Associate Professor
+https://www.cc.gatech.edu/~hays/
+Research Areas: Computer Vision, Machine Learning, Robotics
+Biography
+My research interests span computer vision, robotics, and machine learning. I work on problems such as object detection, tracking, and localization. My research often involves finding new data sources to exploit (e.g. geotagged imagery) or creating new data sets where none existed (e.g. sketches or grasps).
+Before joining Georgia Tech, I was the Manning Assistant Professor of Computer Science at Brown University. I was a postdoc at MIT with Antonio Torralba, completed my Ph.D. at Carnegie Mellon University with Alexei Efros, and received my B.S. from Georgia Tech. I am the recipient of the Alfred P. Sloan Fellowship and the NSF CAREER award. From 2017 to 2022 I was a Principal Scientist at Argo AI researching self-driving vehicle perception.

@@ -1,0 +1,5 @@
+Assistant Professor
+https://faculty.cc.gatech.edu/~danfei/
+Research Areas: Robotics, Artificial Intelligence, Machine Learning, Computer Vision
+Biography
+Dr. Danfei Xu is an Assistant Professor in the School of Interactive Computing at Georgia Tech. Dr. Xu received a B.S. in Computer Science from Columbia University in 2015 and a Ph.D. in Computer Science from Stanford University in 2021. His research goal is to enable physical autonomy in everyday human environments with minimum expert intervention. Towards this goal, his work draws equally from Robotics, Machine Learning, and Computer Vision, including topics such as imitation & reinforcement learning, representation learning, manipulation, and human-robot interaction. His current research focuses on visuomotor skill learning, structured world models for long-horizon planning, and data-driven approaches to human-robot collaboration.

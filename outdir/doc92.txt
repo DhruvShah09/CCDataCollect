@@ -1,0 +1,34 @@
+Minor in Computing & Systems and Architecture
+Minor in Computing & Systems and Architecture
+General Requirements:
+- Must be in good academic standing (Student is not on academic warning or probation; is maintaining satisfactory academic progress.)
+- CS 1301, CS 1315, or CS 1371 must be completed with an “A” or “B” before applying for the Minor in Computing & Systems and Architecture
+- CS 1331 must be completed with an “A” or “B” before applying for the Minor in Computing & Systems and Architecture
+- Students must have a minimum of 48 credit hours remaining (not including minor prerequisites and required coursework) in your major degree requirements, as seat availability in CS classes is limited
+- Only CS courses are included in the minor
+- All courses must be completed with a letter-grade of “C” or better
+- 9 hours must be 3000/4000 level
+- Course prerequisites are not a part of the minor; it is the student’s responsibility to account for all required prerequisites understanding that they are also subject to change
+- No Special Problems or Internship coursework may be used towards any CS minor
+- Computational Media, Computer Engineering (catalog year 2021-2022 and later), and Computer Science majors cannot minor in Computing & Systems and Architecture
+Required Courses:
+- CS 2110 Computer Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 3210 Design of Operating Systems, 3
+- CS 3220 Computer Structures, 3
+- Pick 1 CS course from Advanced Systems & Architectures OR System Software Tools (below):
+- Advanced Systems & Architectures Options:
+- CS 4210 Advanced Operating Systems, 3
+- CS 4220 Programming Embedded Systems, 3
+- CS 4290 Advanced Computer Organization, 3
+- System Software Tools Options:
+- CS 3300 Introduction to Software Engineering, 3
+- CS 4240 Compilers, Interpreters, and Program Analyzers, 3
+- Advanced Systems & Architectures Options:
+Total hours to receive minor: 17 hours
+For Phase I & II registration information, please visit our Registration Information page.
+All courses are not consistently offered. See http://www.cc.gatech.edu/three-year-course-outline.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

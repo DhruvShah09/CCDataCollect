@@ -1,0 +1,3 @@
+Lecturer
+Biography
+Mr. Ricky Landry is a Lecturer of Computer Science working under the Division of Computing Instruction within the College of Computing. He received his M.S. Computer Engineering from the University of Central Florida and a B.S. in both Computer Engineering and Electrical Engineering from the University of West Florida. His industry experience has primarily been in real-time software and systems engineering — with a focus on the TSPI and Telemetry domains. He has participated in the design, development, maintenance and interoperability efforts of both software and hardware systems in roles including developer, tester, and technical leadership. He is delighted to be contributing to the honing of sharp minds at the Institute.

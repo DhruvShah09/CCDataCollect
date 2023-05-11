@@ -1,0 +1,29 @@
+HCI Special Topics - Ubiquitous Computing
+Introduction
+In a seminal 1991 Scientific American article, Mark Weiser commented that all profound technologies eventually vanish, meaning they become so commonplace in our everyday experience that we take them for granted. Weiser coined the phrase ubiquitous computing and lead a project at Xerox PARC bearing the same name. Over a decade later, ubiquitous computing, and related fields such as wearable computing and augmented reality, has become one of the major emerging themes in HCI research.
+General Resources
+Students of the area should read the following two seminal papers by Weiser:
+- Mark Weiser. (1991) The Computer for the 21st Century, Scientific American, September, pp. 94-104.
+- Mark Weiser. (1993) Some computer science issues in ubiquitous computing. Communications of the ACM, 36(7):75-84, July.
+Initial papers in ubiquitous computing appeared in distributed computing and operating systems workshops and conferences, but starting in 1992, and increasingly in the late 1990's, a number of papers on novel technology (such as the Liveboard) and applications (such as Tivoli) appeared in HCI-relevant conferences such as CHI and UIST. In other conferences, such as MobiCom or Multimedia (ACM or IEEE), you will find some ubiquitous computing papers that focus mainly on applications level research. A good review of ubiquitous computing research over the decade of the 1990's and looking forward to the first decade of the 21st century is:
+- Gregory D. Abowd and Elizabeth D. Mynatt. (2000) ACM Transactions on Computer-Human Interaction, special issue on HCI in the new Millenium, 7(1):29-58, August. PDF available on-line.
+A number of relevant conferences have sprung up since the late 1990s, including:
+- International Symposium on Wearable Computing (ISWC, since 1997)
+- DARE (augmented reality, since 2000)
+- Handheld and Ubiquitous Computing (HUC, since 1999)
+Serious students of the subject should consider taking CS 7470: Mobile and Ubiquitous Computing. In addition, several advanced topics on novel interaction technologies (pen-based computing, recognition technologies) are briefly surveyed in CS 6456: Principles of User Interface Software. The Systems area course, CS 7210: Distributed Computing covers fundamental research issues in distributed computing, much of which is relevant in the construction of ubiquitous computing systems.
+Technologies for Ubicomp
+The following topics cover the wide variety of technological themes of ubiquitous computing research.
+- handheld and wearable computing and other small form factor portable computing
+- environmental computing, or instrumentation of the physical environment through tangible interaction techniques and embedded computing
+- "off the desktop" interaction technology, such as pen, voice, gesture and sensing
+- multimedia and multimodal interaction
+- novel display technology for small and large form factors
+Academic publications are not necessarily the best place to look for current information on emerging technologies relevant for ubiquitous computing. It is a good idea to keep informed of emerging technologies through familiarity with on-line trade publications, such as the Personal Technology Section on CNET. Other good sources are Ziff Davis and Wired News.
+Application Themes
+As Weiser pointed out, the whole purpose of ubiquitous computing is to create applications for humans. Several major applications themes have emerged in the first decade of ubicomp research, and students should familiarize themselves with canonical examples of these research areas, (reviewed in detail in the Abowd and Mynatt articled cited above):
+- Context-Aware Computing. A major theme in HUC proceedings and ISWC as well. This theme ranges from novel applications of sensing to support useful application behavior to generalized support for the design and implementation of context-aware applications.
+- Automated capture environments, starting from the initial Tivoli work at PARC. An important local example of this domain is the Classroom 2000 / eClass project, looking at capture in an educational setting.
+- Natural interaction, as is provided through the use of recognition technologies.
+Evaluation and Social issues
+Grudin points out some of the challenges with evaluating groupware systems (see the CSCW summary in this body of knowlege). Many of these same challenges apply to ubicomp applications. In addition, pervasive computing technologies bring additional challenges to the researcher to prototype and understand the social implications of sometimes invasive techniques. A good handle of the classic HCI evaluation techniques and the qualitative techniques learned in CS 6455: User Interface Design and Evaluation, will lead the inquisitive student towards a better understanding of how to do proper and socially relevant HCI research in ubiquitous computing.

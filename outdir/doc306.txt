@@ -1,0 +1,5 @@
+Professor (Joint with School of Psychology)
+http://sonify.psych.gatech.edu/~walkerb/
+Research Areas: Human-Computer Interaction; Sonification and Multimodal User Interfaces; Engineering Psychology; Assistive Technology and Accessibility; Driving
+Biography
+Bruce N. Walker is a Professor at Georgia Tech in the Schools of Psychology and Interactive Computing. His Sonification Lab studies the human-computer interaction (HCI) issues in non-traditional interfaces, ranging from mobile devices to cockpits and displays in vehicles to multimodal interfaces in education and in complex task environments. Research interests include sonification and auditory displays, assistive technology, and driving. Professor Walker teaches HCI, Sensation & Perception, Auditory Interfaces, and Assistive Technology. In addition to academic research leading to over 250 publications, he has worked and consulted on projects for NASA, state and federal governments, the military, and private companies.

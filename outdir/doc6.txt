@@ -1,0 +1,64 @@
+Information Internetworks
+Represent, transform, transmit, and present information.
+The Information Internetworks thread is where computing meets data enterprise. This thread deals with implications in the context of personal and organizational information management. Information Internetworks prepares students for all levels of information management by helping them to capture, represent, organize, transform, communicate, and present data so that it becomes information, using geographically distributed multi-national organizations and information needs as context.
+The student who pursues Information Internetworks can combine it with Systems and Architecture to develop information rich distributed systems, with Devices to ensure data synchronization in ad-hoc networks of small devices, with Media to build multiplayer online games, with Modeling to study text retrieval and classification, or with People to pursue research in data visualization.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+Required Courses:
+View the course prerequisites for the Information Internetworks Thread.
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 2340 Objects and Design, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+Pick 2 from Introduction to Information Management
+- CS 3251 Computer Networking 1, 3
+- CS 4235 Introduction to Information Security, 3
+- CS 4400 Introduction to Database Systems, 3
+Pick 1 from Advanced Information Management
+- Remaining Course from Intro Info Mgmt pick, 3
+- CS 4237 Computer and Network Security, 3
+- CS 4251 Computer Networking 2, 3
+- CS 4255 Introduction to Network Management, 3
+- CS 4261 Mobile Applications and Services for Converged Networks, 3
+- CS 4270 Data Communications Laboratory, 3
+- CS 4365 Introduction to Enterprise Computing, 3
+- CS 4420 Database System Implementation, 3
+- CS 4440 Emerging Database Technologies and Applications, 3
+- CS 4675 Internet Computing Systems, Services, and Applications, 3
+Elective Courses:
+Free Electives (6 hours)
+- FREE-INF1 Free Elective-Information Internetworking, 3
+- FREE-INF2 Free Elective-Information Internetworking, 3
+Introduction to Information Management
+- CS 3251 Computer Networking 1, 3
+- CS 4235 Introduction to Information Security, 3
+- CS 4400 Introduction to Database Systems, 3
+Advanced Information Management
+- CS 4237 Computer and Network Security, 3
+- CS 4251 Computer Networking 2, 3
+- CS 4255 Introduction to Network Management, 3
+- CS 4261 Mobile Applications and Services for Converged Networks, 3
+- CS 4270 Data Communications Laboratory, 3
+- CS 4365 Introduction to Enterprise Computing, 3
+- CS 4420 Database System Implementation, 3
+- CS 4440 Emerging Database Technologies and Applications, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

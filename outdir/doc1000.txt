@@ -1,0 +1,12 @@
+Ph.D. CS Computer Architecture Body of Knowledge
+A student has to take three courses as specified below and get an A in all three courses.
+Required course:
+CS 6290: High-Performance Computer Architecture
+Two of the following courses:
+CS 7290: Advanced Microarchitecture
+CS 7292: Reliability and Security in Computer Architecture
+CS 6241: Compiler Design
+CS 6245: Parallelizing Compilers
+ECE 6101: Parallel and Distributed Computer Architecture
+ECE8803/CS8803: A Special Topics course in the area of advanced computer architecture. Please check with your PhD advisor in advance whether a specific 8803 course qualifies.
+For the oral examination, the student is required to present their own research in the Architecture Seminar and then present an external paper to the faculty in a separate session.

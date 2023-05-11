@@ -1,0 +1,5 @@
+Adjunct Appointment in CSE
+https://www.cc.gatech.edu/~ogreen/
+Research Areas: High Performance Computing, Scalable Data Analytics
+Biography
+Oded Green is a research scientist at the Georgia Institute of Technology (Georgia Tech) in Computational Sciences and Engineering, where he also received his PhD. Oded received both his MSc in electrical engineering and his BSc in computer engineering from Technion – Israel Institute of Technology. Oded's research primarily focuses on improving the performance and scalability of large-scale graph analytics on dynamic graph using a wide range of high-performance computational platforms and by designing efficient algorithms and data structures.

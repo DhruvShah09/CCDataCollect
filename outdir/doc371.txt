@@ -1,0 +1,5 @@
+Ph.D. Student
+http://www.davidbetancourt.net
+Research Areas: Deep Learning; Reinforcement Learning; Uncertainty Modeling for Deep Learning; Anomaly Detection; Time Series Prediction
+Biography
+David’s Ph.D. research is at the intersection of machine learning, uncertainty modeling, and numerical methods. In particular, he develops machine learning algorithms that can be used in domains under significant uncertainty—with randomness, imprecise data, hidden information, and partial observability. Ultimately, the main goal of David’s research is to develop methods and algorithms for autonomous decision-making and control, where artificial agents have to act in real-world situations. Applications of his research include physical infrastructure systems, markets & finance, cloud computing, and cyber-security. David is defending his Ph.D. dissertation “Interval Deep Learning for Uncertainty Quantification in Engineering Problems” in Fall 2020.

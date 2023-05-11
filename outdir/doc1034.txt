@@ -1,0 +1,10 @@
+School of Computer Science
+Let’s tackle this question with an example. Today you can ask your smartphone almost any question and get a quick response. “Computer science” is what happens behind the scenes: Your phone (already more powerful than any computer in existence 30 years ago) typically passes your query over a wireless-then-wired network to “the cloud,” which is really just clusters of machines, usually located near cheap or renewable energy sources.
+Powerful algorithms then spread searches on sophisticated databases across many specially designed computers, coordinated by optimized system software, to discover the answers to your queries before returning the answer to your phone—often while you are still typing—while keeping your information secure and private.
+That is computer science, in two-tenths of a second.
+Georgia Tech’s School of Computer Science is home to a group of faculty and researchers with breadth and strength in all aspects of the computational process—from the algorithms to the architecture, from security to networking, from system design to the programming environments to databases.
+At Georgia Tech, we make computing better, now and into the future.
+Our Vision
+The School of Computer Science (SCS) will become the thought leader in all aspects of the computing environment.
+Our Mission
+The SCS mission is produce the people, tools, and ideas to power computation into the future: "We turn imagination into reality."

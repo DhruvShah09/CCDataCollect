@@ -1,0 +1,6 @@
+Assistant Professor
+https://www.cc.gatech.edu/~judy/
+Research Areas: Computer Vision, Machine Learning, AI
+Biography
+Dr. Judy Hoffman is an Assistant Professor in the School of Interactive Computing at Georgia Tech, a member of the Machine Learning Center, and a Diversity and Inclusion Fellow. Her research lies at the intersection of computer vision and machine learning with specialization in domain adaptation, transfer learning, adversarial robustness, and algorithmic fairness. She has received numerous awards, including NSF CAREER, Google Research Scholar Award, Samsung AI Researcher of the Year Award, NVIDIA female leader in computer vision award, AIMiner top 100 most influential scholars in Machine Learning, MIT EECS Rising Star, and multiple best paper awards.
+In addition to her research, she co-founded and continues to advise for Women in Computer Vision, an organization that provides mentorship and travel support for early-career women in the computer vision community. Prior to joining Georgia Tech, she was a Research Scientist at Facebook AI Research. She received her PhD in Electrical Engineering and Computer Science from UC Berkeley, after which she completed Postdocs at Stanford University and UC Berkeley.

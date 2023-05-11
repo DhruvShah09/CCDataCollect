@@ -1,0 +1,8 @@
+Ph.D. CS Networking Body of Knowledge
+A student has to take two courses as specified below and get an A in both the courses.
+Required Course:
+CS 6250: Computer Networks
+One of the following courses:
+CS 7260: Internet Architecture and Protocols
+CS 7270: Internet Applications and Services
+CS 8803 taught by Professors Ammar/Dovrolis/Xu/Zegura/Dainotti/Saeed/Dhekne

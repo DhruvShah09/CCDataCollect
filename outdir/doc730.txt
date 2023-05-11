@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~pearce/
+Research Areas: Cybersecurity
+Biography
+I am an assistant professor focusing on network security and measurement starting Fall 2019. I obtained my Ph.D. in computer science from UC Berkeley under Vern Paxson in 2018, sticking around after my M.S. and B.S. degrees.

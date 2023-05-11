@@ -1,0 +1,55 @@
+Student Organizations
+Student organizations provide academic, professional and social support and development. Within these organizations, students build connections that will last a lifetime. Membership in any of the College of Computing’s diverse student organizations will hone your leadership skills and provide a forum for you to learn from fellow students.
+Career Skills
+The Agency
+For students with an interest in Artificial Intelligence, the Agency is the student organization for you! Meets Tuesdays for projects at 6:30 p.m. via BlueJeans & general meetings on Wednesdays at 6:30 p.m. via BlueJeans
+Big Data Big Impact
+Big Data Big Impact is focused on building a community for people who love data. We are first and foremost an educational project-based organization focused on using data pipelining, analysis, and visualization techniques to make social impact. Meets Mondays at 6:30 p.m. via BlueJeans; workshops on Thursdays at 6:30 p.m. via BlueJeans.
+Big O: Theory
+Big O: Theory Club is the official Georgia Tech College of Computing organization for facilitating interaction between students interested in Theoretical Computer Science and its applications. Meets Mondays at 6:30 p.m. via BlueJeans; OMSCS Welcome.
+CS Careers Club
+The GT CS Careers Club is GT Computing's newest DRSO. We are a workshop and service-oriented club offering resume advice, technical interview prep, mock interview sessions, and mentorship from experienced student mentors. Join us on Discord.
+dependently-typed
+We are the programming languages and compilers club at Georgia Tech, aiming to bring together programming language and compiler enthusiasts. We do cool stuff like hack on compilers, play with languages, discuss research papers, and nerd-snipe through Greek (and other Unicode) symbols. No prior experience needed to join! Undergraduate, graduate, and Ph.D. students are all welcome :) We meet on Tuesdays 6-7 p.m. at CCB 103. Visit our website and join us on Discord.
+Design Club
+Design Club is an organization engaging in the practical, theoretical, and cultural usages of design to improve user experiences (UX). Learn design principles, skills, and strategies through our talks, workshops, and job opportunities. Meets Mondays at 6:30 p.m. via BlueJeans; OMSCS Welcome
+Filmmakers@GT
+We are a student organization for students of all backgrounds to express their ideas and tell their own stories. We strive not only to create a community of filmmakers and film lovers at Georgia Tech, but to also establish a space where everyone can take a story and run with it. By working together, we produce high-quality films and submit them to film festivals all around the world. Meets Thursdays at 6:30 p.m. via BlueJeans; OMSCS Welcome
+GITMAD
+GITMAD's mission is to educate and spread their passion for mobile applications at Georgia Tech. Meets Mondays at 6:30 p.m. via Discord; OMSCS Welcome
+GreyHat Cybersecurity Club
+We teach practical skills in analyzing, exploiting, and defending computer systems, compete in CTFs, and form study groups for cybersecurity classes at Tech. General meetings are at 6:30 p.m. on Thursdays in CCB 017, CTF Meetings are at 6:30 p.m. on Tuesdays in CCB 017. Visit our website and join us on Discord! Masters/OMSCS students are welcome!
+GT WebDev
+Provides community, assistance, and education to GT Computing students interested in Web Development through a reliable and well-formed process maintained by dedicated individuals. Meets Tuesdays at 6:30 p.m. via BlueJeans; OMSCS Welcome
+iOS Club
+At iOS club, with the help of our experienced tech leads, members work together to learn how to build iOS apps from scratch and publish them onto the app store. We welcome members with any level of experience, in fact, most of our new members are beginners who have never coded before. Join our discord for more information: https://discord.gg/tDkdZhyRSq and check out our website https://gtios.club/
+The Makery
+Our mission is to enable individuals to prototype, build, and program their own electronic devices, be it as simple as a flashing LED sign or as complicated as a solar powered surveillance blimp. We provide the knowledge and support to develop your ideas both through teaching the necessary knowledge and providing the necessary equipment. Meets Tuesdays for workshops at 6:30 p.m. via BlueJeans &Thursdays for projects at 6:30 p.m. via BlueJeans; OMSCS Welcome
+Programming Team
+The Georgia Tech ACM Programming Team will make you into an excellent problem solver and help you in thinking clearly and logically while solving problems. The algorithms involved in the problem sets cover a wide range of topics: Graph Theory, Combinatorics, Dynamic Programming, Probability, Simulation, Computational Geometry, and more! Meets Thursdays at 6 p.m. via BlueJeans; OMSCS Welcome
+RoboJackets
+The RoboJackets are a group of GT students, faculty, and alum that aim to enhance the understanding of the field of robotics and its applications in depth of knowledge as well as to increase the number of students that are exposed to it. We plan to carry out our mission through projects that correspond to the organization’s tenets of promotion, education, and advancement. Visit the link to see weekly meeting times & locations
+VGDev
+The purpose of VGDev is to give prospective game developers experience and portfolio pieces, and to serve as an artistic outlet for artists at Tech who otherwise may not have one. Meets Fridays at 4:45 p.m. via Discord; OMSCS Welcome
+Social
+GT Anime
+Anime-O-Tekku strives to share the Japanese culture through the mediums of Animation, also known as Anime, and through Japanese comics, known as Manga. Meets every Saturday at 12 p.m.via Discord; OMSCS Welcome
+CM Ambassadors
+The CM Ambassadors serve as the voice of current and potential Computational Media students. Their mission is to improve the CM curriculum and community by representing concerns, building awareness of events and opportunities, bridging the gap between faculty and students, and unifying the student body.
+Gourd Visual Arts Club
+Visual Arts club exists to increase awareness and appreciation of arts within the College of Computing environment concentrating on drawing, graphic design, and media production. Meets Saturdays at 3:00 p.m. via BlueJeans; OMSCS Welcome
+Esports
+The Esports Club at GT acts as a hub for competitive and casual gaming at Tech. We have over 30 teams in more than 10 different competitive titles, and are always looking to expand our reach. Join our Discord to learn more.
+Robograds
+The purpose of the RoboGrads is to: 1) Represent the interests of the students participating in the Robotics PhD program (Robotics students); 2) Provide a forum for Robotics students to discuss the progress and development of the program; 3) Promote the recruitment of new students and facilitate a smooth transition into the program; 4) Sponsor social events to engage Robotics students in a non-academic setting; 5) Disseminate accurate and up-to-date student-specific information about the program; 6) Liaise with other Robotics organizations to provide a relevant network for Robotics students; 7) Give opportunities for service in the community using principles learned in the program.
+Underrepresented Students
+Minorities at College of Computing (M@CC)
+Through academic, social, and professional events, the Minorities at the College of Computing club strives to empower underrepresented groups within the College of Computing with opportunities that promote excellence, community development, and leadership amongst members, as well as foster growth to help support the leaders of tomorrow. Meets Thursdays at 7:00 p.m. via Discord; OMSCS Welcome.
+Women @ College of Computing (W@CC)
+Women@CC provides an avenue for female students to receive professional training, discuss academics, and meet other females in a primarily male-dominated field. The club provides a variety of activities, ranging from movie nights to resume workshops to the Grace Hopper Women in Computing Conference. Members of the organization form close bonds with other members, facilitating their involvement in the College of Computing student community.
+Graduate Women @ College of Computing
+The Graduate Women @ CC is a campus organization that supports and develops the community of Masters and PhD women in the College of Computing. They have coffee breaks and other social events 2-3 times a month, where they simply share their lives at Tech with each other and discuss their current projects. In addition, the graduate women also organize various workshops throughout the year. They work with companies to sponsor recruitment events and have lunch with female faculty once a semester. Connect with them on Facebook or sign-up here for event notifications; OMSCS Welcome
+Career Services Resources
+- Student Resources
+- Career Fair
+- Recruiter Information

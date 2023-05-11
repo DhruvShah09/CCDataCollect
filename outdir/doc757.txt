@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~qzhang414
+Research Areas: programming languages, software engineering
+Biography
+Qirun Zhang is an assistant professor in the School of Computer Science at Georgia Institute of Technology. His research interest is in programming languages and software engineering. In particular, he enjoys working on program analysis and compiler optimization problems from perspectives such as computational complexity, analytic combinatorics, graph theory, and formal languages.

@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Data Mining, Information Extraction, Natural Language Processing
+Biography
+I am a 2nd year PhD student at School of Computational Science and Engineering, Georgia Institute of Technology. My current advisor is Dr. Chao Zhang, and I am mainly working on text mining and information extraction under his guidance. Specifically, I am working on two directions: (1) knowledge extraction from text data in low-resource settings and (2) utilizing knowledge as weak supervision for label-efficient learning. Previously I have also worked on spatio-temporal data mining and robust machine learning topics.
+Advisor: Chao Zhang

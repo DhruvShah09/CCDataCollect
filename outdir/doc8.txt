@@ -1,0 +1,57 @@
+Media
+Build systems to exploit computing's abilities to provide creative outlets.
+The Media thread prepares students by helping them to understand the technical and computational capabilities of systems in order to utilize their abilities to provide creative outlets.
+The student who pursues Media can combine it with Intelligence to study real-time animation, Information Internetworks to build high performance database systems, or with People to explore visualization of high-bandwidth data streaming. Media provides a creative pairing for any thread combination.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcome
+|
+|
+View the course prerequisites for the Media Thread.
+Required Courses:
+- CS 1301 Introduction to Computing or CS 1315 Introduction to Media Computation, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2261 Media Device Architectures, 4 (When combined with another thread that requires CS 2110, students should take CS 2110 instead of CS 2261.)
+- CS 2340 Objects and Design, 3
+- CS 3451 Computer Graphics, 3
+Pick 2 of Media Technologies
+- CS 4455 Video Game Design and Programming, 3
+- CS 4460 Information Visualization, 3
+- CS 4464 Computational Journalism, 3
+- CS 4475 Computational Photography, 3
+- CS 4497 Computational Aesthetics, 3
+- CS 4480 Digital Video Special Effects, 3
+- CS 4496 Computer Animation, 3
+- CS 4590 Computer Audio, 3
+Elective Courses:
+Free Electives (9 hours)
+- FREE-ME1 Free CS Elective-Media, 3
+- FREE-ME2 Free CS Elective-Media, 3
+- FREE-ME3 Free CS Elective-Media, 3
+Computing Fundamentals
+- CS 3240 Languages and Computation, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+Multimedia Applications and Design
+- CS 4464 Computational Journalism, 3
+- CS 4475 Computational Photography, 3
+- CS 4770 Mixed Reality Experience Design, 3
+Multimedia Connections
+- CS 4460 Information Visualization, 3
+- CS 4470 Introduction to User Interface Software, 3
+- CS 4550 Scientific Data Processing and Visualization, 3
+- CX 4236 Distributed Simulation Systems, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

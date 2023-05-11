@@ -1,0 +1,6 @@
+Ph.D. Student
+https://www.linkedin.com/in/conlain-kelly/
+Research Areas: Solid Mechanics; Materials Science; Machine Learning; Physics-Centric Learning
+Biography
+Advisor: Surya Kalidindi
+Conlain completed his undergraduate studies at the University of Wisconsin — Madison, pursuing a double major in Applied Math, Engineering, & Physics and Computer Science. He is currently pursuing his Ph.D. in Computational Science and Engineering at Georgia Tech and is advised by Surya Kalidindi. His doctoral research is directed toward the development of hybrid physics-centric data-driven models for solid mechanics and materials design.

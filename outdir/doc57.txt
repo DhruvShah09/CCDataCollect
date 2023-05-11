@@ -1,0 +1,35 @@
+While You Were Away: GT Computing 2019 Summer Highlights
+Whether you were interning, traveling, building Star Wars sand sculptures, or binge-watching Black Mirror, chances are you weren't fully tuned into the College this summer.
+Not to worry. We're here to catch you up on all of the big stories you may have missed.
+Probably the biggest news this summer, nay, this year is that the College has a new dean. Stepping up from the faculty ranks, Charles Isbell took the helm as the John P. Imlay Jr. Dean of Computing on July 1. He is the fourth person to hold this position.
+His philosophy as dean is built on the foundation he laid long ago as an undergraduate.
+“To me, it’s all about community,” he said. “I want people to feel like they belong, and that the community reflects their experiences. I want people to feel that the things they’re learning apply to their worlds.”
+[RELATED: Isbell Testifies at House Subcommittee Hearing on Artificial Intelligence]
+Suitable for Framing: Galil Portrait 'Captures Something Real'
+Before we could welcome Dean Isbell, we had to say farewell to Dean Zvi Galil. Galil stepped down as the John P. Imlay Jr. Dean of Computing in June following his announcement in 2018.
+Galil became GT Computing dean in July 2010. Under his leadership, the College has seen significant enrollment growth at the undergraduate and graduate levels, achievement in interdisciplinary research and thought leadership, goal-breaking fundraising efforts, and the development and continued success of the Online Master of Science in Computer Science (OMSCS) program.
+[RELATED: Galil To Step Down Following Next Academic Year]
+Graduate Fellowship Fund Honors CS Alum
+The College celebrated the life and memory of Sastry V. Nanduri this summer by establishing a graduate fellowship fund in his name. An alumnus, entrepreneur, and former College advisory board member, Nanduri passed away last year.
+He was passionate about solving real-world problems, and a mentor and teacher who sought to share his passions with others.
+Interim Chairs to Guide Schools During Search Process
+In June, the names of interim chairs were announced for two of the College of Computing’s three schools. Srinivas Aluru began as interim chair of the School of Computational Science and Engineering (CSE) in June, while Mostafa Ammar began earlier this month as interim chair of the School of Computer Science (SCS).
+[RELATED: Fortnow Leaving Georgia Tech For Dean's Position]
+Alumnae Receive Prestigious Awards at CHI 2019
+Just as the Spring 2019 semester was wrapping up, two alumnae were recognized by the CHI community in Glasgow, U.K., one for her overall contributions in human-computer interaction at the conference, and another for her long history of promoting social action within the community.
+Jennifer Mankoff, one of Professor Gregory Abowd’s first of 30 Ph.D graduates in 2001, was inducted into the prestigious CHI Academy this week, and Gillian Hayes (2007), also advised by Abowd, was awarded the Social Impact award.
+Queer in AI Fosters Inclusion in the Research Community
+Gender bias is one of the most pressing issues in artificial intelligence (AI) today, but what if even just sorting data by gender is part of the problem? This question is one of many that the group Queer in AI asks.
+College of Computing alumnus and Google AI Resident Rapha Gontijo Lopes co-founded the group in 2018 to create a community for queer researchers and to raise awareness of LGBTQIA+ issues in AI and machine learning (ML).
+New Approach Cuts Time Needed for Genomic Testing
+From disease-causing organisms to mutations caused by cancer, the first step in diagnosing many health concerns often begins with identifying variations in genomes. But, this can take several days with existing technology.
+A new algorithm developed at Georgia Tech, however, is shifting this paradigm by dramatically reducing the time it takes to identify genomic variations in a cell or organism to just a few hours or even minutes.
+Samira Samadi Researches Theory that Can Help Everyone
+When Samira Samadi was in her third year of college, she took a class on the theory of computation where she learned about the Turing machine. The Church-Turing thesis, named after two renowned mathematicians, states that a simple abstract machine can determine any algorithmically solvable problem. The class was life-changing for the Sharif University of Technology mathematics student.
+“It was super cool that such a simple structure can describe any algorithm or computation that a computer or a human could do,” she said. “It was a window for me that what I study could go far beyond the abstract. I could do great things with it.”
+[RELATED: Researchers Show Easy Ways to Create Secure Passwords]
+Frogger Used to Demo Breakthrough Explainable AI
+Why did the frog cross the road? Well, a new artificial intelligent (AI) agent that can play the classic arcade game Frogger not only can tell you why it crossed the road, but it can justify its moves in everyday language.
+Developed by Georgia Tech, in collaboration with Cornell and the University of Kentucky, the work enables an AI agent to provide a rationale for a mistake or errant behavior, and to explain it in a way that is easy for non-experts to understand.
+“If the power of AI is to be democratized, it needs to be accessible to anyone regardless of their technical abilities,” said Upol Ehsan, Ph.D. student in the School of Interactive Computing at Georgia Tech and lead researcher.
+[RELATED: Research Reveals Possibly Fatal Consequences of Algorithmic Bias]

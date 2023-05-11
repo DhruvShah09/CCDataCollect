@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~xchu33/
+Research Areas: Data Management, Machine Learning, Data Science
+Biography
+Xu Chu is a tenure-track assistant professor in the School of Computer Science at Georgia Institute of Technology. He obtained his Ph.D. from the University of Waterloo in 2017. His research interests resolve around two themes: using data management technologies to make machine learning more usable, and using machine learning to tackle hard data management problems such as data integration. He won the Microsoft Research Ph.D. Fellowship in 2015. He has also received Cheriton Fellowship from the University of Waterloo 2013-2015.

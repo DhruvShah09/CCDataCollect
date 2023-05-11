@@ -1,0 +1,75 @@
+Klaus Event Spaces - FAQ
+For reservation information and space requests use the GTEVENTS reservation site.
+|
+|
+Policies & Procedures
+|
+|
+|
+|
+Useful Resources
+FAQs
+Where is the venue located?
+The street address for the Klaus Advanced Computing Building is 266 Ferst Drive NW.
+How do I make a reservation?
+Go to the website for Capital Planning and Space Management. With the new system, please allow up to 3 business days for processing reservation requests.
+For CoC/ECE Faculty and Staff only, small conference rooms (i.e. rooms other than the Atrium and 1116) are immediate confirmation if available. For student requestors, confirmation is still required once the online request is reviewed or immediate confirmation requests can be secured by CoC/ECE staff or faculty member.
+What are the costs for rental or services?
+* Members of the College of Computing or School of Electrical & Computer Engineering (ECE) will generally pay no facility rental or usage charges unless use is for a non-job/non-official GT related event. Members of the Georgia Tech community NOT in Computing or ECE may be subject to facility set-up fees, if event requires changes to standard room set ups. Requestors from outside Georgia Tech will incur rental and set up fees. Invoices for services are generally sent after the event and are payable by BUSINESS check or money order, Peoplesoft and Doc Id (internal use). (No personal checks, cash or credit card payment accepted.)
+The current rates are:
+Rental/Usage Fees
+- Atrium - $200.00 per hour
+- 1116 E or W - $100.00 per hour, Combined - $200.00 per hour
+- Small conference rooms - $99.00 per hour
+- Classrooms (up to 99 capacity) - $75.00 per hour
+- Auditoriums/Lecture Rooms (100-300 capacity) - $200.00 per hour
+Service Fees
+- Facilities Set up and Breakdown - $33.60 per hour, 4 hours minimum each service
+- Custodial - $34.64 per hour, 4 hours minimum (after 8:00pm weeknights and weekends mandatory)
+- Trash Can Rental Fee (for up to 5 cans) is $34.64 per Batch
+- Security - $40.00 per hour, 4 hours minimum. Required for all events serving alcohol and overnight events. To request police services complete the Police Event Request Form. (For specific questions or information send mail to archie.hill@police.gatech.edu)
+What set-up options do I have?
+The atrium is an open space and accommodates approximately 200-banquet, 100-auditorium or up to 350-reception (standing) style. Seating for up to 100 attendees are provided. Additional resources must be provided by organizer.
+1116E or 1116W can each seat approximately 75 lecture style (28 persons at tables with the remaining chairs in the rear and along side walls). Combined, the room can accommodate up to 150 lecture and 200-auditorium style however, the building provides only 150 chairs for both rooms combined.
+Small conference room configurations cannot be altered (as - is) and seat between 8 and 14 at the table. Additional side chairs can be added. Six-foot tables are also provided in each room for food set-up, etc. Additional needs must be met by the organizer (i.e., easels, pads, extension cords, markers, etc.).
+There is a 30-minute window block on either side of events for set up, breakdown, vacating the space etc. for 1116, four hours for the Atrium. This will also prevent the space from showing as available.
+How do I reserve a classroom space - rooms #1443, #1447, #1456, #2443, #2447, #2456 in Klaus?
+Classroom space is also reserved through the virtual reservation system GTEvents. Go to www.space.gatech.edu, click on event scheduling, click on reservations, which will take you to the virtual page. Microphones for classrooms are provided (based on availability) by contacting the Office of Informational Technology (OIT) and must be reserved no less than three (3) days prior to the event.
+What are the policies?
+The Klaus Building is a 24-hour facility dedicated to research and reserves the right to deny usage for certain events and time requests
+General rules:
+* Unauthorized changes to standard room set up could result in assessment of fees.
+* Leave the room in same condition received.
+* Do not remove furniture from room.
+* Turn off all electronic equipment.
+* Notify Facilities about damages and/or malfunctions.
+* Be timely and respectful of other's time.
+* While certain food items are allowed inside classroom space, No catered meals are allowed. Catering options are limited to foods that do not require being heated, ie. wings, pizza, sandwiches, pastries, etc. https://space.gatech.edu/classroom-use-policies
+* If trash exceeds containers remove from room.
+* Currency cannot be collected for registration, entrance or participation fees on site. Alternative forms of payment must be utilized. (University Policy Handbook, section 6.4.3 - item b)
+Are there any cancellation fees?
+If the event is canceled with at least 48 hours prior notice, there are no fees. If room set up has occurred, fees may be assessed.
+Is there a policy on serving alcohol at events?
+If alcohol (beer & wine only; spirits are prohibited) is served, prior approval must be given by the appropriate University officials. It is the responsibility of the organizer to complete the Alcohol Request Form and submit for approval prior to the event. Allow at least three (3) weeks for processing. Additionally, If serving alcohol, security must be provided by a uniformed Georgia Tech Police officer for the duration of the event at a rate of $40 per hour* (four-hour minimum). To request police services complete the Police Event Request Form.
+Can I reserve Klaus spaces for weekend events?
+Klaus spaces can be reserved on weekends and after hours by request approval. For hours outside of normal operational hours, reservation requests cannot be submitted through EMS (the campus reservation system). Contact the Facilities department with details through email at kacb-buidling@cc.gatech.edu for assistance. For ALL meetings or events held after-hours (concluding past 8:00 p.m. on weekdays or on weekends), in addition to any applicable rental/usage fees, the custodial overtime rate is $34.64 per hour* (four-hour minimum) is REQUIRED.
+Are there pictures of the spaces?
+Layouts of each room are provided here: Room Layouts
+What furniture is available, or do I have to order it?
+Standard items such as tables and chairs are provided: Banquet rounds and seating in the Atrium for up to 100 are included with setup fee (additional must be provided by the requestor). Seating in 1116E & W combined is 150 (classroom/lecture) style. For Atrium Fair and Exhibition type events, up to 20, six-ft. tables are included with setup fee. Additional tables are extra.
+Which resources are available and which do I have to provide?
+The Atrium is not equipped with any A/V equipment; there is a portable microphone and podium system available but all other needs must be provided by requestor. Rooms 1116 E/W, conference rooms and classrooms have standard projectors and screens installed. There are microphones for each side of 1116, which can be combined into a single PA for the whole space. Arranging for other specialty A/V needs or functions, such as webcasting, podcasting, live streaming video, etc., is the responsibility of the organizer. Extraneous items such as power/extension cords, easels, markers and pads, faxing nor copying services, etc. are not provided
+Additionally, the entire building is wireless although non-Georgia Tech users must arrange for Internet access prior to an event through OIT or by purchasing FASTPASS access.
+Is there phone service available?
+All conference spaces (except the Atrium and classrooms) are equipped with local phone service. Phones are not provided. For specific room phone numbers: Conference Room Phone Numbers
+*All fees require four-hour minimum charge and are subject to change
+For specific questions not included here, contact the Klaus Facilities staff by emailing kacb-building@cc.gatech.edu
+Questions?
+CCB Building Contact
+building@cc.gatech.edu
+KACB Building Contact
+kacb-building@cc.gatech.edu
+TSRB Building Contact
+tsrb-building@cc.gatech.edu
+Coda Building Contact
+codabuilding@gatech.edu

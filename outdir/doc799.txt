@@ -1,0 +1,5 @@
+Associate Professor in SCP, Joint with the School of Electrical and Computer Engineering
+https://sites.google.com/site/samanzonouz4n6/saman-zonouz
+Research Areas: Cyber-physical and embedded systems security
+Biography
+Saman Zonouz is an Associate Professor at the Schools of Cybersecurity and Privacy (SCP), and Electrical and Computer Engineering (ECE) at Georgia Tech. Previously, he was a faculty at Rutgers University. His research focuses on security and privacy research problems in cyber-physical systems including the attack detection and response capabilities using techniques from systems security and control theory. Saman's research has been awarded by Presidential Early Career Awards for Scientists and Engineers (PECASE), NSF CAREER Award in Cyber-Physical Systems (CPS), Significant Research in Cyber Security by the National Security Agency (NSA), and Faculty Fellowship Award by Air Force Office of Scientific Research (AFOSR). Saman obtained his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 2011.

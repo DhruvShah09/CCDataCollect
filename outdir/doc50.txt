@@ -1,0 +1,15 @@
+Constellations Center for Equity in Computing
+The Constellations Center for Equity in Computing is a hub and national leader for research and advocacy at the intersection of educational equity and computing. Constellations was created to touch every section of the education pipeline from K-12 students to increasing diversity in the professoriate.
+The center’s mission is to ensure that all students — especially students of color, women, and others underserved in K-12 and post-secondary institutions — have access to quality computer science education, a fundamental life skill in the 21st century.
+Constellations programs include:
+The Computing Equity Project (CEP)
+CEP is Constellations’ flagship program and is focused on increasing access to computer science courses in Georgia high schools. Since 2017, Constellations has partnered with Atlanta Public Schools, reaching over 500 students.
+Through CEP, Constellations also hosts professional development opportunities for teachers, administrators, and counselors and provides CEP teachers with customized, on-demand support.
+Diversifying LEAdership in the Professoriate (LEAP) Alliance
+The National Science Foundation-funded alliance addresses the broadening participation challenge of increasing the diversity of the future leadership in the professoriate in computing at research universities as a way to achieve diversity across the field. Georgia Tech is one of 11 institutions participating in the alliance.
+DataWorks
+DataWorks is Constellations’ first initiative to advance diversity in CS education outside of K-12. The program recruits people from economically disadvantaged neighborhoods and underrepresented groups in computing to train and employ them as Data Wranglers and Data Developers.
+Part startup company, part outreach effort, and part research platform, DataWorks provides its employees with on-the-job training to learn entry-level data wrangling skills.
+VOICES for Social Justice Alliance
+Voices of Innovative Compassionate Experts (VOICES) for Social Justice is a podcast produced by Constellations that features raw, authentic conversations from experts on social justice issues facing American society. These conversations aim to shine a brighter spotlight on the negligence of lifting up poor communities, and the lack of equitable access to upward mobility and quality education and healthcare.
+The podcast releases monthly episodes and is available on Spotify, Apple Podcasts, YouTube, Stitcher, and Deezer.

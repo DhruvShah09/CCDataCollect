@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Fast numerical algorithms in computational chemistry; high performance computing
+Biography
+Advisor: Edmond Chow
+Shikhar received his BSE and MSE degrees in aerospace engineering from the University of Michigan before coming to Georgia Tech. Now, he is a PhD student in CSE with a focus on fast, parallel algorithms in computational chemistry.

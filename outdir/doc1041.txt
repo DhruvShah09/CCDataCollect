@@ -1,0 +1,78 @@
+Student Registration Dates & Information - Graduate
+Graduate Registration Information
+Summer 2023 Registration
+The schedule is subject to change at any time. Students should refer to OSCAR for the most up to date information.
+There is NO permit survey for Summer. Students can register for any CS/CSE class that has open availability on their assigned campus.
+REVISED: Major restrictions will remain in place for Summer 2023 until noon on Monday, April 24.
+**You must limit your course search to “Georgia Tech-Atlanta” campus, so you aren’t seeing classes for which you are unable to register. Do not choose any sections that begin with “O”. **
+Permit Forms
+We will be using DocuSign for all paper permit forms during this phase of registration. Please click here for DocuSign instructions.
+The form will be routed automatically to other recipients to review and sign. Once competed, all recipients receive the signed and completed form via email. You can check the progress of the form in your DocuSign account.
+Please note that no academic credit will be given to grad students for 1000, 2000, or 3000 level courses. For 4000 level courses, please check your academic program’s rules to see if they will count for you.
+Undergraduate BSMS Student Permits
+Permits will be processed by both CoC and Registrar only if you are a senior by hours at the time of registration.
+Please limit the number of permit requests to a maximum of 4 courses.
+Summer Registration ends promptly at 4PM EDT on Friday, May 19.
+Fall 2023 Phase I Registration
+The schedule is subject to change at any time. Students should refer to OSCAR for the most up to date information.
+In order to prevent the course hoarding behavior that causes many students not to be able to get into classes during Phase I, and creates great stress for students with later time tickets, we will be using the following procedure for registration:
+All CS/CSE graduate courses will be PERMIT RESTRICTED for the ENTIRETY of Phase I registration.
+We will send out a survey link on Wednesday, 3/22/23, where students can request permits. This survey link will remain open until 9AM EDT on Friday, 3/31/23. If you miss the survey deadline, you must contact Becky Wilson to request your permits via email. Late submissions will not be issued until after registration has started, so it is to your benefit to submit the survey prior to the deadline.
+PhD students can request up to TWO CS/CSE courses.
+MS students can request up to FOUR CS/CSE courses.
+The College staff will process the permit requests prior to the opening of the time tickets for graduate students. It is a MANUAL process that will take SEVERAL DAYS to complete, so please be patient.
+The Permit Restrictions will NOT be removed during this phase of registration.
+The Major Restrictions will NOT be removed during this phase of registration.
+Phase I registration will end on May 19 at 4PM.
+We know this is not ideal, but the hoarding behavior of some graduate students, and the unavoidable limitations of the registration system, make these measures necessary.
+**You must limit your course search to “Georgia Tech-Atlanta” campus, so you aren’t seeing classes for which you are unable to register. Do not choose any sections that begin with “O”. **
+Permit Forms
+We will be using DocuSign for all paper permit forms during this phase of registration. Please click here for DocuSign instructions.
+The form will be routed automatically to other recipients to review and sign. Once competed, all recipients receive the signed and completed form via email. You can check the progress of the form in your DocuSign account.
+Please note that no academic credit will be given to grad students for 1000, 2000, or 3000 level courses. For 4000 level courses, please check your academic program’s rules to see if they will count for you.
+Undergraduate BSMS Student Permits
+Returning BSMS students- permits for graduate courses will be processed during Phase I (after graduate time tickets open) if received during Phase I. Please remember that one permit is issued by CoC, the other by Registrar, so there may be a gap in between.
+New BSMS students admitted for Fall 2023- permits for graduate courses will be processed during Phase I IF ADMITTED before the end of Phase I registration, AND if you are a Senior by hours. Otherwise, they will be processed during Phase II.
+BSMS students moving into MSCS for Fall 2023, you will not register for classes until Phase II registration (when all new graduate students register). More information about that will be forthcoming.
+Please limit the number of permit requests to a maximum of 4 courses.
+**UPDATED** Fall 2023 Permit Timeline
+March 22- Fall Phase I permit survey goes out.
+March 31- Fall Phase I permit survey closes.
+April 1-April 10- Permits will be issued to returning CoC students to completed the permit survey.
+**April 17- Fall Phase I Registration begins.
+**April 18- Graduate Student time tickets open.
+**April 19- Admitted BSMS students receive graduate course permits; permits for people who missed the registration survey will be issued.
+August 14- Fall Phase II Registration begins.
+August 18- Permit restrictions will be removed for most classes.
+August 21- Major restrictions will be removed for MOST classes. Permits for non-BSMS undergraduate students requesting graduate classes will be issued. Permits for any undergraduate student requesting major restricted graduate classes will be issued
+Forms
+|8903 Special Problems Research Form||This form allows a student to register for a specified 8903 section|
+|6999 MSCS Project Form||This is the form to complete when you are proposing your MS project. This form only needs to be completed the FIRST time you register for project hours|
+|7000 MSCS Thesis Form||This is the form to complete when you are proposing your MS thesis. This form only needs to be completed the FIRST time you register for thesis hours|
+|3000/4000 level form||This is the form grad students who want to take a 3000/4000 level CS/CX course must complete. The form must be completed by the course instructor.|
+|1000/2000 level form||This is the form grad students who want to take a 1000/2000 level CS course must complete. The form must be completed by the course instructor.|
+|COC_Undergrad Graduate Course Request form||This form is for Undergraduate students who wish to take a graduate level course, including BSMS students. NOTE: Only Seniors with an overall GPA of at least 2.7 are eligible|
+Frequently Asked Questions
+Q: I am an Atlanta campus student. Can I take an “online” class?
+Online is a separate campus and is only for students admitted into online programs such as OMSCS. Online classes are noted in OSCAR and the section begins with O. Do not choose any sections that begin with “O”. When you are searching for classes, make sure to choose "Georgia Tech –Atlanta*" for the campus, so you will only see the eligible courses.
+Q: What do I do if a Course is CLOSED?
+A: Once the registration cap has been reached for a course, the course is full. In order to request a seat in a closed course, you must follow the instructions below. We DO NOT accept requests for overrides.
+Q: Can a professor help me get into the course?
+A: Please DO NOT email a professor to seek permission to enroll in his/her course, as professors have no control over this.
+Q: What does this error message mean?
+A: If you try to register for a course and receive an error message, please refer to the link:
+http://www.registrar.gatech.edu/registration/error.php for an explanation of what the message means.
+Q: How do I add myself to the waitlist of a full course?
+A: You can find the step-by-step directions and a video that explains the process here: https://registrar.gatech.edu/registration/waitlists.
+Q: What if the class and the waitlist are both full?
+A: The only thing you can do in this situation is wait until something opens up.
+Q: I am not a CoC major, but I want permission to take a class. How do I do that?
+A: See above for information about when major restrictions will be removed.
+Q: I am a graduate student. Can I take the undergraduate version of a course that is cross-listed with both undergrad and grad sections?
+A: If you are a grad student, you should take the grad section of a cross-listed course.
+Q: When are waitlists removed from classes?
+A: Waitlists are usually removed from classes on the Thursday before Phase II registration ends.
+Q. I understand that students appear on waitlists in the order that they attempt to register. Is that initial order ever changed?
+A. Yes. Students may be move up on waitlists for classes that they must take to satisfy an undergraduate thread requirement, an MS specialization core or elective class, or to prepare for the PhD qualifying exam.
+Q. Can I register for a CoC graduate-level course if I didn't receive a permit?
+A. If you were not issued a permit for Phase I, this does NOT mean you cannot take the course. You can continue to try to register for your courses during Phase II registration.

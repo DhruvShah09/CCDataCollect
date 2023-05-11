@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Machine Learning, Deep Learning, Reservoir Computing, Data Visualization
+Biography
+Advisor: Elizabeth Cherry
+Shahrokh Shahi is a Ph.D. student in Computer Science at Georgia Tech, advised by Prof. Elizabeth Cherry. Prior to joining Georgia Tech, he earned two master’s degrees; one in Computer Science from Imperial College London and another in Structural Engineering from University of Tehran. His Ph.D. research is mainly focused on developing Deep Learning algorithms, Reservoir Computing techniques, and data-driven approaches to build reliable predictive models for analyzing complex dynamical systems.

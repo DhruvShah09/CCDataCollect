@@ -1,0 +1,5 @@
+Professor
+http://www.cc.gatech.edu/~sham
+Research Areas: Data Modeling, Database Design, Data Integration, Data Mining, Data Visualization, Bioinformatics
+Biography
+Dr. Sham Navathe has been a faculty member at Georgia Tech since 1990. His present research interests include database modeling, design and integration in the context of emerging applications - engineering design, biological (particularly human genome) databases, document and text databases, and collaborative applications. He is also interested in knowledge representation, data mining and knowledge discovery, tools and methodologies for information system design and visualization and user interfaces for better information retrieval.

@@ -1,0 +1,5 @@
+Professor and John P. Imlay, Jr. Chair in Software
+http://www.cc.gatech.edu/~calton
+Research Areas: Systems and databases
+Biography
+Calton's research interests are in the areas of distributed computing, Internet data management, and operating systems. In distributed systems, his focus is on extended transaction processing, system survivability, and Internet applications. In operating systems, he is applying the idea of specialization . Comparing with usual centralized systems, distributed and parallel systems softwares display unique characteristics in distance, complexity, extensibility, concurrency and availability. Making software handle these problems in a reliable and efficient way is the emphasis of Calton Pu's work. In the Infosphere project, he is developing concepts and software for Internet-scale applications driven by information flow such as real-time decision support, digital libraries, and electronic commerce.

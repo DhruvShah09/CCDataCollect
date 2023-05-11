@@ -1,0 +1,4 @@
+Assistant Professor
+Research Areas: Natural Language Processing; Artificial Intelligence; Machine Learning; Social Media
+Biography
+Wei Xu is an assistant professor in the School of Interactive Computing at the Georgia Institute of Technology. Xu received her Ph.D. in Computer Science from New York University, and her B.S. and M.S. from Tsinghua University. Her research interests are in natural language processing, machine learning, and social media. Her recent work focuses on text generation, stylistics, information extraction, robustness and controllability of machine learning models, and reading and writing assistive technology. She is a recipient of the NSF CAREER Award, CrowdFlower AI for Everyone Award, Criteo Faculty Research Award, and Best Paper Award at COLING'18. She has also received funds from DARPA and IARPA and is part of the Machine Learning Center and NSF AI CARING Institute at Georgia Tech.

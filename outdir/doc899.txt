@@ -1,0 +1,5 @@
+Professor
+http://www.cc.gatech.edu/~thad
+Research Areas: Wearable Computing, Human-Computer Interaction
+Biography
+Thad Starner is a Professor at the Georgia Institute of Technology's School of Interactive Computing. Thad was perhaps the first to integrate a wearable computer into his everyday life as an intelligent personal assistant. Starner's work as a PhD student would help found the field of Wearable Computing. His group's prototypes and patents on mobile MP3 players, mobile instant messaging and e-mail, gesture-based interfaces, and mobile context-based search foreshadowed now commonplace devices and services. Thad has authored over 100 scientific publications with over 100 co-authors on mobile Human Computer Interaction (HCI), pattern discovery, human power generation for mobile devices, and gesture recognition, and he is a founder and current co-chair of the IEEE Technical Committee on Wearable Information Systems. His work is discussed in public forums such as CNN, NPR, the BBC, CBS's 60 Minutes, The New York Times, Nikkei Science, The London Independent, The Bangkok Post, and The Wall Street Journal.

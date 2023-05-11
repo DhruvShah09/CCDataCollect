@@ -1,0 +1,25 @@
+Threads: A Better Way to Learn Computing
+Traditionally, computer science students traverse two years of skill and knowledge development before they apply what they are learning to their own goals and career trajectory. With Threads, the revolutionary CS curriculum developed by the College of Computing, students combine regular computer science instruction with classes related to particular areas of application.
+The result is an intensely focused undergraduate program tailored to a student’s interests and real-world opportunities. Threads sets the standard for the future of computer science education in the United States.
+Threads allows you to create your own individual computing degree. The College currently defines requirements for eight threads as listed below. Follow each link to learn more about the thread, its requirements and the resources available to learn more about projects or programs related to that thread.
+Prospective Students
+Contact:
+Who is your advisor?
+Contact:
+advising@cc.gatech.edu
+Devices
+Create devices embedded in physical objects that interact in the physical world.
+Info Internetworks
+Represent, transform, transmit, and present information.
+Intelligence
+Build top-to-bottom models of rational agents and human-level intelligence.
+Media
+Build systems to exploit computing’s abilities to provide creative outlets.
+Modeling & Simulation
+Represent natural and physical processes.
+People
+Design, build, and evaluate systems that treat humans as the central component.
+Systems & Architecture
+Create computer architectures, systems and languages.
+Theory
+Discover the theoretical foundations underlying a wide range of computing disciplines.

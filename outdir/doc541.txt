@@ -1,0 +1,4 @@
+Principal Research Scientist, Joint with GTRI
+Research Areas: Large Scale Observational Research in Healthcare, Clinical Natural Language Processing, Phenotyping, Drug Safety
+Biography
+Dr. Duke has led over $21 million in funded research for industry, government, and foundation partners. Dr. Duke’s research focuses on advancing techniques for identifying patients of interest from diverse data sources with applications spanning research, quality, and clinical domains. He led the Merck-Regenstrief Partnership in Healthcare Innovation and was a founding member of OHDSI, an open-source international health data analytics collaborative. In addition to numerous peer-reviewed publications, his work has been featured in the lay media including the New York Times, NPR, and MSNBC. Dr. Duke completed his medical degree at Harvard Medical School and a master's in human-computer interaction at Indiana University.

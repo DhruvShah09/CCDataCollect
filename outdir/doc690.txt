@@ -1,0 +1,5 @@
+Assistant Professor
+https://sites.google.com/cornell.edu/nabil-imam/
+Research Areas: Computational Neuroscience; Neuroengineering; NeuroAI
+Biography
+I work on topics in machine learning and theoretical neuroscience with the goal of understanding general principles of neural coding and computation, and their technological applications.

@@ -1,0 +1,5 @@
+Associate Professor
+Research Areas: Human-Centered Computing; Participatory Design; Digital Civics
+Biography
+My research is focused on digital civics, an area of innovation that emerges at the intersection of participatory design, digital democracy, and smart cities. Together with students and community partners, we co-create new artifacts and computational systems to assert identity, to contend with local issues, and to respect community experiences, beliefs, and desires.
+The work I do touches a number of different domains, including: Human-Computer Interaction, Computer-Supported Cooperative Work, Social Computing, Urban Informatics, Science and Technology Studies, Participatory Design, and Design Research. I am the author of Designing Publics (2016, MIT Press).

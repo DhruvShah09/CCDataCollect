@@ -1,0 +1,69 @@
+Devices
+Create devices embedded in physical objects that interact in the physical world.
+The Devices thread is concerned with embedded computational artifacts that interact with people or the physical world. In this thread one learns how to create and evaluate devices that operate under physical constraints such as size, power and bandwidth. Examples include cell phones, robots, jet engines, and intelligent appliances.
+The student who pursues Devices can combine it with Systems and Architecture to build devices that are small, power- and cpu-limited, with Intelligence to build autonomous robots, with People to study human-robot interaction, or a number of other threads.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+Required Courses:
+View the course prerequisites for the Devices Thread.
+*Although not required, we recommend that students use PHYS II to fulfill one of their Lab Sciences electives.
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2200 Computer Systems and Networks, 4
+- CS 2340 Objects and Design, 3
+- CS 3251 Computer Networking 1, 3
+- ECE 2031 Digital Design Laboratory, 2
+Algorithm Fundamentals
+- CS 3240 Languages and Computation, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+Pick 1 of Building Devices
+- CS 3651 The Art of Building Intelligent Appliances, 4
+- ECE 4180 Embedded Systems Design, 4
+Pick 1 of Devices in the Real World
+- CS 3630 Robotics and Perception, 3
+- CS 4261 Mobile Applications and Services for Converged Networks, 3
+- CS 4476 Intro to Computer Vision, 3
+- CS 4605 Mobile and Ubiquitous Computing, 3
+Elective Courses:
+Free Electives (6 hours)
+- FREE-DEV1 Free Elective-Devices, 3
+- FREE-DEV2 Free Elective-Devices, 3
+Algorithm Fundamentals
+- CS 3240 Languages and Computation, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+Device Platforms
+- CS 3220 Computer Structures: HW/SW Codesign of a Processor, 3
+- CS 4210 Advanced Operating Systems, 3
+- CS 4220 Programming Embedded Systems, 3
+- CS 4261 Mobile Applications and Services for Converged Networks, 3
+Intelligent Systems
+- CS 3600 Introduction to Artificial Intelligence, 3
+- CS 3630 Robotics and Perception, 3
+- CS 4476 Intro Computer Vision, 3
+- CS 4616 Pattern Recognition, 3
+- CS 4632 Advanced Intelligent Robotics, 3
+- CS 4641 Machine Learning, 3
+- CS 4649 Robot Intelligence: Planning
+Devices for People
+- CS 4470 Introduction to User Interface Software, 3
+- CS 4605 Mobile and Ubiquitous Computing, 3
+- CS 4685 Pervasive Systems and Networking, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

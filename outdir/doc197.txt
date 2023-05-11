@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: Data Science; Computational Science; Natural Language Processing; Computational Finance
+Biography
+I am a Machine Learning Ph.D. student in the College of Computing at Georgia Tech. I received a Bachelor’s degree (Hons.) in Information and Communication Technology with a minor in Computational Science from DA-IICT, where I was awarded the President’s Gold Medal for graduating at the top of the 2019 class. I also completed a Master’s degree - MS in Quantitative and Computational Finance (QCF) from Georgia Tech. Prior to Ph.D., I worked at the Financial Services Innovation Lab of Georgia Tech as a Pre-Doctoral Research Fellow.
+My primary research interests include Data Engineering, Corporate Finance, Computational Science, Natural Language Processing, Blockchain and Cryptocurrencies, and Computational Finance. My research work is published/presented in/at journals and conferences including Expert Systems With Applications, European Journal of Physics, AFA, and at many universities around the world.

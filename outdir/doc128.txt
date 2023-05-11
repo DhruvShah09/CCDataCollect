@@ -1,0 +1,80 @@
+Mundy, J. L. (2006). "Object Recognition in the Geometric Era: a Retrospective." Lecture Notes in Computer Science 4170/2006. [PDF]
+M. Fritz, M. Andriluka, S. Fidler, M. Stark, A. Leonardis and B. Schiele (2010) "Categorical Perception" Chapter in Cognitive Systems, Springer Verlag, 2010 [PDF]
+AWM Smeulders, DM Chu, R Cucchiara, S Calderara, A Dehghan, M Shah. Visual Tracking: An Experimental Survey. In PAMI 2014. [PDF]
+General Algorithms
+Fischler, M. A. and R. C. Bolles (1981). "Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography." Communications of the ACM. [PDF]
+Felzenszwalb, P. and D. P. Huttenlocher (2004). "Efficient Belief Propagation for Early Vision." CVPR. [PDF]
+Boykov, Y., Veksler O., et al. (2001). "Fast Approximate Energy Minimization via Graph Cuts." PAMI. [PDF]
+Kappes, Jörg H., et al (2015). .A Comparative Study of Modern Inference Techniques for Structured Discrete Energy Minimization Problems. IJCV. [PDF]
+Light field
+Adelson, E. H. and J. R. Bergen (1991). "The Plenoptic Function and the Elements of Early Vision." Computational Models of Visual Processing. [PDF]
+Object Recognition
+Torralba, A. (2001). "Contextual Priming for Object Detection." IJCV. [PDF]
+Viola, P. and M. J. Jones (2004). "Robust Real-Time Face Detection." IJCV. [PDF]
+Murase H. & Nayar, S. K (1995). "Visual learning and recognition of 3-d objects from appearance" IJCV [PDF]
+P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan, “Object detection with discriminatively trained part-based models,” PAMI 2010 [PDF]
+Krizhevsky, A., Sutskever, I. and Hinton, G. E. ImageNet Classification with Deep Convolutional Neural Networks. NIPS 2012 [PDF]
+Razavian, Ali S., et al. "CNN features off-the-shelf: an astounding baseline for recognition." Computer Vision and Pattern Recognition Workshops (CVPRW), 2014 IEEE Conference on. IEEE, 2014. [PDF]
+Aravindh Mahendran, Andrea Vedaldi. “Understanding Deep Image Representations by Inverting Them”. CVPR 2015. [PDF]
+J. Hosang, R. Beneson, P. Dollar, B. Schiele, “What makes for effective detection proposals?” PAMI 2015 [PDF]
+Shape
+Kass, M., A. Witkin, et al. (1988). "Snakes: Active contour models." IJCV. [PDF]
+Belongie, S., J. Malik, et al. (2002). "Shape Matching and Object Recognition Using Shape Contexts." PAMI. [PDF]
+Edges / Filters
+Barash, D. (2002). "A Fundamental Relationship between Bilateral Filtering, Adaptive Smoothing and the Nonlinear Diffusion Equation." PAMI. [DOI]
+P. Arbelaez, M. Maire, et al. (2011) "Contour Detection and Hierarchical Image Segmentation". PAMI. [PDF]
+Piotr Dollár and C. Lawrence Zitnick. Fast Edge Detection Using Structured Forests. PAMI 2015
+Features / Descriptors / Matching
+Lowe, D. G. (2004). "Distinctive Image Features from Scale-Invariant Keypoints." IJCV. [PDF]
+Mikolajczyk, K., T. Tuytelaars, et al. (2005). "A Comparison of Affine Region Detectors." IJCV. [PDF]
+Video Google: A Text Retrieval Approach to Object Matching in Video. ICCV 2003. [PDF]
+Nister, D. and H. Stewenius (2006). "Scalable Recognition with a Vocabulary Tree." CVPR. [PDF]
+I. Laptev (2005), "On Space-Time Interest Points"; in International Journal of Computer Vision, vol 64, number 2/3, pp.107-123. [PDF]
+S. Lazebnik, C. Schmid, and J. Ponce. “Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories.” CVPR 2006. [PDF]
+N. Dalal and B. Triggs, “Histograms of oriented gradients for human detection,” CVPR 2005 [PDF]
+R. Girshick, J. Donahue, T. Darrell, J. Malik. “Region-based Convolutional Networks for Accurate Object Detection and Semantic Segmentation”. PAMI 2015. [PDF]
+Tracking and Active Models
+Isard, M. and A. Blake (1998). "Condensation - conditional density propagation for visual tracking." IJCV. [PDF]
+Comaniciu, D., V. R. Ramesh, et al. (2000). "Real-time tracking of non-rigid objects using mean-shift." CVPR. [PDF]
+Cootes, T. F., G. J. Edwards, et al. (1998). "Active appearance models." ECCV. [PDF]
+J. Shotton, R. Girshick, A. Fitzgibbon, M. Cook, T. Sharp, M. Finocchio, R. Moore, P. Kohli, A. Criminisi, A. Kipman, and A. Blake, “Efficient human pose estimation from single depth images,” PAMI, 2013 [PDF]
+Action Recognition
+Bobick, A. and J. W. Davis (2001). "The Recognition of Human Movement Using Temporal Templates." PAMI. [DOI]
+Laptev, I., M. Marszarek, et al. (2008). "Learning realistic human actions from movies." CVPR. [PDF]
+Wang, H. and Schmid, C. Action Recognition with Improved Trajectories. ICCV, 2013. [PDF]
+Poppe, R. A survey on vision-based human action recognition. Image and vision computing, 2010. [PDF]
+Karpathy, Andrej, et al. "Large-scale video classification with convolutional neural networks." Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on. IEEE, 2014.
+Structure from Motion
+Triggs, B., P. F. McLauchlan, et al. (1999). "Bundle Adjustment - A Modern Synthesis." Vision Algorithms. [PDF]
+Pollefeys, M., R. Koch, et al. (1999). "Self-Calibration and Metric Reconstruction in spite of Varying and Unknown Internal Camera Parameters." IJCV. [PDF]
+Snavely, N., S. M. Seitz, et al. (2007). "Modeling the world from Internet photo collections." IJCV. [PDF]
+Segmentation / Layer extraction
+Comaniciu, D. and P. Meer (2002). "Mean Shift: A Robust Approach toward Feature Space Analysis." PAMI. [DOI]
+Felzenszwalb, P. and D. P. Huttenlocher (2004). "Efficient Graph-Based Image Segmentation." IJCV. [PDF]
+Shi J. and Malik. J. (2000). "Normalized Cuts and Image Segmentation" PAMI [PDF￼]
+Stereo / Optical Flow
+Black, M. J. and P. Anandan (1996). "The Robust Estimation of Multiple Motions: Parametric and Piecewise-Smooth Flow Fields." Computer Vision and Image Understanding. [PDF]
+Baker, S., D. Scharstein, et al. (2009). "A Database and Evaluation Methodology for Optical Flow." MSR TechReport. [PDF]
+Zabih, V. K. a. R. (2002). "Multi-camera Scene Reconstruction via Graph Cuts." ECCV. [PDF]
+Baker, S. and Matthews, I. (2004) “Lucas-Kanade 20 Years On: A Unifying Framework.” IJCV. [PDF]
+Scharstein, D. and R. Szeliski (2002). " A taxonomy and evaluation of dense two-frame stereo correspondence algorithms." IJCV. [PDF]
+Texture / Image synthesis
+Brown, M. and D. G. Lowe (2003). "Recognising Panoramas." ICCV. [PDF]
+Burt, P.J.; Adelson, E.H., "The Laplacian Pyramid as a Compact Image Code," in Communications, IEEE Transactions on , vol.31, no.4, pp.532-540, Apr 1983 [DOI: http://doi.org/10.1109/TCOM.1983.1095851]
+Burt, P. J. and E. H. Adelson (1983). "A multiresolution spline with application to image mosaics." ACM Transactions on Graphics. [PDF]
+Efros, A. A. and T. K. Leung (1999). "Texture Synthesis by Non-parametric Sampling." ICCV. [PDF]
+Kwatra, V., A. Schodl, et al. (2003). "Graphcut Textures: Image and Video Synthesis Using Graph Cuts." SIGGRAPH. [PDF] [WEBSITE]
+Hays, J. and A. Efros (2007). "Scene Completion Using Millions of Photographs." SIGGRAPH. [PDF] [WEBSITE]
+Color recognition / HDR
+Debevec, P. E. and J. Malik (1997). "Recovering High Dynamic Range Radiance Maps from Photographs." SIGGRAPH. [PDF]
+Swain, M. and D. Ballard (1990). "Indexing via Color Histograms." ICCV. [DOI]
+Video
+A. Schödl, R. Szeliski, D. H. Salesin, and I. Essa (2000), “Video textures,” in ACM SIGGRAPH Proceedings of Annual Conference on Computer graphics and interactive techniques, New York, NY, USA, 2000, pp. 489-498. [PDF] [DOI]
+Wexler, Y., E. Shechtman, et al. (2007). "Space-Time Video Completion." PAMI. [PDF]
+M. Grundmann, V. Kwatra, M. Han, and I. Essa (2010), “Efficient Hierarchical Graph-Based Video Segmentation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010. [PDF][WEBSITE][DOI]
+Vision for Robotics
+J. Engel, T. Schöps, and D. Cremers, LSD-SLAM: Large-Scale Direct Monocular SLAM, In European Conference on Computer Vision (ECCV), 2014. [bib] [pdf] [video]
+Richard A. Newcombe, Steven J. Lovegrove and Andrew J. Davison, DTAM: Dense Tracking and Mapping in Real-Time, In ICCV, 2011. [pdf] [video]
+Deep Learning
+Zeiler, Matthew D., and Rob Fergus. "Visualizing and understanding convolutional networks." Computer Vision–ECCV 2014. Springer International Publishing, 2014. 818-833. [PDF]
+Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014). [PDF]

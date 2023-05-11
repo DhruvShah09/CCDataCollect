@@ -1,0 +1,24 @@
+Ph.D. CS Machine Learning Body of Knowledge
+Prepared by: The Machine Learning Faculty, November, 2017
+The exam will be divided to four areas: core, statistical methods and models, learning theory, and decision processes. There will be three questions in each area. Each student has to answer two out of the three questions in the core area. In addition, each student has to select two out of the remaining three areas where he or she will answer two out of the three questions.
+Reading List:
+Core
+-
+KP Murphy, Machine learning: a probabilistic perspective, 2012, MIT press
+Chapters 2-8, 10-11, 16, 17
+-
+Mohri, Mehryar, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012.
+Chapters 1-6, 8, 10
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.
+- Chapters 2, 6-9
+Statistical Models and Methods
+- Daphne Koller and Nir Friedman. Probabilistic Graphical Models: Principles and Techniques, MIT Press, 2009.
+Chapters 1-4, 8-11
+-
+Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. The elements of statistical learning. Second edition, Springer, 2009.
+Chapters 7, 8, 14
+Learning Theory
+- M. Kearns and U. Vazirani. An Introduction to Computational Learning Theory. The MIT Press 1994.
+Chapters 1, 2, 3, 4, 5, 7
+Decision Processes
+- R. Sutton and A. Barto. Reinforcement Learning: An Introduction. 2nd edition The MIT Press 2017. Chapters 1-9, 12-13 ( http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf )

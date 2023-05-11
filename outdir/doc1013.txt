@@ -1,0 +1,21 @@
+Ph.D. CS Qualifier Exam Information
+The Qualifier is designed to test whether PhD students are sufficiently prepared to do research in their chosen area(s) and whether they are engaged in research in their chosen area(s). Students are expected to take qualifier in their second year unless there are truly exceptional circumstances.
+The Qualifier consists of three parts:
+1. Testing the students' depth of knowledge in their chosen research area. The area-specific requirements for this part are listed below. Each item in the list is a link to a page summarizing the material students should know in order to have a deep understanding of the area and to prepare for the exam. This material may include courses, books, and articles.
+2. The submission of a high-quality research deliverable, as evidenced by a portfolio consisting of an exam-committee-reviewed and publishable article, and possibly other work products as approved by the exam committee. This component evaluates the students' creative and research abilities, along with the potential to do dissertation research.
+3. An oral presentation and examination that also allows for follow-up on the first two parts.
+-
+Computational Science and Engineering (information is in the CSE Graduate Handbook)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

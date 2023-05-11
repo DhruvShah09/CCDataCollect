@@ -1,0 +1,6 @@
+Director, Center for Bioinformatics and Computational Genomics, Joint with CSE, Regents' Professor
+https://bme.gatech.edu/bme/faculty/Mark-Borodovsky
+Research Areas: Machine Learning, Algorithms, Bioinformatics
+Biography
+Dr. Borodovsky and his group develop machine learning algorithms for computational analysis of biological sequences: DNA, RNA and proteins. Our primary focus is on prediction of protein-coding genes and regulatory sites in genomic DNA. Probabilistic models play an important role in the algorithm framework, given the probabilistic nature of biological sequence evolution.
+Bioinformatics PhD Coordinator

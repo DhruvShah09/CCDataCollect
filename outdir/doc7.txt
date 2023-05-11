@@ -1,0 +1,67 @@
+Intelligence
+Build top-to-bottom models of rational agents and human-level intelligence.
+The Intelligence thread is concerned with top-to-bottom computational models of intelligence. To this end, we emphasize designing and implementing artifacts that exhibit various levels of intelligence as well as understanding and modeling natural cognitive agents such as humans, ants, or bees. Students acquire the technical knowledge and skills necessary for expressing, specifying, understanding, creating, and exploiting computational models that represent cognitive processes. The Intelligence thread prepares students for fields as diverse as artificial intelligence, machine learning, perception, cognitive science, and countless fields in which these areas of computational intelligence are applied.
+The student who pursues Intelligence can combine it with Devices to become a roboticist, with People to build adaptive interfaces, or with Media to build smart and adaptive entertainment - to name a few of the far-reaching possibilities.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcome
+|
+|
+View the course prerequisites for the Intelligence Thread.
+Required Courses:
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- PSYC 1101 Introduction to Psychology, 3 (social science elective)
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2340 Objects and Design, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+- CS 3600 Introduction to Artificial Intelligence, 3
+Pick 1 of Computational Complexity
+- CS 4510 Automata and Complexity Theory, 3
+Pick 1 of Embodied Intelligence
+- CS 3630 Robotics and Perception, 3
+- CS 3790 Introduction to Cognitive Science, 3
+- PSY 3040 Sensation and Perception, 3
+Pick 2 of Approaches to Intelligence
+- CS 4476 Intro Computer Vision, 3
+- CS 4635 Knowledge-based AI, 3
+- CS 4641 Machine Learning, 3
+- CS 4644 Deep Learning, 3
+- CS 4646 Machine Learning for Trading, 3
+- CS 4649 Robot Intelligence, 3
+- CS 4650 Natural Language and Processing, 3
+- CS 4731 Game AI, 3
+Elective Courses:
+Free Electives (6 hours)
+- FREE-INT1 Free Elective-Intelligence, 3
+- FREE-INT2 Free Elective-Intelligence, 3
+Knowledge-Based Intelligence
+- CS 3790 Introduction to Cognitive Science, 3
+- CS 4615 Modeling and Design, 3
+- CS 4635 Knowledge-based AI, 3
+- CS 4649 Robot Intelligence: Planning, 3
+- CS 4650 Natural Language Understanding, 3
+Data-Driven Intelligence
+- CS 4464 Computational Journalism
+- CS 4616 Pattern Recognition, 3
+- CS 4641 Machine Learning, 3
+- MATH 4280 Introduction to Information Theory, 3
+Embodied Intelligent Systems
+- CS 3651 The Art of Building Intelligent Appliances, 4 (requires ECE 2031)
+- CS 4476 Intro Computer Vision, 3
+- CS 4731 Game AI, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

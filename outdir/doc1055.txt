@@ -1,0 +1,33 @@
+Undergraduate Research Opportunities in Computing (UROC)
+Whether you plan to go on to graduate school or a job in industry, doing undergraduate research will bolster your résumé and broaden your post-grad opportunities.
+UROC Job Fair
+Subscribe to uroc-announce@mailman.cc.gatech.edu for details about the next UROC Job Fair.
+To subscribe: https://mailman.cc.gatech.edu/mailman/listinfo/uroc-announce
+How do I find an advisor and research project?
+Is there an area of computer science or computational media that really interests you? If so, then read more about that area and find out which faculty are doing work in the area. Have you had a class with a professor you really liked? Look on the web and read about his/her work.
+When you are thinking about who to work with, consider both the research area and the person. Is this faculty member nice? Will he/she find enough time to work with you? Ask your friends - do you know people who have worked with this person before? Get to know the grad students who work with this faculty member. If you will be primarily working with a grad student, what is he/she like?
+After you have identified one or two possible advisors, read everything you can about their work. Do your homework - don't approach someone cold. Email the professor letter describing your interest, and asking if you could meet with them to discuss it. If they hold regular office hours, you can drop by during that time. Attach a copy of your resume (or link to your resume available online) to your email.
+Don't approach lots of people - pick one or two and be prepared. If you are able to work for course credit, remember to say so. Many faculty have limited money to pay students, but will supervise projects for credit. A job that is initially for credit may turn into a research job for pay later.
+You don't need to have a specific idea of exactly what you want to do. An interest in a general area of research and some tentative areas to explore is a good start. Your advisor has lots of big research projects under way, and may wish to find a piece of one of those projects for you to work on. If you do have a specific idea for a research project, feel free to discuss that with your potential advisor. However, make sure to be flexible and listen carefully to the faculty member's response to your suggestions.
+In your first term, you may start off doing work that is simply the hard work underlying part of a bigger project. That's OK - that's how you learn. However, as time goes on, make sure your own part of the project has its own research goals, and there is something you can personally take credit for.
+What kinds of research projects are available?
+Each year the College holds a special UROC job fair in which faculty talk about their research projects and describe the kinds of positions open to undergraduates. The latest job fair was held in November 2014. Below you'll find a sampling of the faculty presentations.
+- Computational Linguistics Lab
+- Interactive Computing
+- Computing Education Research
+- Real-Time Transportation System Simulation
+- National Science Foundation
+- Debugging for Non-Majors
+- Designing a Collaborative Web Game for middle school students
+- Embedded and Pervasive Computing Research
+- Building Big Data Systems
+- Wine
+Can I do interdisciplinary research?
+Absolutely. If your advisor is from your home department, your reader may be from another department. If you wish to complete Research Option with a primary advisor not from your own degree program, then you need to write a short proposal explaining what sort of research you plan to do. This proposal must be approved by the UROC faculty committee. Before you write it up, email uroc@cc.gatech.edu and we'll set up an appointment to discuss your plans with you. All reasonable plans are approved.
+Find research opportunities
+Browse research opportunities for GT students (for pay and for credit) on the research opportunities database.
+What else?
+Visit the FAQ section or email uroc@cc.gatech.edu and we'll be happy to help answer questions!
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

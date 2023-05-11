@@ -1,0 +1,5 @@
+Associate Professor
+https://faculty.cc.gatech.edu/~dchau/
+Research Areas: AI Security, Explainable AI, Visual Analytics, Adversarial Machine Learning, Graph Visualization, Data Mining
+Biography
+Duen Horng (Polo) Chau is an Associate Professor in the School of Computational Science and Engineering in the College of Computing at Georgia Tech. He co-directs Georgia Tech's MS Analytics program. He is the Director of Industry Relations of The Institute for Data Engineering and Science (IDEaS), and the Associate Director of Corporate Relations of The Center for Machine Learning. His research group bridges machine learning and visualization to synthesize scalable interactive tools for making sense of massive datasets, interpreting complex AI models, and solving real world problems in cybersecurity, human-centered AI, graph visualization and mining, and social good. His Ph.D. in Machine Learning from Carnegie Mellon University won CMU's Computer Science Dissertation Award, Honorable Mention.

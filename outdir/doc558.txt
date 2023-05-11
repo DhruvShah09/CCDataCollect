@@ -1,0 +1,4 @@
+Professor
+Research Areas: Computer networking, cloud computing and networking, randomized algorithms
+Biography
+Jun (Jim) Xu is a Professor in the School of Computer Science at Georgia Institute of Technology. A major thrust of his research lies in “Network Algorithmics”, the science of designing high-speed Internet routers, firewalls, and measurement devices. He received ACM Sigmetrics 2004 Best Student Paper Award, and has been an ACM Distinguished Scientist since 2010.

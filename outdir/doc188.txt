@@ -1,0 +1,4 @@
+Ph.D. Student
+Research Areas: My main research interests include, but not limited to the areas of scalable graph analytics, graph processing middlewares, distributed systems and high performance computing.
+Biography
+I am a Ph.D. student at Georgia Institute of Technology in Atlanta, GA, supervised by Umit V. Catalyurek.

@@ -1,0 +1,5 @@
+Assistant Professor
+https://harishravichandar.com/
+Research Areas: Robot Learning; Human-Centered Robotics; Multi-Agent Systems
+Biography
+Harish is an Assistant Professor in the School of Interactive Computing at Georgia Institute of Technology. He is also a core faculty member of Georgia Tech’s Institute for Robotics and Intelligent Machines (IRIM). His research interests span the areas of robot learning, human-robot interaction, and multi-agent systems. He directs the Structured Techniques for Algorithmic Robotics (STAR) Lab, where he and his team works on structured algorithms that help robots reliably operate and collaborate in unstructured environments alongside humans.

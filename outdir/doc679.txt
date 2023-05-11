@@ -1,0 +1,5 @@
+Professor
+https://www.cc.gatech.edu/~moin/
+Research Areas: Computer Architecture; Memory Systems; Hardware Security; Quantum Computing
+Biography
+Moinuddin Qureshi is a Professor of Computer Science at Georgia Tech. His research interests include computer architecture, memory systems, hardware security, and quantum computing. Previously, he was a research staff member (2007-2011) at IBM T.J. Watson Research Center, where he developed the caching algorithms for Power-7 processors. He is a member of the Hall of Fame for ISCA, MICRO, and HPCA. His research has been recognized with the best paper award at MICRO 2018, best paper award at HiPC 2014, and two awards (and three honorable mentions) at IEEE MICRO Top Picks. His ISCA 2009 paper on Phase Change Memory was awarded the 2019 Persistent Impact Prize in recognition of “exceptional impact on the fields of study related to non-volatile memories”. He was the Program Chair of MICRO 2015 and Selection Committee Co-Chair of Top Picks 2017. He received his Ph.D. (2007) and M.S. (2003) from the University of Texas at Austin.

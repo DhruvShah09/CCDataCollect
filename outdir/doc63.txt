@@ -1,0 +1,27 @@
+CS Minor FAQs
+Q: May I apply if I am currently enrolled in CS 1331?
+A: No, a grade of “B” or higher must be earned in order to apply.
+Q: What if I earn a grade of “C” in CS 1331?
+A: You may continue taking CS minor courses on your own (without CS assistance). If grades higher than “C” are earned, you may reapply and admission will be considered.
+Q: May I apply if I have less than 48 credit hours remaining for my major?
+A: Yes, CS courses successfully completed towards the minor before applying will be considered. Acceptance is not guaranteed.
+Q: If accepted, may I change my minor thread at a later date?
+A: Yes, but you will have to reapply to the program for your new minor. Acceptance is not guaranteed.
+Q: May I double count courses towards my major and minor?
+A: Yes, minor courses may count towards your free electives. A maximum of six hours may count towards your major electives and minor as long as the courses are not specified by name and number and your major department approves.
+Q: Will I receive registration assistance during Phase I?
+A: Yes, CS minors receive a maximum of one permit per semester. A maximum of two permits is allowed during the final graduating semester.
+Q: May I take more than one CS/CX course per semester?
+A: Yes, however the maximum permit allowance applies. You may register for additional courses on your own (without CS assistance).
+Q: May I receive an overload into a CS/CX course?
+A: No, overloads are not issued.
+Q: May I change my major to CS if I start the minor?
+A: Yes, you must attend a mandatory major change meeting.
+Q: May I substitute CS 2110 with ECE 2020 and ECE 2035?
+A: Yes, however, to fulfill minor hour requirements you must successfully complete another minor course in its place. This may be a three credit hour 3000/4000 level minor course.
+Q: What happens if I am not accepted into the program?
+A: You may choose to pursue the minor on your own (without CS assistance) and you may reapply to the program during the semester in which you will complete the minor for reconsideration.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

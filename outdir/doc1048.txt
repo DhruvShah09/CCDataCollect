@@ -1,0 +1,148 @@
+Undergraduate Academic Policies, Procedures, and Forms
+- Advanced Standing and Placement Exams
+- Change of Major/Declare a Secondary Major
+- Grade Mode Change
+- Grade Substitution
+- Graduation Application
+- International Plan
+- Midterm U’s
+- Petition to the Faculty
+- Readmission Application
+- Research Option
+- Tutoring
+- Undergraduate Senior Request Form to Register for a Graduate Course
+- Undergraduate Research Request Form for CS 2698, CS 2699, CS 4698, CS 4699, or CS 4903
+- Withdraw from an individual class/ Withdraw from all classes
+- Anticipated Course Offerings
+- ABET Accreditation
+Advanced Standing and Placement Exams
+Advanced Standing Examinations for CS 1301, CS 1331, and CS 1371 are offered in Fall and/or Spring Semesters.
+Advanced Standing and Placement Exam Information for Fall 2023
+CS 1301 and CS 1371 Exams: Offered Online on Monday, 8/21/23, 5pm EST.
+CS 1331 Exam: Offered Online on Tuesday, 8/22/23, 5 pm EST.
+How to sign up
+1.Students sign up based on their FASET Orientation status.
+Event
+FASET Date
+Sign up deadline
+Students pay Bursar
+Students notified
+Summer First Year FASET 1
+6/13/2023
+6/13/2023
+6/14/2023
+6/19/2023
+Summer First Year FASET 2
+6/14/2023
+6/14/2023
+6/15/2023
+6/19/2023
+Summer First Year FASET 3
+6/20/2023
+6/20/2023
+6/21/2023
+6/23/2023
+Fall First Year FASET 1
+6/26/2023
+6/26/2023
+6/27/2023
+6/30/2023
+Fall First Year FASET 2
+6/27/2023
+6/27/2023
+6/28/2023
+6/30/2023
+Fall First Year FASET 3
+7/10/2023
+7/10/2023
+7/11/2023
+7/14/2023
+Fall First Year FASET 4
+7/13/2023
+7/13/2023
+7/14/2023
+7/19/2023
+Fall First Year FASET 5
+7/14/2023
+7/14/2023
+7/17/2023
+7/19/2023
+Fall First Year FASET 6
+7/17/2023
+7/17/2023
+7/18/2023
+7/21/2023
+Fall First Year FASET 7
+7/18/2023
+7/18/2023
+7/19/2023
+7/21/2023
+Fall First Year FASET 8
+7/20/2023
+7/20/2023
+7/21/2023
+7/26/2023
+Fall First Year FASET 9
+7/21/2023
+7/21/2023
+7/24/2023
+7/26/2023
+Fall Transfer FASET 1
+7/26/2023
+7/26/2023
+7/27/2023
+7/31/2023
+Fall Transfer FASET 2
+7/27/2023
+7/27/2023
+7/28/2023
+7/31/2023
+Continuing student Window/
+Summer 23 Transfer students
+8/01/2023 (not a FASET date)
+8/14/2023
+8/15/2023
+8/17/2023
+Here is the student payment portal: Student Payment Instructions | Office of the Bursar (gatech.edu)
+Change of Major/Declare a Secondary Major
+Students interested in changing majors to CS or declaring CS as a secondary major must sign up for a Change of Major meeting.
+Students interested in changing majors to CM or declaring CM as a secondary major must sign up for a Change of Major meeting.
+- CM Change of Major Meeting Web Form
+- Students interested in changing majors to CM or declaring CM as a secondary major can schedule an appointment with Wes Kirkbride at Advisor Link.
+Grade Mode Change
+All course work must be taken for a letter grade with the exception of CS 1100 and free electives. Students can use up to 6 hours of free electives as pass/fail if you meet GT Institute regulations. Students have until the midpoint of the semester as identified on the Registrar’s calendar to meet with their advisor to have their grade mode changed.
+Students can use Docusign to complete this form: https://esignature.gatech.edu/
+Grade Substitution
+Undergraduate students who receive a grade of D or F in a course are eligible to repeat the course and have the original grade excluded from the computation of the academic average if certain conditions are met. View the full policy under rules and regulations on the registrar's website. After receiving a grade in the course you are retaking, schedule an appointment with your advisor to have the grade substitution form completed before midpoint of the semester as identified on the Registrar’s calendar.
+Students can use Docusign to complete this form: https://esignature.gatech.edu/
+Graduation Application
+In order to graduate from Georgia Tech, you must apply using the Online Application for Graduation (OAG). CS students will be invited to attend a special OAG meeting with the advisors and CM students are invited to meet with their advisor, Wes Kirkbride
+International Plan
+The International Plan is Georgia Tech's globally-focused degree designation for students interested in making global competence a core part of their GT experience. Interested students should contact Daurette Joseph to set up an academic plan.
+Midterm U’s
+Students with more than one Midterm U will have a hold placed on their account. Students will need to meet with their advisor to have the hold removed. Schedule an appointment with an advisor.
+Find you advisor's contact information in our Undergraduate Advisor Directory.
+Petition to the Faculty
+Students use this form when asking for an exception to an Institute or college rule or policy.
+Readmission Application
+A CS/CM Readmission Application is required for students on Academic Dismissal. This is in addition to the readmission requirements found on the registrar's website. Please complete the application below and submit to Daurette Joseph.
+Research Option
+The Research Option offers students the opportunity for an in-depth, long-term research experience that culminates in a final paper or thesis.
+Students who want to use the Research Option for Junior Design should sign up for CS 4699.
+Tutoring
+Tutoring is available through the College of Computing for CS 1301, CS 1331, CS 1332, CS 2050, CS 2110, and CS 2200. You can request a tutor on the tab below. The Center for Academic Success offers 1-1 tutoring for 80 undergraduate courses. You can sign up online at: http://success.gatech.edu/tutoring/1-to-1/courses-supported
+Undergraduate Senior Request Form to Register for a Graduate Course
+With permission from the instructor, senior students (90+ hours) with a minimum GPA 2.7 may take a graduate level course. DocuSign will be used in place of the paper Undergraduate Senior Request form. Follow the link below and scroll down to Paper Permit Forms section.
+Undergraduate Research Request Form for CS 2698, CS 2699, CS 4698, CS 4699, or CS 4903
+For students requesting a permit for undergraduate research, follow the link below and scroll down to requesting research permits for instructions on completing the form in DocuSign.
+CS 4699 is also used to fulfill the research option of Junior Design.
+Withdraw from an individual class/ Withdraw from all classes
+Students interested in withdrawing from an individual course with a grade of “W” can do so at Oscar.gatech.edu by the midpoint of the semester as identified on the Registrar’s calendar.
+Students interested in withdrawing from all classes should schedule an appointment to meet with an advisor before the Withdrawal Deadline identified on the Registrar’s calendar. Georgia Tech requires students to sit out one semester after a full withdrawal or a petition to the faculty requesting for an immediate return.
+Anticipated Course Offerings
+Please click here to view the anticipated course offerings in the CS department. Note that schedule changes are dynamic and students should continue to check OSCAR before and during registration periods for scheduling updates.
+ABET Accreditation
+Click here to view the ABET Accreditation for Student Outcomes and Program Objectives for BS Computer Science and BS Computational Media
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

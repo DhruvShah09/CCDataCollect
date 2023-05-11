@@ -1,0 +1,5 @@
+Professor
+http://eilab.gatech.edu/mark-riedl.html
+Research Areas: Introduction to Artificial Intelligence; Computer Game Artificial Intelligence
+Biography
+Dr. Mark Riedl is a professor in the Georgia Tech School of Interactive Computing and associate director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely.

@@ -1,0 +1,4 @@
+Senior Research Scientist
+Research Areas: High-performance algorithms and architectures.
+Biography
+Jeffrey (Jeff) Young is a research scientist in Georgia Tech's School of Computer Science. His main research interests include investigating scheduling and data movement for accelerators like GPU and Xeon Phi and working to model and map algorithms to high-performance architectures. He is currently working on a collaborative research program that is focused on mapping bandwidth-intensive algorithms to 3D stacked memories like Hybrid Memory Cube (HMC) and High Bandwidth Memory (HBM) and on performing near-memory computation on devices like FPGAs and GPUs. He received his PhD in computer engineering in 2013 from Georgia Tech's ECE department.

@@ -1,0 +1,5 @@
+Assistant Professor
+https://www.cc.gatech.edu/~jarulraj/
+Research Areas: Database systems, machine learning
+Biography
+Joy Arulraj is an assistant professor in the School of Computer Science at Georgia Institute of Technology. His research interest is in database management systems, specifically large-scale data analytics, main memory systems, machine learning, and big code analytics. At Georgia Tech, he is a member of the Database group.

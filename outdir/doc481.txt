@@ -1,0 +1,2 @@
+Biography
+Dr. Hyesoon Kim received her Ph.D. degree in electrical and computer engineering from the University of Texas at Austin. Her research interests include high-performance energy-efficient computer architectures, programmer-compiler-architecture interaction, low-power high-performance embedded processors, and compiler and hardware support for dynamic optimizations, virtual machines, and binary instrumentation.

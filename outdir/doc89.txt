@@ -1,0 +1,36 @@
+Minor in Computing & Intelligence
+Minor in Computing & Intelligence
+General Requirements:
+- Must be in good academic standing (Student is not on academic warning or probation; is maintaining satisfactory academic progress.)
+- CS 1301, CS 1315, or CS 1371 must be completed with an “A” or “B” before applying for the Minor in Computing & Intelligence
+- CS 1331 must be completed with an “A” or “B” before applying for the Minor in Computing & Intelligence
+- Students must have a minimum of 48 credit hours remaining (not including minor prerequisites and required coursework) in your major degree requirements, as seat availability in CS classes is limited
+- Only CS courses are included in the minor
+- All courses must be completed with a letter-grade of “C” or better
+- 9 hours must be 3000/4000 level
+- Course prerequisites are not a part of the minor; it is the student’s responsibility to account for all required prerequisites understanding that they are also subject to change.
+- No Special Problems or Internship coursework may be used towards any CS minor
+- Computational Media, Computer Engineering (catalog year 2021-2022 and later), and Computer Science majors cannot minor in Computing & Intelligence
+Required Courses:
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2110 Computer Organization and Programming, 4
+- CS 3600 Introduction to Artificial Intelligence, 3
+- Pick 1 from Embodied Intelligence (below):
+- CS 3630 Robotics and Perception, 3
+- CS 3790 Introduction to Cognitive Science, 3
+- Pick 1 from Approaches to Intelligence (below):
+- CS 4476 Intro Computer Vision, 3
+- CS 4635 Knowledge-based AI, 3
+- CS 4641 Machine Learning, 3
+- CS 4644, Deep Learning
+- CS 4646 Machine Learning for Trading, 3
+- CS 4649 Robot Intelligence, 3
+- CS 4650 Natural Language and Processing, 3
+- CS 4731 Game AI, 3
+Total hours to receive minor: 16 hours
+For Phase I & II registration questions, please visit our Registration Information page.
+All courses are not consistently offered. See http://www.cc.gatech.edu/three-year-course-outline.
+Contact - Minors Advisor
+Contact:
+Ashley McDowell Last names A-L
+Ishmela Lyons-Uko Last names M-Z

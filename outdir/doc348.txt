@@ -1,0 +1,7 @@
+Professor (Part-Time)
+http://www.cc.gatech.edu/~guerra
+Research Areas: Bioinformatics
+Biography
+Concettina Guerra works in the areas of Computational Biology and Computer Vision. Her recent interests fall in the domains of protein classification, recognition and docking, where she develops geometric approaches to such tasks as protein comparison and identification of sites on molecular surfaces that are likely to be of biological interest.
+Formerly an Associate Professor at University of Rome, Italy, she joined the Department of Information Engineering of the University of Padova, Italy, where she became a Professor in the Faculty of Engineering. She has visited extensively with US Institutions, including Rensseleaer Polytechnic and CMU, and has been on the CS faculty of Purdue University for over a decade.
+Dr. Guerra is a founding member of the steering committee of the International Symposium on 3D Data Processing Visualization and Transmission, that she co-chaired in 2002. She was Co-Director of the CIME School on Mathematical Methods for Protein Structure Analysis and Design (2000), and chairman of the fifth IEEE International Workshop on Computer Architectures for Machine Perception (2000).

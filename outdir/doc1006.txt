@@ -1,0 +1,144 @@
+Ph.D. CS Intelligent Systems Body of Knowledge
+Intelligent Systems Qualifier Exam
+1. Qualifier Process
+The qualifier takes place over the course of 2 weeks and consists of related written and oral components. In addition, the student will prepare a portfolio consisting of a short description of research accomplishments to date and at least one research paper of publishable quality.
+The examination aims to evaluate the student’s understanding of their research area, as well as their broader understanding of the field. The evaluation is conducted by a Qualifier Committee consisting of four faculty: the student’s advisor and three other IC faculty.
+The student will pick two areas from the following list:
+-
+Robotics
+-
+Perception
+-
+Machine Learning
+-
+Planning and Search
+-
+Cognitive Science
+-
+Knowledge Based AI
+-
+Ubiquitous Computing
+-
+Natural Language Processing
+-
+Artificial Intelligence
+Committees will consist of 4 members:
+-
+Advisor (non-voting)
+-
+2 voting members selected by student (in consultation with the advisor), each representing an area.
+-
+1 voting member not selected by student (but from IS faculty)
+The advisor and two voting members selected by the student will generate one qualifier question each (for a total of three questions). The advisor’s question will focus on one of the research topics the student is engaged in. The questions of the other faculty members will cover the areas selected by the student. Upon receiving the questions, the student will have two weeks to produce a written response to the questions. The written response must be no longer than 2000 words per question and must be submitted by the end of the 2 week period. After the written exam period, the student will prepare an oral presentation of their research to date.
+2. Timing
+The student selects the week he or she wishes his or her written exam to start. Prior to that date, the student selects two areas and two committee members, one representing each area. The advisor selects the third voting member. One week prior to the written exam date, the two area committee members and the advisor write questions. Each of the four committee members must agree upon the set of questions for the student.
+The student will have two weeks from the start of the written exam to answer the questions. The student should work on the questions independently. To do otherwise will be considered a violation of the Student Honor Code. Answers to questions are returned to the committee within the two week period.
+The student works with the committee to schedule an oral research presentation.
+3. Suggested Preparation:
+There are no required courses for the qualifier, however the faculty recommend that students take the following courses associated with their chosen qualifier areas:
+-
+Robotics
+-
+CS 8803 Statistical Techniques for Robotics
+-
+-
+Perception
+-
+CS 6476 Computer Vision
+-
+-
+Machine Learning
+-
+CS 7641 Machine Learning
+-
+-
+Planning and Search
+-
+CS 7649 Robot Intelligence: Planning
+-
+-
+Cognitive Science
+-
+CS 6795 Cognitive Science
+-
+-
+Knowledge Based AI
+-
+CS 7637 Knowledge-Based AI
+-
+-
+Ubiquitous Computing
+-
+CS 7470 Mobile and Ubiquitous Computing
+-
+-
+Natural Language Processing
+-
+CS 7650 Natural Language Processing
+-
+-
+Artificial Intelligence
+-
+CS 6601: Artificial Intelligence
+-
+The committee members shall assume that the student has knowledge of the chosen areas equivalent to the suggested classes listed above. This provides the committee with guidance when creating questions and also provides the student with guidance on what they should expect to know. However, the written questions are not substitutes for course examination.
+4. Responsibilities of the Student:
+The student will:
+-
+Recruit two faculty members from two areas, who are not the student’s advisor, to serve on the Quals Committee. One of these faculty members will serve as the Qualifier Committee Chair (see below).
+-
+Once all committee members are known, the student will schedule a date and room for the oral presentation.
+-
+Upon receiving the exam questions, the student will work independently on the written portion of the qualifier, with no input from other students or faculty, and submit the answers to the Qualifier Committee by email by the date listed on the exam document.
+-
+The student will prepare and present an oral research presentation.
+-
+Prepare a portfolio, consisting of a short description of their research accomplishments and at least one research paper of publishable quality.
+5. Responsibilities of the Qualifier Committee Members:
+The student’s advisor shall:
+-
+Recruit the 4th member of the committee.
+-
+Prepare a written question.
+-
+Collect exam questions from each committee one week prior to the start of the written exam.
+-
+Work with other committee members to ensure a fair, thorough, and impartial written exam.
+-
+Send the exam to the student on the date of the start of the exam.
+-
+Receive the written exam answers from the student and return them to the committee for grading.
+-
+Grade the written question.
+-
+Attend the student oral presentation.
+The area committee members shall:
+-
+Prepare a written question.
+-
+Work with other committee members to ensure a fair, thorough, and impartial written exam.
+-
+Grade the written question.
+-
+Attend the student oral presentation and vote on the student’s written and oral performance.
+-
+One member will be chosen as committee chair at the oral presentation. This member will be responsible for reporting the outcome of the qualifier exam to the Associate Chair of Graduate Studies.
+The non-area committee member shall:
+-
+Work with other committee members to ensure a fair, thorough, and impartial written exam.
+-
+Grade the written questions.
+-
+Attend the student oral presentation and vote on the student’s written and oral performance.
+Note that the student’s advisor will serve as a non-voting member of the committee. The three voting members must unanimously agree on a pass in order for the student to successfully pass the qualifier.
+Example Qual Questions:
+Each question should start with a list of at least 3 papers the student will read. The questions will draw from a subset of the readings as well as course material.
+Question:
+Readings:
+“Visual Question Answering” (Antol et al. ICCV 2015).
+"Dropout as a Bayesian Approximation: Insights and Applications" paper of Gal and Ghahramani (2015)
+[Plus one other]
+In Visual Question Answering (VQA), an agent is tasked with answering a natural language question about an image. Given the interactive nature of VQA, it is natural to consider a flipped scenario where an agent is asking questions about images to learn more about the visual world.
+(1) Consider the baseline LSTM + CNN model from “Visual Question Answering” (Antol et al. ICCV 2015). Propose a basic active learning setup for this model.
+(2) Read the "Dropout as a Bayesian Approximation: Insights and Applications" paper of Gal and Ghahramani (2015). Use their approach to design an active learning strategy for the LSTM + CNN VQA model.
+(3) Describe the pros and cons of the above two active learning approaches.

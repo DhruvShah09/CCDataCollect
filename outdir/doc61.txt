@@ -1,0 +1,86 @@
+Create an Application for Changing Majors to Computer Science
+We are excited that you are interested in joining the College of Computing undergraduate community. Georgia Tech Computing is a Top 10 program in computing education and research. We offer an innovative curriculum with dedicated, world-class faculty. In the Bachelor of Science in Computer Science degree, you will choose two Threads that will combine general computer science instruction with specialized courses tailored to your interests and aimed at real-world computing opportunities.
+We look forward to meeting you!
+-The CoC Advising Team
+- Change of Major Policies and Eligibility
+- Change of Major: Application Process and Procedures
+- Change of Major: Application Window Information and Module
+- Change of Major Sign up Dates
+- Registration for students changing majors to Computer Science
+Change of Major Policies and Eligibility
+All students must complete the mandatory Change of Major module to declare Computer Science as a major.
+These modules are for matriculated students only.
+You must be currently attending courses at Georgia Tech.
+Double Majors: To double major, all major related courses in a student's primary major must be in progress or completed with a letter grade, with the exception of students pursuing a double major in CS and Math.
+Core curriculum classes as defined by the University System of GA can still be outstanding.
+Students can apply to graduate with their primary major but are responsible for canceling their active application for graduation to continue with Computer science as a secondary major. Consult with an advisor on how to cancel an active graduation application.
+CS and Math double majors cannot do Modeling/Simulation or Theory as a Thread.
+CS and EE/CMPE double majors cannot do Devices or Information Internetworks as a Thread.
+Students can take computer science courses while not declared as a computer science major via normal registration procedures. See Computer Science registration website for details.
+Students must be in good academic standing, meaning cannot be on Academic Warning, Probation, or Dismissal.
+It is recommended that ALL students complete an intro computing course (CS1301/1315/1371) with a grade of “C” or higher before changing majors to CS. It is REQUIRED for sophomores-seniors changing majors into CS unless they are a transfer student or first semester freshman.
+Transfer students must complete at least one semester at Tech and be in good Academic Standing before changing into Computer Science.
+First Semester Freshmen must wait until the drop date has passed before applying to change their major to CS. First semester freshmen can still complete the change of major informational module to learn more about the CS major.
+Transfer Students and First Semester Freshmen should review the institutional guidelines found here for more information.
+All students are welcome to complete the Change of Major module for informational purposes.
+Change of Major: Application Process and Procedures
+Students must complete the module, application, and have been contacted by a member of the CoC advising team, and submit the required documentation in collaboration with the CoC advising team in order to complete the Change of Major process.
+The Change of major process is as follows:
+- Complete the module and application during the application window that is posted on the website (at the end of the next section).
+- Wait until a member of the advising team has reached out to you via email as they will give you further instructions on how to complete the process.
+- Complete the process according to the emailed instructions provided by the advisor.
+Note: There is no change of major meeting and forms sent to advisors outside of this posted procedure will not be processed, even if the module has been completed.
+- After completing the module, students may submit a Change of Major Form up until the end of the current academic year (Summer-Fall-Spring). A new academic year begins each summer and students are required to complete the module AND application again once a new academic year begins.
+- Only eligible students, or students who meet current change of major requirements, should complete the COM form.
+Please note that all applications are subject to approval at the discretion of the CS department, which may include criteria not available to the public.
+General inquiries should go to advising@cc.gatech.edu.
+Change of Major: Application Window Information and Module
+update 4/6/23:
+APPLICATIONS TO CHANGE MAJORS TO COMPUTER SCIENCE HAVE BEEN SUSPENDED for the 2022-2023 academic year. They will reopen in fall 2023 on the schedule found in the next section.
+- An informational module is available when the change of major application windows are inactive.
+- Applications are only active during the windows listed in the section below.
+- Students who access the informational module are not being considered to change their major.
+- Students must score a 70 or above in order to be considered for change of major purposes.
+- Students can take the module multiple times, but their FIRST score will be the only one considered for change of major purposes.
+- Every application is accompanied by a timestamp.
+- Students who are unable to meet the score can reapply in the next change of major window for consideration.
+- Students can take the module multiple times, but their FIRST score will be the only one considered for change of major purposes.
+- If/when maximum capacity is reached, then applications will be disabled until the next available application range and students should sign up then.
+Eligible Students who complete the change of major application will be contacted via email by an advisor by the date as indicated below. with additional information including the change of major instructions.
+Students who do not currently meet the requirements to change to CS should follow those instructions after they meet the requirements to change to CS.
+Change of Major Sign up Dates
+|Change of Major Dates, Fall 2023|
+|Application Window||9/4/2023||9/15/2023|
+|Students contacted by advising team||9/25/2023|
+|Intake meeting (by invite only)||9/26/2023|
+|Application Window||9/25/2023||10/6/2023|
+|Students contacted by advising team||10/16/2023|
+|Intake meeting (by invite only)||10/17/2023|
+|Application Window||10/16/2023||10/27/2023|
+|Students contacted by advising team||11/6/2023|
+|Intake meeting (by invite only)||11/7/2023|
+|Application Window||11/6/2023||11/17/2023|
+|Students contacted by advising team||11/27/2023|
+|Intake meeting (by invite only)||11/28/2023|
+|Change of Major Dates, Spring 2024|
+|Application Window||1/22/2024||2/2/2024|
+|Students contacted by advising team||2/12/2024|
+|Intake meeting (by invite only)||2/13/2024|
+|Application Window||2/12/2024||2/23/2024|
+|Students contacted by advising team||3/5/2024|
+|Intake meeting (by invite only)||3/6/2024|
+|Application Window||3/5/2024||3/17/2024|
+|Students contacted by advising team||3/26/2024|
+|Intake meeting (by invite only)||3/27/2024|
+|Application Window||3/26/2024||4/6/2024|
+|Students contacted by advising team||4/16/2024|
+|Intake meeting (by invite only)||4/17/2024|
+First Semester Freshmen must wait until the drop date has passed before enrolling in a change of major module. Please review the institutional guidelines found here for more information.
+Registration for students changing majors to Computer Science
+Students who are changing majors to computer science can still register for computer science courses during registration.
+Registration information, including major restrictions and dates, can be found here.
+Students can perform a 'what if' scenario and also consult this page to strategize for the upcoming semester, by focusing on outstanding core requirements and CS 1331.
+The CS Department does not provide overloads or permits; students will have to utilize normal registration procedures to access courses.
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

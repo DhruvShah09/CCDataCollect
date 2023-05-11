@@ -1,0 +1,75 @@
+Theory
+Discover the theoretical foundations underlying a wide range of computing disciplines.
+The Theory thread is where computing models and addresses scaling. Theory quantifies, in mathematical terms, the efficiency by which problems are solved, as problem instances grow in size.
+In the Theory thread, students study abstractions of universal computational models, complexity classes within which many natural problems fall, and abstract methods to design efficient algorithms and analyze algorithmic performance. Early preparation includes introduction to programming, discrete math, proof techniques, algorithms and complexity. The student who pursues the Theory thread will eventually learn to formally quantify and improve performance either within theoretical computer science, or within an applied area of computer science, or in another science with a clear computational component (such as computational biology, physics, economics, mathematics, optimization etc).
+A student can combine Theory with Information Internetworks to enhance and quantify the performance of networks or databases or pursue security and cryptography, or with Systems & Architecture to design programming languages or build provably efficient systems and software, or with Modeling & Simulation to solve, with proven rigor, a wide range of real-world large scale problems. A student who pursues Theory can combine it with any other thread and enhance those skills with a deep quantitative understanding of performance of the objects studied in the other thread. In addition, in any application related work environment, from a research or development lab, to a consulting firm or the stock market, ability to design tools, reason about them formally, and quantify performance is a skill that greatly enhances one's vita.
+A student who pursues the theory thread at Georgia Tech is also an excellent candidate for a Ph.D. in theoretical computer science.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+View the course prerequisites for the Theory Thread.
+*Honors versions of CS, MATH, and ISYE courses are encouraged, but not required, unless explicitly specified.
+Required Courses:
+Programming, Mathematics and Theoretical Computer Science
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2050 or CS 2051 Introduction to Discrete Math for CS, 3
+- CS 2110 Computing Organization and Programming, 4
+- CS 2340 Objects and Design, 3
+- CS 3510 or CS 3511 Design and Analysis of Algorithms, 3
+- CS 4510 Automata and Complexity Theory, 3
+- CS 4540 Advanced Algorithms, 3
+- MATH 3406 Second Course on Linear Algebra
+Pick 1 of Advanced Mathematics
+- MATH 4022 Introduction to Graph Theory, 3
+- MATH 4032 Combinatorial Analysis, 3
+- MATH 4150 Introduction to Number Theory, 3
+Elective Courses:
+Free Electives (9 hours)
+- Free Elective-Foundations, 3
+- Free Elective-Foundations, 3
+- Free Elective-Foundations, 3
+Advanced Algorithms and Complexity
+- CS 3240 Languages and Computation, 3
+- CS 4520 Approximation Algorithms, 3 (Prereq CS3510 or 3511)
+- CS 4530 Randomized Algorithms, 3 (Prereq CS3510 or 3511)
+- CS 6520 Computational Complexity, 3 (Prereq CS3510 or 3511)
+Mathematics with Computer Science Applications
+- MATH 3770 Statistics and Applications, 3 (Requires MATH2401 or 2411. Cross-listed with ISYE and CE)
+- MATH 4012 Algebraic Structures for Coding Theory, 3 (Requires MATH1502 or 1512)
+- MATH 4022 Introduction to Graph Theory, 3
+- MATH 4150 Introduction to Number Theory and Cryptography, 3 (Requires MATH2406)
+- MATH 4107 Abstract Algebra I, 3 (Requires MATH2406)
+- MATH 4255 Monte Carlo Methods, 3 (Requires MATH3215 or MATH3225 or MATH3770)
+- MATH 4280 Introduction to Information Theory, 3 (Requires MATH3215 or MATH3225)
+- MATH 4305 Topics in Linear Algebra, 3 (Requires MATH1502 or MATH1512 or MATH1522)
+- MATH 4580 Linear Programming, 3 (Requires MATH1502 or MATH1512)
+- MATH 4640 Numerical Analysis I, 3 (Requires MATH2403 or MATH2413 or MATH 2602)
+- MATH 4782 Quantum Information and Quantum Computation, 3
+Examples of Computer Science Applications involving Algorithms and Complexity
+- CS 3251 Computer Networking I, 3
+- CS 3451 Computer Graphics, 3
+- CS 4400 Introduction to Database Systems, 3
+- CS 4235 Introduction to Information Security, 3
+- CS 3210 Design of Operating Systems, 3
+- CS 4496 Computer Animation, 3
+- CS 3600 Introduction to Artificial Intelligence, 3
+- CS 4641 Machine Learning, 3
+- CX 4140 Computational Modeling Algorithms, 3
+- CX 4230 Modeling and Simulation: Fundamentals and Implementation, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

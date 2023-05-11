@@ -1,0 +1,206 @@
+Ph.D. CS Program of Study
+The Computer Science PhD program is divided up into a series of milestones which every student progresses through on the way to the degree.
+CS 7001: Introduction to Graduate Studies
+During students' first semester at the College, they are expected to enroll in CS7001, Introduction to Graduate Studies. This course helps prepare students for research in computer science, and provides an introduction to the various research areas in the College.
+Research Credit
+Research with a faculty member is an essential aspect of the Computer Science Ph.D. Newly admitted students are expected to work on one or more jointly-defined research projects with faculty members in the College. While one goal of this is for the student to gain practical experience in doing research, these semester-long projects also serve as a way for students and faculty to begin to explore potential advisor relationships.
+Before students have a formal advisor, they are expected to register for CS 8903, Special Problems in Computer Science, under the supervision of a faculty member in the College. Registration for this course is restricted, and requires that students and the supervising faculty member complete a form describing the research to be completed over the course of the semester. Students may occasionally participate in multiple 8903 research projects in any given semester, given time and other commitments, and may participate in 8903 research projects for several semesters until they have a formal research advisor.
+Once students have a formal advisor, they are expected to focus on what will become their dissertation research under the supervision of their advisor. At this stage, students will register for CS 8999, Doctoral Thesis Preparation. Students and their advisor must fill out the CS 8999 permit form that indicates the general research direction and that confirms the establishment of the advisory relationship. This form only needs to be filled out one time.
+Breadth Component
+After admission, a student begins to work on fulfilling the breadth requirement. The breadth component of the program is intended to give students a view into a variety of areas within computing. Each student must take classes in 5 of the 15 areas of computer science. The 15 areas are:
+- Computational Science and Engineering
+- Computer Architecture
+- Database Systems
+- Graphics and Visualization
+- Human-Computer Interaction
+- Information Security
+- Intelligent Systems (including Artificial Intelligence, Cognitive Science, and Robotics)
+- Learning Sciences and Technology
+- Machine Learning
+- Networking and Communications
+- Programming Languages and Compilers
+- Social Computing
+- Software Methodology and Engineering
+- Systems (Including Operating Systems, and Distributed and Parallel Processing)
+- Theoretical Computer Science
+Of the five different courses, one must be from the Theory area. Students must earn an A or B in all of these courses, and more As than Bs total.
+Students who have taken graduate level courses elsewhere before entering the program can petition to have those classes count towards filling the breadth requirement.
+Programming Proficiency Requirement
+In addition, each student must complete a Programming Proficiency requirement. A single class may satisfy both the Programming Proficiency requirement and a Breadth area requirement. The Programming Proficiency requirement must be fulfilled at Georgia Tech and may not be satisfied by transfer credit or advanced standing.
+The courses that can satisfy the Programming Proficiency Requirement are:
+- CS 6210 Advanced Operating Systems
+- CS 6241 Design and Implementation of Compilers
+- CS 6290 High-Performance Computer Architecture
+- CS 6476 Computer Vision
+- CS 7490 Advanced Image Synthesis
+- CS 7492 Simulation of Biology
+- CS 7637 Knowledge-Based AI
+- CS 7643 Deep Learning
+- CS 7646 Machine Learning for Trading
+- CS 7650 Natural Language
+Breadth Component Areas and Classes
+|
+|
+Breadth Area
+|
+|
+Classes
+|Computational Science and Engineering||CSE 6140 Computational Science and Engineering Algorithms
+|
+CSE 6220 High Performance Computing
+CSE 6730 Modeling and Simulation: Foundations and Implementation
+CSE/Math 6643 Numerical Linear Algebra
+CSE/ISYE 6740 Computational Data Analysis
+|Computer Architecture||CS 6290 High Performance Computer Architectures
+|
+CS 7290 Advanced Microarchitecture
+CS 7292 Reliability and Security in Computer Architecture
+Note: students who have not already taken CS 6290 or the equivalent should take CS 6290 to satisfy this requirement. Those who have already taken CS 6290, or CS 4290 (Advanced Computer Organization) or the equivalent, can satisfy this requirement by taking CS 7290 or CS 7292.
+|Database Systems||CS 4420 Database System Implementation
+|
+CS 6400 Database System Concepts and Design
+CS 6411 Object-Oriented Database Models and Systems
+CS 6421 Temporal, Spatial, and Active Databases
+CS 6430 Parallel and Distributed Database Systems and Applications
+|Graphics & Visualization||CS 6421 Temporal, Spatial, and Active Databases
+|
+CS 6476 Computer Vision
+CS 6480 Computer Visualization Techniques
+CS 6491 Computer Graphics
+CS 6780 Medical Image Processing
+CS 7476 Advanced Computer Vision
+CS 7490 Advanced Image Synthesis
+CS 7491 3D Complexity
+CS 7496 Computer Animation
+CS 7497 Virtual Environments
+CS 7636 Computational Perception
+|Human Computer Interaction||
+|
+CS 6451 Introduction to Human-Centered Computing
+CS 7451 Human-Centered Data Analysis
+|Information Security||CS 6238 Secure Computer Systems
+|
+CS 6260 Applied Cryptography
+CS 6262 Network Security
+CS 6265 Information Security Lab
+CS 7560 Theoretical Foundations of Cryptography
+CS 8803 Special Topics: Formal Modeling and Analysis of Computer Systems
+|Intelligent Systems||CS 6601 Artificial Intelligence
+|
+CS 6795 Introduction to Cognitive Science
+CS 7495 Computer Vision
+CS 7620 Case-based Reasoning
+CS 7630 Autonomous Robotics
+CS 7631 Multi-Robot Systems
+CS 7636 Computational Perception
+CS 7637 Knowledge-Based AI
+CS 7641 Machine Learning
+CS 7649 Robot Intelligence: Planning
+CS 7650 Natural Language Understanding
+CS 7695 Philosophy of Cognition
+CSE 6740 Computational Data Analysis
+|Learning Sciences and Technology||CS 6460 Educational Technology: Foundations
+|
+CS 6461 Computing Education Research
+CS 7465 Educational Technology: Design and Evaluation
+CS 7467 Computer Supported Collaborative Learning
+CS 8803 Special Topics: Cognition and Education
+|Machine Learning||
+|
+CS 6476 Computer Vision
+CS 7545 Theoretical Foundations of ML
+CS 7643 Deep Learning
+|Networking and Communications||CS 6250 Computer Networks
+|
+CS 7260 Internetworking Architectures and Protocols
+CS 7270 Networked Applications and Services
+CS 7280 Network Science
+|
+|
+Programming Languages and Compilers
+|CS 6241 Design and Implementation of Compilers
+|
+CS 6245 Compiling for Parallelism
+CS 6390 Programming Language Design
+CS 8803 Special Topics: Topics in Program Analysis
+|Social Computing||CS 6465 Computational Journalism
+|
+CS 6470 Design of Online Communities
+CS 6474 Social Computing
+CS 6675 Advanced Internet Computing Systems and Applications
+CS 7270 Networked Applications and Services
+CS 7460 Collaborative Computing
+CS 7467 Computer-Supported Collaborative Learning
+CS 8893 Special Topics in Cognitive Science: Cognition and Culture
+|Software Methodology and Engineering||CS 6300 Software Development Process
+|
+CS 6301 Advanced Topics in Software Engineering
+CS 6310 Software Architecture and Design
+CS 6320 Software Requirements Analysis and Specification
+CS 6330 Software Generation, Testing, and Maintenance
+CS 6340 Software Analysis and Testing
+CS 8803 Special Topics: Formal Modeling and Analysis of Computing Systems
+|Systems||CS 6210 Advanced Operating Systems
+|
+CS 6235 Real-time Systems
+CS 6365 Introduction to Enterprise Computing
+CS 6675 Advanced Internet Computing Systems and Applications
+CS 7210 Distributed Computing
+|Theory||CS 6505 Computability, Algorithms, and Complexity
+|
+CS 6515 Intro to Graduate Algorithms
+CS 6520 Computational Complexity Theory
+CS 6550 Design and Analysis of Algorithms
+CS 7510 Graph Algorithms
+CS 7520 Approximation Algorithms
+CS 7530 Randomized Algorithm
+CSE 6140 Computational Science and Engineering Algorithms
+Minor
+The minor is a sequence of non-College of Computing courses with a coherent theme, totaling 9 credit hours. These courses should have a subject designator OTHER than "CS/CSE" as reported on your transcript. Their theme should somehow relate to the subject of the student's thesis and research.
+The classes must be taken for a letter grade, with at least a "B" average. Courses should be at the graduate level, but one approved 4000-level course may be used. No more than three of the hours may be directed research.
+After completing all the minor classes, download and fill out the Minor form.
+Qualifying Exam
+As a student's research progresses, he or she must select a primary, and possibly secondary, area of focus from the areas of research in the College and then pass a Qualifier in that area or areas. The Qualifier is a student's first step toward achieving candidacy in the doctoral program. This Qualifier functions as Georgia Tech's Comprehensive Examination. Click here to view the list of areas of research in the College identified for the Qualifier and Breadth Requirements.
+The Exam Committee
+The student must identify a research advisor and an exam committee of at least three other faculty from the area to oversee the Qualifier.
+Results
+- The exam committee is responsible for determining if a student has passed the Qualifier. The results of the Qualifier will be communicated to the school graduate coordinators by the respective area advisor. The student should fill out the Qualifier Form after passing the Exam.
+- Each student is allowed two opportunities to pass both the area knowledge and creativity components of the examination. The two components are treated independently, so a student need not pass both at the same time. Students who are not able to pass the Qualifier after two attempts will be encouraged to seek a Master's degree, and they will not be able to continue in the doctoral program.
+- After successfully completing the Qualifier, student focuses on research leading toward a dissertation. Students should register for doctoral dissertation hours (CS 9000) after passing the Qualifier rather than registering for Special Problems (CS 8903).
+-
+The topic of the student's research is formalized through both a written dissertation proposal and an oral presentation.
+Create a Research Portfolio
+In consultation with your advisor and the committee, assemble a research portfolio before the oral exam. The nature of the portfolio is decided by the committee. The portfolio shall be handed over to the exam committee at least one week prior to the oral exam.
+Schedule the Oral Exam
+Schedule an oral exam in consultation with the committee. The oral exam should preferably be held before the end of the semester. The oral exam date and the names of the exam committee members should be communicated to the PhD Program Coordinator in your school.
+Thesis Proposal
+The PhD. proposal consists of:
+- A proposal document written by the student in which he/she will propose the research work to be undertaken as part of his/her doctoral work and a schedule for completion
+- An oral defense of the proposal document
+Committee
+PhD. proposal will be administered by the student's thesis advisory committee (the advisor plus at least two other faculty members), chosen jointly by the student and the advisor. A majority of the members of the advisory committee must hold their primary appointments on the College of Computing faculty. It is a good practice to have all members (including the external committee member) of your dissertation defense committee in your proposal committee.
+Proposal Announcement
+The proposal must be announced publicly to the College at least one week prior to the date of the oral defense. Please provide a copy of the announcement to the PhD Program Coordinator in your school.
+Format
+There is no fixed format for the oral defense. The advisor, as the chair of the committee, conducts the examination. Here is a typical way in which it may be run:
+- The student will make a presentation to the committee and others present.
+- After the presentation there is a question and answer period. The chair then asks everyone other than the committee members and Georgia Tech faculty to leave. The committee members then have an opportunity to ask more questions. Then the student is asked to leave.
+- The committee deliberates and then decides whether the student has passed the proposal defense. They give feedback to the student on the proposal either individually or through the advisor.
+A student must have passed the qualifying examination to do a PhD. proposal. A student who has passed the proposal defense and has also completed all course requirements (except the minor), maintaining a satisfactory scholastic record, has achieved PhD. candidacy and should submit the Candidacy form.
+Dissertation Defense
+Before the announcement of the public PhD. dissertation defense, your advisor must approve that the dissertation is ready to be given to the dissertation committee, and the dissertation committee must approve that the dissertation is ready for the public dissertation defense. Before giving this approval, the entire committee is expected to have read the dissertation and to have given comments to the student. The committee must approve that a substantial and defensible portion of the dissertation has been completed. Three (3) weeks is a reasonable amount of time for reading the dissertation.
+After the approval, the candidate’s academic department must announce the public dissertation defense at least fifteen (15) days in advance, and it must forward this announcement together with the names of the dissertation committee to the Office of Graduate Studies and Research.
+The public dissertation defense starts with a presentation by the candidate and is followed by a question-answer period. The advisor, who is the chair of the committee, determines who may ask questions and in which order and brings the discussion to a close at the appropriate time. The question-answer period is followed by a closed-door session attended by only the members of the PhD. dissertation committee and interested Georgia Tech faculty.
+The dissertation committee must take one of the following actions:
+- To approve the dissertation without corrections.
+- To approve the dissertation with minor corrections, to be approved by the advisor only.
+- To require a resubmission with major changes and re-approval by the entire committee.
+- Not to approve the dissertation.
+The dissertation committee may recommend one additional defense if the dissertation is resubmitted with major changes or if the dissertation is not approved.
+The candidate must make any corrections deemed necessary by the dissertation committee and the committee must sign the dissertation approval form after the dissertation has been approved. The format of the dissertation must meet the published institute guidelines.
+The candidate must submit the dissertation and the signed dissertation approval form to the Georgia Institute of Technology Office Graduate Studies and Research by the deadline published by the Institute. The deadline is typically 12-14 days before last day of classes. Check the official school calendar.
+Committee
+As mentioned above, your advisor is the chair of your dissertation defense committee. Your committee should be formed of at least five people. At least one faculty member must be from outside CoC (from another unit at Tech or an outsider, and should have a Ph.D.), but the majority must have some CoC faculty appointment.
+Note: You only need to have three people on your committee at the time of your proposal, but it is recommended that you have all five members at that time. All members of your committee should be present for the defense; however, in hardship cases, measures such as conference calls can be used as well.
+Advertising the defense
+The Graduate Studies office asks that you post an announcement of the defense to the git.cc.general and git.announce newsgroups. This should be done at least fifteen (15) working days prior to the defense. The announcement should consist of the day/time/place of the defense, title, abstract, and a list of the committee members. Please provide an electronic copy of this announcement to the PhD Program Coordinator in your school so that s/he may forward it to the GT Graduate Studies department.

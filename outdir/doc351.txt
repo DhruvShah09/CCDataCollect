@@ -1,0 +1,5 @@
+Professor
+http://www.cc.gatech.edu/~dovrolis
+Research Areas: Network Science, Data Mining, Computational Science.
+Biography
+Constantine Dovrolis is a Professor at the School of Computer Science of the Georgia Institute of Technology. He received the Computer Engineering degree from the Technical University of Crete in 1995, the M.S. degree from the University of Rochester in 1996, and the Ph.D. degree from the University of Wisconsin-Madison in 2001. His current research focuses on cross-disciplinary applications of network analysis and data mining in neuroscience and biology. He has also worked on the evolution of the Internet, Internet economics, and on applications of network measurement.

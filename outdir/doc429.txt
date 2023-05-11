@@ -1,0 +1,8 @@
+Professor
+Research Areas: Robotics, Computer Vision
+Biography
+Dr. Dellaert does research in the areas of robotics and computer vision, which present some of the most exciting challenges to anyone interested in artificial intelligence. He is especially keen on Bayesian inference approaches to the difficult inverse problems that keep popping up in these areas. In many cases, exact solutions to these problems are intractable, and as such he is interested in examining whether Monte Carlo (sampling-based) approximations are applicable in those cases.
+Since coming to Georgia Tech Dr. Dellaert has explored the theme of probabilistic, model-based reasoning paired with randomized approximation methods in three main research areas:
+- Advanced sequential Monte Carlo methods
+- Spatio-Temporal Reconstruction from Images
+- Simultaneous Localization and Mapping

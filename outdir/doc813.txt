@@ -1,0 +1,5 @@
+Ph.D. Student
+Research Areas: graph mining, deep learning, cybersecurity, data mining
+Biography
+I work at the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity. My goal is to develop explainable next-generation defenses to protect systems against adversarial attacks.
+Advisor: Duen Horng (Polo) Chau

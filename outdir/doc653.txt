@@ -1,0 +1,4 @@
+Ph.D. Student
+Research Areas: Machine Learning; Computational Neuroscience; Big Data
+Biography
+My research interest lies in the intersection of Artificial Intelligence (AI) and computational neuroscience. The primary focus is to develop mathematical/statistical models for learning meaningful patterns from big data i.e., neuroimaging, and genomics. The intuition is to aid in investigating the underlying mechanism of psychiatric disorders and explaining the disease-oriented deficits. Also, I am interested in designing novel summarization and multi-dimensional clustering algorithms to handle inherent heterogeneity in biological populations. Additionally, I am fascinated to engineer the brain's computational strategies to enhance SOTA AI.

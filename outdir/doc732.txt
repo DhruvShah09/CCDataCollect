@@ -1,0 +1,5 @@
+Assistant Professor
+https://faculty.cc.gatech.edu/~pchen402/
+Research Areas: Scientific machine learning; uncertainty quantification; Bayesian inference; stochastic optimization; parallel computing
+Biography
+Peng Chen is a tenure-track assistant professor in the School of Computational Science and Engineering at Georgia Tech. Previously, he was a Research Scientist working with Prof. Omar Ghattas at the Oden Institute for Computational Engineering and Sciences at University of Texas at Austin. Before joining UT Austin, he spent a year as a lecturer and postdoc working with Prof. Christoph Schwab at ETH Zurich, 2014-2015. He obtained his Master and Ph.D. degrees in Computational Mathematics from EPFL under the supervision of Prof. Alfio Quarteroni and Prof. Gianluigi Rozza in 2011 and 2014, and Bachelor Degree in Mathematics and Applied Mathematics from Xi’an Jiaotong University in China in 2009.

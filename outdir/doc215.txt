@@ -1,0 +1,6 @@
+Professor, Associate Chair for Graduate Studies
+http://www.cc.gatech.edu/~aboldyre
+Research Areas: Cryptography, Information Security
+Biography
+Alexandra Boldyreva is an accomplished researcher in the areas of cryptography and information security who has published nearly three dozen works about public key and other encryption methods and has recieved two test of time awards for her research. She holds partial appointments in the School of Cybersecurity and Prvacy and School of Computer Science.
+Boldyreya also serves as an associate professor for the Georgia Institute of Technology and coordinator for the information security master’s program in the College of Computing. She is also a member of the Institute for Information Security & Privacy (IISP) and the Algorithms, Combinatorics and Optimization program (ACO), and was a past contributor to the IISP's predecessor, the Georgia Tech Information Security Center. She received her doctorate in computer science from the University of California, San Diego and bachelor's in science and master's in science in applied mathematics from the St. Petersburg State Technical University in Russia.

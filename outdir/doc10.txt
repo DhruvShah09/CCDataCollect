@@ -1,0 +1,65 @@
+People
+Design, build, and evaluate systems that treat humans as the central component.
+The People thread is where computing meets users. This thread prepares students by helping them to understand the theoretical and computational foundations for designing, building, and evaluating systems that treat the human as a central component.
+The student who pursues the People thread can combine it with Devices to study human-robot interaction, Information Internetworks to pursue research in data visualization, Intelligence for learning sciences and technology, Systems & Architecture to explore ubiquitous computing, or various other combinations.
+|
+|
+Early Preparation
+|
+|
+|
+|
+Knowledge Goals
+|
+|
+|
+|
+Skill Outcomes
+|
+|
+View the course prerequisites for the People thread.
+Required Courses:
+- CS 1301 Introduction to Computing and Programming, 3
+- CS 1331 Introduction to Object-Oriented Programming, 3
+- CS 1332 Data Structures and Algorithms, 3
+- CS 2340 Objects and Design, 3
+- CS 3750 Human-Computer Interface Design and Evaluation, 3
+- PSYC 1101 Introduction to Psychology, 3 (social science elective)
+- PSYC 2015 Research Methods and Practices, 4
+Pick 1 of Social/Behavioral Science for Computing
+- PSYC 2210 Social Psychology, 3
+- PSYC 2760 Psychology of Human Language, 3
+- PSYC 3040 Sensation and Perception, 3
+Pick 2 of Human-Centered Technology
+- CS 3790 Introduction to Cognitive Science, 3
+- CS 4460 Information Visualization, 3
+- CS 4470 Introduction to User Interface Software, 3
+- CS 4472 Design of Online Communities, 3
+- CS 4605 Mobile and Ubiquitous Computing, 3
+- CS 4660 Introduction to Educational Technology, 3
+- CS 4745 Info & Communication Tech & Global Development, 3
+Elective Courses:
+Free Electives (6 hours)
+- FREE-PEP1 Free Elective-People, 3
+- FREE-PEP2 Free Elective-People, 3
+Educational Technology
+- CS 4660 Introduction to Educational Technology, 3
+- CS 4665 Educational Technology: Design and Evaluation, 3
+- CS 4670 Computer-Supported Collaborative Learning, 3
+Design and Evaluation
+- CS 4472 Design of Online Communities, 3
+- CS 4690 Qualitative Methods, 3
+- CS 4770 Mixed Reality Experience Design, 3
+- PSYC 2020 Psychological Statistics, 4 (Required for PSYC 3011, Requires PSYC 2010)
+Human Cognition and Interaction
+- CS 3790 Introduction to Cognitive Science, 3
+- CS 4793 Perspectives Cognitive Science, 3
+- PSYC 2210 Social Psychology, 3 (Requires PSYC 1101)
+- PSYC 2760 Psychology of Human Language, 3
+- PSYC 3012 Cognitive Psychology, 4 (Requires 2020)
+- PSYC 3040 Sensation and Perception, 3
+- PSYC 4090 Cognitive Neuropsychology, 3
+- PSYC 4260 Aging, 3
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

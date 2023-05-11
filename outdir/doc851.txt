@@ -1,0 +1,5 @@
+Associate Professor
+http://www.cc.gatech.edu/~chernova/
+Research Areas: Robot Learning, Human-Robot Interaction, Explainable AI, AI for Health
+Biography
+Sonia Chernova is an Associate Professor in the College of Computing at Georgia Tech. She directs the Robot Autonomy and Interactive Learning (RAIL) lab, where her research focuses on the development of intelligent and interactive autonomous systems. Chernova’s contributions span robotics and artificial intelligence, including semantic reasoning, adaptive autonomy, human-robot interaction, and explainable AI. She also leads the NSF AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING), whose mission is to develop collaborative AI systems that help support independent home life for older adults experiencing cognitive decline.

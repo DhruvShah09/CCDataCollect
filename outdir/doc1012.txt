@@ -1,0 +1,8 @@
+Ph.D. CS Programming Languages & Compilers Body of Knowledge
+A student has to take three courses as specified below and get an A in all the three courses.
+Three out of the following five courses based on the student’s area and the advisor's recommendation:
+CS 6241: Compiler Design
+CS 6340: Software Analysis & Test
+CS 6390: Programming Languages
+CS 6301: Advanced Topics in Software Engineering
+CS 6245: Parallelizing Compilers

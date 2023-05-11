@@ -1,0 +1,42 @@
+Thread Combination Credit Sheets, Academic Year 22-23
+Note: All excel files on this page make use of macros. Please review the highlighted information at the top of the spreadsheet for details.
+Please consult with your advisor when using these sheets; students are responsible for knowing the details of fulfilling their undergraduate degree requirements.
+|
+|
+Combinations
+|
+|
+Credit Sheet
+|Prerequisite Map|
+|General 8 Semester Plan, No Threads||Credit Sheet||N/A|
+|Devices x InfoInternetworks||Credit Sheet||Degree Map|
+|Devices x Intelligence||Credit Sheet||Degree Map|
+|Devices x Media||Credit Sheet||Degree Map|
+|Devices x Modeling & Simulation||Credit Sheet||Degree Map|
+|Devices x People||Credit Sheet||Degree Map|
+|Devices x Systems & Architecture||Credit Sheet||Degree Map|
+|Devices x Theory||Credit Sheet||Degree Map|
+|InfoInternetworks x Intelligence||Credit Sheet||Degree Map|
+|InfoInternetworks x Media||Credit Sheet||Degree Map|
+|InfoInternetworks x Modeling & Simulation||Credit Sheet||Degree Map|
+|InfoInternetworks x People||Credit Sheet||Degree Map|
+|InfoInternetworks x Systems & Architecture||Credit Sheet||Degree Map|
+|InfoInternetworks x Theory||Credit Sheet||Degree Map|
+|Intelligence x Media||Credit Sheet||Degree Map|
+|Intelligence x Modeling & Simulation||Credit Sheet||Degree Map|
+|Intelligence x People||Credit Sheet||Degree Map|
+|Intelligence x Systems & Architecture||Credit Sheet||Degree Map|
+|Intelligence x Theory||Credit Sheet||Degree Map|
+|Media x Modeling & Simulation||Credit Sheet||Degree Map|
+|Media x People||Credit Sheet||Degree Map|
+|Media x Systems & Architecture||Credit Sheet||Degree Map|
+|Media x Theory||Credit Sheet||Degree Map|
+|Modeling & Simulation x People||Credit Sheet||Degree Map|
+|Modeling & Simulation x Systems & Architecture||Credit Sheet||Degree Map|
+|Modeling & Simulation x Theory||Credit Sheet||Degree Map|
+|People x Systems & Architecture||Credit Sheet||Degree Map|
+|People x Theory||Credit Sheet||Degree Map|
+|Systems & Architecture x Theory||Credit Sheet||Degree Map|
+Contact - Undergraduate Advisors
+Contact:
+advising@cc.gatech.edu

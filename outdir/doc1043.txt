@@ -1,0 +1,10 @@
+Team IDs Real-world Vulnerabilities In Popular Browser During Premier Hackathon
+A team of College of Computing students came in second at Pwn2Own, one of the world’s top hacking competition.
+School of Computer Science (SCS) Associate Professor Taesoo Kim’s Systems Software & Security Lab (SSlab) Ph.D. students Insu Yun, Yong Hwi Jin, and Jung Won Lim competed in the annual event. Their objective was to exploit popular software with unknown vulnerabilities.
+“As a hacker studying offensive security, we always dreamed of participating in Pwn2Own,” Yun said.
+The SCS team exploited Apple’s Safari internet browser. Although the browser category is known to be more difficult, the team was attracted to how technically interesting the challenge was, according to Yun.
+The team was also set up for success because the underlying Safari operating system is *nix, a category the team members were familiar with. Adding to their advantage, they also had written an exploit for Safari just last July so they were able to apply that knowledge here as well.
+Multiple vulnerabilities are required to attack a modern browser. The team found new six vulnerabilities to compromise Safari, all of which were later confirmed by Apple. To exploit as many vulnerabilities as possible, they used several approaches, including fuzzing, source code review, and reverse engineering.
+Ultimately, the competition allowed the team to sharpen skills they can bring back to their SCS research, such as designing automatic tools to find bugs, and identifying vulnerabilities on complex, real-world programs.
+“SSlab gave us the opportunity to make a such wonderful team because our
+lab is one of the best information security labs in the world with many talented students.”

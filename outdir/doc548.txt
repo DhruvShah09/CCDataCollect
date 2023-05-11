@@ -1,0 +1,4 @@
+Assistant Professor
+Research Areas: Cryptography; Cybersecurity; Theoretical Computer Science
+Biography
+Before coming to Georgia Tech, Joseph was a postdoctoral scholar with Stefano Tessaro at the University of Washington. He obtained his Ph.D. in Computer Science at the University of California, San Diego under the guidance of Mihir Bellare. He earned a bachelor's in Computer Science and Mathematics at Rutgers University where David Cash introduced him to the fascinating worlds of cryptography and academic research.
